@@ -1,0 +1,51 @@
+# Askites
+
+Alla olevat ohjeet ja kuvat ovat pitkälti [tältä todella hyvältä Jason Williamsin videolta](https://youtu.be/dUaCWK3qoHM?si=knKxswGwp-eyTIW0) kerättyjä.
+
+## Anturi
+
+## Hyvän taskun löytäminen {#Tasku}
+
+Jotta löytää mahdollisimman hyvän nestekertymän punktoitavaksi, niin kannattaa aloittaa ihan fyysisesti asennoimalla potilas niin, että nestetasku tyypillisissä pistokohdissa on maksimaalisen suuri. Koska punktio tehdään yleensä alaneljänneksiltä (ilman ultraääntä tyypillinen pistokohta on yleensä n. 3cm päähän päin ja 3cm mediaalisesti spina iliaca anterior superiorista), niin kannattaa siis aloittaa nostamalla sängyn päätyä, jotta painovoima saa vedettyä nestettä vatsaontelon alaosiin helpommin. Tämän jälkeen tulee skannata molemmat alaneljännekset kahdessa tasossa, löytää suurin nestetasku ja hieman pyöräyttää potilasta sille puolelle. 
+
+Turvallisen kertymän tulisi olla n. 3cm x 3cm x 3cm. Jos kertymä on tätä pienempi, niin parasenteesi tulisi vähintäänkin tehdä jatkuvan ultraäänivisualisaation aikana (dynaaminen tekniikka). 
+
+![](images/askiteshyvätasku.png)
+
+### Skannaaminen kahdessa tasossa 
+
+Vaikka yhdellä anturin orientaatiolla löytäisi hyvän nestekertymän, niin tulisi skannata myös vähintäänkin kohtisuora orientaatio, jotta voi nähdä läheisiä rakenteita paremmin. Erityisesti tulisi siis etsiä pitkittäisleikkeestä (anturin orientaatio potilaan pitkittäisakselin (jalat-pää) mukaisesti) ipsilateraalinen maksa tai perna (ja munuainen). Ne voivat olla yllättävän lähellä ja niiden lähelle tehtävää punktiota tulisi mahdollisuuksien mukaan välttää (probea voi siis liu'uttaa jalkoihin päin niistä poispäin). 
+
+![](images/2maksa.png)
+
+## Miten vähentää verenvuotoriskiä? 
+
+Verenvuoto on askitespunktion yleisin komplikaatio, mutta toimenpidettä edeltävällä ultraäänitutkimuksella saa minimoitua tämän riskin todella matalaksi. 
+
+Yleinen ohje ilman ultraääntäkin on se, että punktiossa tulisi välttää suorien vastalihasten faskiatuppea (rectus sheath), koska siinä kulkee epigastriset valtimot ja laskimot. Yleisimmin vaurioituva valtimo on juuri a. epigastrica inferior. Tyypillisimmin se tulee vältettyä jo ihan visuaalisesti arvioimalla rectustupen alue ja pistämällä siitä lateraalisesti (on myös muita pistolokaatioita, mutta lateraalinen on yleisin). 
+
+Usein kuitenkin askiteksen venyttäessä kudoksia, on vaikeaa erottaa, missä vatsalihakset oikeasti kulkevat. Varsinkin näissä tapauksissa on ultraääniselvittelyistä hyötyä. 
+
+![](images/findtheepigastricarteryandvein.png)
+![](images/epomedicine.png)
+
+---
+
+Merkittävät verisuonet saa esiin skannaamalla toimenpidealuetta neljässä suunnassa ja arvioimalla subkutaanisia faskiatasoja. Paras anturi tämän suhteen on lineaarinen anturi. 
+
+Suonia kannattaa skannata neljässä tasossa sekä myös anturia vähän näissä tasoissa tiltaten, jotta nostaa todennäköisyyttä löytää kaikki merkittävät suonet. Suonet tulevat parhaiten näkyviin, kun anturi on kohtisuorassa niiden suhteen. Suonet kulkevat vatsaontelon seinämässä eri kulmissa ja täten eri kulmissa skannaaminen on hyödyllistä. Myös doppleria kannattaa käyttää näissä skannaustasoissa, jotta voi nähdä muuten heikosti visualisoituvat suonet (doppler on tässä jokseenkin heikko herkkyydeltään, mutta korkea tarkkuudeltaan). 
+
+Merkittävät suonet yleensä tunnistaa siitä, että näkee kaksi suonta yhdessä; nämä ovat käytännössä aina valtimo ja laskimo. Tällaista "double vessel sign"-kohtaa kannattaa välttää. 
+
+![](images/4planes.gif)
+![](images/vesselfindingcompilation.png)
+
+## Pistoreitin suunnittelu {#Pistoreitti}
+
+Viimeistään toimenpidettä edeltävästi kannattaa anturin kulmaa muuttamalla vielä selvitellä nestetaskun muotoa ja kokoa. Kun löytää sopivan kulman, jossa tasku on suurin ja reitti näyttää turvallisimmalta, niin kannattaa painaa mieleen anturin senhetkinen kulma ja myös pistää neula läpi tässä kulmassa. 
+
+Kannattaa myös katsoa, kuinka paksu vatsanseinämä on suunnitellussa pistokohdassa: tämä auttaa itse toimenpiteessä paljon, kun jo etukäteen tietää, kuinka pitkä matka lävistettävään peritoneumiin on. Vatsanseinämän ja lisäksi askitesnestekertymän paksuuden tietäminen auttaa myös sen arviossa, kuinka syvälle katetri viedään (sitä ei tulisi vielä suoleen saakka, koska suoli voi tukkia imukanavia ja sitä kautta estää dreneerausta). 
+
+
+![](images/angleofapproach.png)
+![](images/abdominalwallthickness.png)

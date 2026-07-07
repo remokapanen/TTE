@@ -1,0 +1,692 @@
+# Diastoliikka 
+
+Diastoliikka (diastology) viittaa vasemman kammion relaksoitumisen ja täyttymisen (diastolisen vaiheen) tutkimiseen ja arvioimiseen. Diastolisella dysfunktiolla siis yleensä tarkoitetaan vasemman kammion relaksoitumisen heikentymistä ja lisääntynyttä non-komplianssia. 
+
+Systolessa konsentriset säikeet supistavat vasenta kammion vähän kuin märkää rättiä väännettäisiin. Normaalissa diastolessa LV aktiivisesti kiertyy toiseen suuntaan ja suoristuu. Usein puhutaan "passiivisesta" täyttymisestä, mutta diastole on kylläkin ATP:ta vaativa energiaa kuluttava prosessi. Vasemman kammion relaksoituminen aiheuttaa LV:n paineiden tippumisen, mikä avaa mitraaliläpän ja mahdollistaa veren imeytymisen painegradientin mukaisesti vasemmasta eteisestä (LA) vasempaan kammioon. Diastolisessa dysfunktiossa relaksoituminen on heikentynyttä ja tämä nostaa LV:n paineita, LA:n paineita sekä johtaa LA:n dilatoitumiseen. 
+
+**Tärkeimpiä UKG-mittareita diastolisen funktion arvioimisessa ovat mitraalisisäänvirtaukset ja niiden nopeudet (E- ja A-aallot) ja mitraaliläpän annuluksen nopeudet kudosdopplerilla (E'-aalto lateraalisesti ja/tai septaalisesti).** Lisäksi voidaan käyttää mm. vasemman eteisen tilavuutta (LAVi) ja trikuspidaalivuodon nopeuksia epäsuorina tukevina mittareina. Harvoin voidaan myös hyödyntää mm. aorttaläpän avautumisen ja mitraaliläpän sulkeutumisen intervallia (IVRT) ja jopa keuhkolaskimovirtauksia. Käydään läpi gradeerausalgoritmi myöhemmin tässä kappaleessa.
+
+**Käytännössä diastoliikan UKG-mittauksilla yritetään kudosnopeuksien mittaamisen lisäksi veikata, onko tutkittavan vasemman kammion täyttöpaine normaali vaiko epänormaali.** Todellisen täyttöpaineen kuitenkin voisi saada selville vain viemällä painevaijerin kajoavasti tutkittavan sydämeen. "Vasemman kammion täyttöpaineet" on väljä termi, jota on myös kritisoitu, koska se ei tee selkeäksi sitä, tarkoitetaanko sillä vasemman kammion loppudiastolista painetta (LVEDP) vai vasemman eteisen keskipainetta (LAP). LVEDP on siis paine vasemman kammion sisällä sen ollessa maksimaalisesti täytetty; se on parempi kuvastamaan vasemman kammion toimintaa ja jäykkyyttä. LAP taas kuvastaa painetta vasemman eteisen sisällä ja kuvastaa keuhkoverenkierron hemodynaamista loadia ja on parempi kuvastamaan riskiä keuhkokongestiolle. 
+
+<li>Korkea LAP ei suoraan kuvasta korkeaa LVEDP:tä, vaikka LAP:tä käytetäänkin UKG:ssa LVEDP:n epäsuorana mittarina; esimerkiksi mitraalistenoosissa vasemman eteisen paineet ovat korkeat tiukasta mitraaliläpästä johtuen (eteinen joutuu puristamaan pienen aukon läpi saman määrän verta -> painegradientin tulee nousta.</li>
+<li>Korkea LVEDP yleensä heijastuu korkeana LAP:nä, koska jos kammio on jäykkä/sen sisällä on korkea paine, niin eteisen pitää tuottaa korkea paine työntääkseen verta kammioon. Kuvittele vasen kammio tyhjänä ilmapallona. Kun puhallat ilmapalloon ilmaa (eli veri virtaa sisään), ilmapallon sisälle muodostuu painetta. Tämä on sitä täyttöpainetta. Jos ilmapallo on jäykkä, niin sen täyttymisen mahdollistaminen vaatii korkeamman puhaltamisella aiheutettavan paineen. Samoin LV:n diastolisen funktion heikentyessä LA:n kohoneet paineet enemmänkin työntävät verta vasempaan kammioon sen sijaan että sitä "imettäisiin" hyvin relaksoituvaan kammioon. </li>
+  <ul>
+    <li>Tämän ymmärtäessään voi myös tehdä seuraavan päätelmän: **jos potilaalla on merkittävä systolinen dysfunktio, hänellä on käytännössä aina myös diastolinen dysfunktio.** Ejektiofraktion laskiessa verta jää taakse vasempaan kammioon systolen jälkeen normaalia enemmän. Kun diastole alkaa ja uutta verta virtaa kammioon, on se jo valmiiksi osittain täynnä tätä jäännösverta. Koska kammio on jo normaaliin verrattuna valmiiksi enemmän täyttynyt, niin sen täyttäminen lisää vaatii korkeampia paineita vasemman eteisen suunnalta. Samalla kammion loppudiastolinen kokonaistilavuus verta nousee normaaliin verrattuna. Suuri nestemäärä rajoitetussa tilassa nostaa väistämättä kammion sisäistä painetta — eli täyttöpaineet kohoavat.</li>
+    <li>Toisin päin sääntö ei päde: voi olla vaikea diastolinen dysfunktio ja kohonneet LV:n täyttöpaineet, vaikka systolinen toiminta ja ejektiofraktio olisivat täysin normaalit (esim. 60 %). Tällöin on kyseessä HFpEF eli heart failure with preserved ejection fraction.</li>
+    <li>Kohonneet täyttöpaineet johtavat kuitenkin potilaan kannalta usein täysin samoihin oireisiin (kuten hengenahdistukseen ja nesteen kertymiseen), johtuivatpa ne sitten kammion kankeudesta tai heikon pumppauksen aiheuttamasta ylitäyttymisestä.</li>
+  </ul>
+  
+![](images/pcwpcorrelates.png)
+
+## Mitraalisisäänvirtaukset (Mitral inflow) {#Mitral-inflow}
+
+Sinusrytmissä veri virtaa diastolessa vasempaan kammioon kahdessa aallossa: 
+
+<li>Ensin E-aalto (early wave), joka syntyy vasemman kammion relaksoituessa ja mitraaliläpän avautuessa</li>
+  <ul>
+    <li>E-aallon nopeus kuvastaa LA:n ja LV:n välistä painegradienttia alkudiastolessa. Tämän takia E-aallon huippunopeus on hyvä vasemman eteisen paineiden (LAP) kuvastaja.</li>
+  </ul>
+<li>Sitten diastaasin (vähäisen virtauksen) jälkeen A-aalto (atrial wave), joka syntyy myöhemmin vasemman eteisen supistuessa (eteissystole) ja työntäessä verta vasempaan kammioon</li>
+  <ul>
+    <li>**HUOM! Jos tutkittava on eteisvärinässä, vasemmassa eteisessä ei ole kunnon synkronoitua supistelua vaan kaoottista värinää, jolloin A-aaltoa ei nähdä.**</li>
+  </ul>
+
+--- 
+
+**Mitraalisisäänvirtauksia mitataan apikaalisesta nelilokerokuvasta asettamalla Pulse Wave -dopplerin sample gate mitraaliläpän purjeiden kärkien maksimaalisen avautumiskohdan väliin.** Sitten PW-nappia painamalla saa mitattua sisäänvirtauskäyrät. 
+
+Huomioi taas alla olevista kuvista, että ne ovat tyypilliseen tapaan kuvattu siten, että anturin nypy on potilaan vasemmalla -> sydän piirtyy A4C:ssä niin, että vasen puoli on oikealla. 
+
+![](images/mitralinflowtutorial.png)
+![](images/mitralinflowexample.png)
+![](images/ea.png)
+
+## Kudosdoppler (TDI)
+
+Perinteisellä dopplerilla (CW tai PW) tehdään mittauksia veren virtauksista sydämessä, kun taas kudosdopplerilla (tissue doppler imaging, TDI) sen sijaan tarkastellaan myokardiumin nopeuksia. Yksi tärkeä osa diastoliikasta onkin kammion relaksoitumisnopeus. Mitraalisisäänvirtaukset ovat herkkiä mm. preloadin muutoksille ja eivät täysin suoraan kuvasta vasemman kammion relaksoitumista. TDI taas on suora mittari vasemman kammion relaksaatiokyvystä ja kuuluukin diastoliikan perusmittauksiin.
+
+Vasemman kammion diastoliikkaa arvioitaessa sample gate viedään **apikaalisessa nelilokerokuvassa pallohiirellä lateraaliseen ja/tai septaaliseen mitraaliläpän annulukseen.** UKG-laitteesta painetaan painiketta TDI ja heti perään painiketta PW; joissain laitteissa TDI aloittaa suoraan PW-mittauksen TDI-napin painalluksesta. Tavoite olisi, että kulma mittauslinjan ja annulaarisen liikkeen välillä olisi mahdollisimman samansuuntainen (n. 0-20 astetta yleensä hyvä). 
+
+<li>Yleisimmin tehdään mittaukset vähintään lateraaliannuluksesta, mutta jos ehtii, niin olisi hyvä ottaa sekä lateraalinen että septaalinen mittaus, jotta saa niiden keskiarvon kautta luotettavamman arvion koko kammion toiminnasta.</li>
+  <ul>
+    <li>On kuitenkin hyvä tiedostaa, että on tilanteita, joissa kannattaa välttää toista puolta sen mekaanisen tai sähköisen häiriintymisen takia; lisää näistä vähän alempana sudenkuoppia käsittelevässä osiossa.</li>
+  </ul>
+
+![](images/tdi.png)
+![](images/suboptimaldti.png)
+
+Täten tarkasteltuna nähdään taas mitraalisisäänvirtauksien tapaan tyypillisesti kaksi erillistä aaltoa, mutta tällä kertaa ikään kuin käänteisinä, alaspäin suuntautuvina. Näitä kutsutaan e’- ja a’-aalloiksi tässä yhteydessä (lausutaan englanniksi “e prime” ja “a prime”). Voidaan myös käyttää termejä Ea ja Aa -- pieni a merkitsee annuluksesta tehttyjä mittauksia (jos olisi myokardiummittauksia, niin pientä m-kirjainta käytettäisiin). 
+
+<li>E' siis kuvastaa aikaista diastolea, kun vasen kammio relaksoituu aktiivisesti. Systolen aikana sydänlihas on supistunut ja vetänyt mitraaliannulusta kohti sydämen kärkeä puristaakseen verta ulos kammiosta. Relaksoituessaan sydän oikaisee itsensä ja mitraaliannulus nousee nopeasti takaisin leposijaintiinsa. **Koska liike diastolessa on siis poispäin anturista, niin tämä nähdään aaltokäyrällä negatiivisena deflektiona.**</li>
+<li>A' taas kuvastaa myöhäistä diastolea, kun vasen eteinen puristaa loput veret kammioon (atrial kick, eteissystole). Tämä eteisen supistuminen vetää mitraaliannulusta poispäin anturista ja tämä taas näkyy negatiivisena deflektiona.</li>
+  <ul>
+    <li>**Kuten myös mitraalisisäänvirtauksissa, niin a' katoaa, jos potilas on eteisvärinässä.**</li>
+    <li>**A':n mittauksia ei useimmiten suoriteta, koska niiden kliininen käyttöarvo on todella vähäinen**</li>
+  </ul>
+<li>Lisäksi käyrällä näkyy ns. s'-aalto (tai voi merkata Sa) eli systolinen aalto. Systolessa mitraaliannulus siis liikkuu kohti anturia ja näkyy positiivisena deflektiona. Se kuvastaa kammion pitkittäissupistuvuutta ja korreloi ejektiofraktiomittausten kanssa.</li>
+  <ul>
+    <li>Normaalisti mitraaliläpän lateraalisen annuluksen s':n maksiminopeus on n. >8-10cm/s ja alentunut on <8cm/s.</li>
+    <li>S':n mittauksia käytetään kuitenkin aika harvoin vasemman kammion systolisen funktion arvioimisessa, mutta oikean kammion systoliikassa sitä hyödynnetään jokseenkin usein (lateral tricuspid annulus s' velocity). Tästä lisää oikeaa kammiota käsittelevässä kappaleessa.</li>
+  </ul>
+
+![](images/tditracing.png)
+![](images/ivrtwhere.png)
+![](images/diastologyexplained.png)
+![](images/sea.png)
+
+## Tulkinta ja gradeeraus 
+
+Koska mitraalisisäänvirtaukset eivät ole suora relaksaation mittari (ovat vain epäsuora vasemman eteisen paineiden arviointityökalu), niin mittaukset tulisi periaatteessa aloittaa kudosdopplerista ja e':n huippunopeudesta. Nykyisten [ASE:n guidelinejen](https://www.asecho.org/wp-content/uploads/2025/07/Left-Ventricular-Diastolic-Function.pdf) perusteella **diastoliikan arvion ensimmäinen vaihe on osoittaa e':n kautta hidastunut LV:n relaksaatio, jonka jälkeen tutkitaan, ovatko täyttöpaineet koholla mittaamalla E-aalto (ja siitä E/e' -suhde) ja myös arvioidaan, onko kohonneet paineet heijastuneet jo sydämen oikealle puolellekin (trikuspidaalivuodon nopeus ja gradientti). Lopulta gradus määritetään täyttöpatternin perusteella.** Tarvittaessa voidaan käyttää myös epäsuoria tukimittauksia, kuten keuhkolaskimovirtauksia (näistä lisää tämän kappaleen lopussa), vasemman eteisen tilavuutta (LAVi) tai IVRT:n kestoa. Myös jos on mahdollisuus strain-kuvantamiseen, niin sitä voi käyttää (LARS eli Left Atrial Reservoir Strain). Vielä harvinaisemmin käytettyjä vaihtoehtoisia tukimittauksia on myös olemassa; esimerkiksi mitraalisisäänvirtauksien L-aallon nopeus on mahdollinen mittari; L-aalto ≥50 cm/s osoittaa heikentynyttä LV:n relaksatiota ja kohonnutta vasemman eteisen painetta (LAP). Toinen mahdollinen mittaus on tutkia mitraalisisäänvirtaukset potilaan valsalvatessa; E/A-suhteen laskeminen vähintään 50% valsalvatessa on spesifistä kohonneelle LAP:lle. Nämä ja muitakin vaihtoehtoisia metodeita käydään läpi linkatussa guideline-pdf:ssä.
+
+Käydään seuraavaksi läpi tyypillinen diastoliikan arvioimisen workflow vaiheittain. Käydään alla oleva gradeerausalgoritmi tarkemmin läpi tämän jälkeen.
+
+![](images/diastoliikkaalgoase.png)
+
+### Vaihe 1 - e' LV:n relaksaation markkerina {#Vaihe-1}
+
+E' eli kammion alkudiastolinen relaksaatio mitraaliläpän avautuessa on ehkä tärkein markkeri osoittamaan suoraan kammion relaksaatiokykyä, koska se kuvastaa itse lihaksen nopeutta eikä veren virtausnopeuksia, joihin voi vaikuttaa monet asiat. A':n mittaaminen on yleensä hyödytöntä, joten sitä ei tarvitse rutiinisti ottaa tai lausua.
+
+Kuten aikaisemmin mainittiin, niin e':n yleisin mittauspaikka on lateraalisesti, mutta oikeaoppisesti se tulisi mitata sekä septaalisesti että lateraalisesti. E'-nopeuksille on saatavilla iän mukana muuttuvat viitearvot, mutta yleensä riittää, että muistaa ulkoa vain vanhusten (>65-vuotiaiden) patologiset rajat: 
+
+<li>septaalinen e' (sep e') ≤6 cm/s tai</li>
+  <ul>
+    <li>Septaalinen e' on yleensä lateraalista hieman pienempi, koska septaalinen annulus on enemmän ankkuroitu (esim. intervalvulaarinen fibroosa (anteriorisen mitraaliläpän purjeen ja aorttaläpän non-koronaarikuspin välinen avaskulaarinen sidukodskalvo)) verrattuna "vapaan seinämän" lateraaliseen annulukseen.</li>
+    <li>Poikkeus säännölle on konstriktiivinen perikardiitti, jossa vapaa seinämä kalsifikoituu ja siten pääasiassa lateraalinen e' hidastuu.</li>
+  </ul>
+<li>lateraalinen e' (lat e') ≤7 cm/s tai</li>
+<li>keskiarvo e' (avg e') ≤6.5 cm/s</li>
+
+---
+
+**Vaikka e' olisikin normaali, niin diastolista dysfunktiota ei ole poissuljettu,** joten tulee jatkaa mittausten suorittamista. Vaikka e'-aalto on huomattavasti itsenäisempi kuin veren virtausnopeudet, sekin reagoi jossain määrin sydämen sisäisiin paineisiin ja absoluuttisia poissulkukriteereitä diastolisen vajaatoiminnan suhteen ei ole. 
+
+![](images/eprimeages.png)
+
+### Vaihe 2 - E/e' vasemman eteisen paineiden mittarina {#Vaihe-2}
+
+**Mitraalisisäänvirtauksista arvioidaan erityisesti E-aalto, E- ja A-aaltojen välinen suhde ja myös jo aikaisemmin mitatun e':n kautta E/e'-suhde.** Kone laskee E/A- ja E/e'-suhteet automaattisesti. **Aloitetaan E/e'-suhteesta. Se voidaan laskea niin lateraalisen tai septaalisen e':n kautta, mutta taas keskiarvo on paras.**
+
+E-aallon nopeus nousee vasemman eteisen paineiden noustessa, koska veri "räjähtää" ulos korkeapaineisesta eteisestä nopealla vauhdilla mitraaliläpän avautuessa. Näin voi käydä esimerkiksi juuri diastolisessa vajaatoiminnassa, mutta myös mm. nesteylimäärässä ilman vajaatoimintaakin. E-aalto voi myös olla nopea nuorilla urheilijoillakin, vaikka eteisen paineet eivät olisikaan koholla, koska vasen kammio on niin vieterimäinen, että se relaksoituu nopeasti ja imee eteisestä verta nopealla vauhdilla. Täten pelkästään E-aallon nopeudesta ei voi suoraan päätellä täyttöpaineiden koholla olemista. 
+
+**E/e'-suhde auttaa tutkimaan, johtuuko nopeat mitraalivirtaukset enemmänkin diastolisesta dysfunktiosta vai jostain muusta.** Suhde on patologinen, kun:
+
+<li>E/sep e' ≥ 15 tai</li>
+<li>E/lat e' ≥ 13 tai</li>
+<li>E/avg e' ≥ 14</li>
+  <ul>
+    <li>Välillä 8-13 ollaan ns. "harmaalla alueella", mutta < 8 suurella todennäköisyydellä viittaa normaaleihin täyttöpaineisiin.</li>
+  </ul>
+
+---
+
+E'-aallon hidastuessa suhde siis nousee ja tämä auttaa suhteuttamaan mitraalisisäänvirtauksen E-aallon nopeuden vasemman kammion relaksaatiotoimintaan. Verrataan kahta esimerkkitilannetta: 
+
+<li>Potilas A on nuori oireeton urheilija, jonka E-aalto on nopeahko -- esimerkiksi 1.0 m/s (normaali on tyypillisesti noin välillä 0.6-1.3 m/s)</li>
+  <ul>
+    <li>Hänellä kuitenkin e' on korkea esim. n. 15 cm/s, koska nuoren urheilijan lihas on tehokas vieteri. Tällöin E/e'-suhde on n. 6.7 (normaali, matala suhde) -> nopean E-aallon aiheutti terveen vasemman kammion imufunktio, ei korkea eteispaine.</li>
+  </ul>
+<li>Potilas B on hengenahdistusta valittava vanhus; E-aalto on hänelläkin esimerkiksi taas 1.0 m/s</li>
+  <ul>
+    <li>Hänellä kuitenkin e' on matala esim. n. 5cm/s, koska sementtimäinen kammio ei veny nopeasti. Tällöin E/e'-suhde on 20 (koholla) -> nopean E-aallon voi päätellä johtuvan vasemman eteisen korkeista paineista vasemman eikä niinkään hyvästä imufunktiosta.</li>
+  </ul>
+
+### Vaihe 3 - E/A-suhde {#Vaihe-3}
+
+Algoritmisesti E/A-suhteen katsominen kuuluu gradeeraukseen vasta myöhemmin, mutta oikeassa työjärjestyksessä se tulee mitattua jo tässä kohtaa. E-aallon huipun mittaamisen jälkeen otetaan siis samalla heti A-aallon huippu, jos se on nähtävillä. **E- ja A-aaltojen maksiminopeuksien suhteesta (E/A) eli ns. täyttöpatternista** voidaan päätellä vasemman eteisen painetilannetta ja vasemman kammion täyttöpaineita.
+
+<li>**Normaali E/A-suhde nuorilla terveillä potilailla on 1-2 (virallisesti 0.8-2)**</li>
+  <ul>
+    <li>Yleensä siis E-aalto on hieman isompi kuin A-aalto, mikä tarkoittaa, että suurin osa vasemman kammion täyttymisestä tapahtuu vasemman kammion relaksoitumisen takia ja pienempi osa myöhemmin eteissystolessa. Kuitenkin normaalitilanteessakin sallitaan A-aallon olevan hieman isompi kuin E-aalto (tämän takia normaaliväli menee alle 1:n).</li>
+  </ul>
+<li>**Normaalissa ikääntymisessä tai lievässä diastolisessa dysfunktiossa E/A-suhde alkaa vähentymään eli tippuu tasolle E/A ≤ 0.8 (täyttöpatternin nimi on "abnormal relaxation")**</li>
+  <ul>
+    <li>Ikääntyessä siis E/A-suhde alkaa ihan luonnollisesti tippumaan ja tämä ei sinänsä ole itsessään patologinen löydös, vaan on ns. "age-related diastolic change", joka johtuu sydänlihaksen elastisiteetin vähentymisestä.</li>
+    <li>Kammion relaksoitumisen (eli siis periaatteessa e':n) hidastuessa kammio ei enää ime yhtä voimakkaasti verta vasemmasta eteisestä alkudiastolessa, jonka takia E-aallon huippunopeus laskee. Samalla A-aalto suurenee, kun vasemman kammion täyttymisen pitää nojata enemmän loppudiastoliseen eteissupistukseen. E/E' suhde ei yleensä nouse vielä merkittävän patologiseksi (voi olla harmaalla alueella kylläkin, mutta yleensä E/e' on alle 10).</li>
+    <li>Jos E/A on muuten terveellä nuorella potilaalla <0.8-1, niin yksi yleinen syy on mm. hypovolemia. Tietysti myös nuorilla voi olla alkavaa diastolista dysfunktiota (esim. hypertrofinen kardiomyopatia tai aikainen hypertensio).</li>
+    <li>Myös vanhuksella E/A alle 0.8 voi olla patologinen, jos muut löydökset viittaavat gradus I:tä pahempaan diastoliseen dysfunktioon; yleensä kylläkin näissä tapauksissa on joko gr II:n pseudonormalisaatiota tai gr III:n E/A-suhteen nousua.</li>
+  </ul>
+<li>**Diastolisen toiminnan heikentyessä entisestään tapahtuu ns. pseudonormalisaatio eli E/A-suhde nousee takaisin normaalille tasolle 0.8-2.**</li>
+  <ul>
+    <li>Vasen kammio siis jatkaa jäykistymistään ja tästä johtuen verta pakkautuu enemmän vasempaan eteiseen, mikä johtaa vasemman eteisen paineiden (LAP) nousuun. Kun mitraaliläppä sitten avautuu alkudiastolessa, niin LA:n korkeat paineet purkautuvat korkeagradienttisesti eli korkealla nopeudella vasempaan kammioon. Tämän takia E-aalto taas nousee ja E/A-suhde "normalisoituu". Kyseessä ei kuitenkaan ole normaalitoimintainen sydän, joten täyttöpatternia kutsutaan "pseudonormaaliksi".</li>
+    <li>**Suurimmalla osalla vanhuksista normaalilta näyttävä E/A-suhde ei oikeasti ole normaali.** Pseudonormaalin ja normaalin täyttöpatternin erottamisessa auttaa mm. e':n mittaaminen: E/e' suhde on pseudonormaalissa tilanteessa yleensä patologisesti koholla tai harmaalla alueella toisin kuin täysin terveessä sydämessä.</li>
+  </ul>
+<li>**Kunnollisessa diastolisessa dysfunktiossa E/A-suhde jatkaa nousuaan eli E/A-suhde ≥ 2 (täyttöpatternin nimi on "restrictive filling")**</li>
+  <ul>
+    <li>Nyt jo merkittävästi heikentynyt vasemman kammion relaksaatio johtaa merkittävästi suurentuneisiin vasemman eteisen paineisiin, jotka purkautuvat todella kovalla nopeudella vasempaan kammioon alkudiastolessa. Samalla A-aalto pienenee johtuen siitä, että vasen kammio täyttyy normaalia nopeammin -- sen komplianssi on pieni ja voimakas E-aalto täyttää heikosti suurentuvan kammion nopeasti (tästä johtuen E-aallon hidastuvuusaika laskee todella pieneksi, koska vasen kammio ei pysty vastaanottamaan virtausta kovinkaan pitkään). Kun vasen eteinen yrittää vielä loppudiastolessa puristaa verta kammioon, niin kammio on jo jäykkä ja täynnä eikä vasen eteinen pysty ylittämään tätä painetta merkittävästi -> A-aallossa virtaava veren määrä laskee. Samalla kroonisessa tilanteessa eteisen pitkäaikaisesti korkea painetila on johtanut eteisen laajentumiseen ja väsymiseen, mikä johtaa suoraan lihastoiminnan alenemiseen.</li>
+    <li>Lopputuloksena on siis normaalia nopeampi E-aalto ja samalla hitaampi A-aalto -> E/A-suhde nousee patologisen korkeaksi.</li>
+    <li>On kuitenkin tiedostaa, että nuorilla terveillä potilailla E/A-suhde voi olla yli 2, koska vasen kammio relaksoituu niin tehokkaasti, että E-aalto on merkittävän nopea imufunktiosta johtuen ja A-aalto on pieni, koska kammio täyttyy jo niin hyvin alkudiastolessa, että eteissystoleen ei tarvitse nojata paljoakaan. Tässäkin tapauksessa erityisesti e'-nopeuksien arvioiminen auttaa erottamaan normaalin tilanteen patologisesta.</li>
+  </ul>
+
+![](images/earatio.png)
+![](images/eagrades.png)
+
+### Vaihe 3.5 - E-aallon hidastuvuus {#Vaihe-35}
+
+Kun on jo mitraalisisäänvirtauskäyrän kerännyt, niin samalla voi jaksaessaan mitata myös E-aallon hidastuvuuden (deceleration time, DT), vaikka se ei kuulukaan ASE:n diastoliikka-algoritmiin. Sitä voidaan kuitenkin käyttää tukevana arvona -- varsinkin silloin kun E/A-suhdetta ei ole käytössä esim. eteisvärinästä johtuen (tosin tällöin DT voi vaihdella ja kannattaa ottaa keskiarvo monesta lyönnistä). 
+
+DT:n mittaaminen suoritetaan piirtämällä E-aallon laskevan puolen kulmakertoimen mukaisesti aallonkäyrän jatke niin, että se leikkaa peruslinjan. Aika E-aallon huipusta tähän leikkauskohtaan on DT.
+
+DT:n kehittymistä voi verrata E/A-suhteeseen -- se muuttuu ennustettavasti diastolisen dysfunktion laskiessa:
+
+<li>**Normaalitilanteessa DT on lähteestä riippuen välillä 150-240ms tai 160-240ms**</li>
+<li>**Normaalissa ikääntymisessä tai alkavassa diastolisessa dysfunktiossa DT pitenee (>240ms)**</li> 
+  <ul>
+    <li>Johtuu lievästi heikentyneestä relaksaatiosta -- aktiivisen rentoutumisen hidastuessa sydänlihaksen kanssa kammioiden välisen paineen tasoittumisessa kestää pidempään</li>
+  </ul>
+<li>Sydänlihaksen jäykistyessä entisestään vasemman eteisen paine alkaa nousemaan, mistä johtuen veri virtaa alussa nopeasti ja paine-ero tasaantuu nopeasti; aluksi siis **DT lyhenee takaisin normaalille alueelle (pseudonormalisaatio; yleensä n. 160-200ms) ja restriktiivisessä täyttymisessä (vaikea diastolinen dysfunktio) DT lyhenee normaalin ulkopuolelle (<150-160ms)** eteisveren purkautuessa kammioon, jonka seinämät eivät anna melkein yhtään periksi.</li> 
+
+
+![](images/dt.png)
+
+![](images/deceltime.png)
+
+Samalla voi periaatteessa vielä mitata **A-aallon keston** (tätä käytetään Ar-A-keston laskemiseen, jos halutaan käyttää sitä diastoliikan arvioimisessa tietyillä erityisryhmillä (esim. merkittävä mitraalivuoto tai hypertrofinen kardiomyopatia)). Lisää tästä keuhkolaskimovirtausten yhteydessä hieman alempana.
+
+### Vaihe 4 - Trikuspidaalivuoto {#Vaihe-4}
+
+Mitraalivirtauksien ja annuluksen kudosdopplerin tutkimisen jälkeen tulisi algoritmin mukaan tutkia trikuspidaalivuodon nopeuksia/gradienttia. Tarkoituksena on siis tutkia vasemman puolen diastolisen dysfunktion heijastumista sydämen oikealle puolelle: 
+
+<li>Vasen kammio jäykistyy → Vasemman eteisen paine (LAP) nousee → Paine nousee keuhkolaskimoissa ja keuhkokapillaareissa → Keuhkovaltimopaine (PASP) nousee → Oikean kammion täytyy supistua korkeampaa painetta vastaan → Trikuspidaaliläpän vuotovirtaus (TR) kiihtyy</li>
+<li>Suuri trikuspidaalivuotogradientti siis toimii epäsuorana osoituksena kohonneesta LAP:sta. **Raja-arvona käytetään trikuspidaalivuodon nopeutta ≥ 2.8 m/s tai jos keuhkovaltimopaineet (PASP) ovat arvioitavissa (vaatii myös oikean eteisen paineen eli käytännössä keskuslaskimopaineen eli IVC:n mittaamisen), niin ensisijaisesti päätelmä tehdään rajasta PASP ≥ 35 mmHg.**</li>
+  <ul>
+    <li>Ei kuitenkaan ole suora osoitus, koska mm. keuhkosairaudet (esim. COPD) voivat nostaa trikuspidaaligradienttia, vaikka sydämen vasen puoli olisi täysin terve (ns. pre-kapillaarinen pulmonaalihypertensio). Myös esim. harvinaisemmat syyt, kuten primaari trikuspidaalivuoto, vasemmalta-oikealle-shuntit, RVOT-obstruktiot tai pulmonaalistenoosi voivat olla syypäitä.</li>
+  </ul>
+
+---
+
+Gradientin voi ottaa kuvan mukaisesti esim. A4C:sta, mutta myös mm. PSAX:sta tai RV-inflow-ikkunasta.
+
+![](images/vmaxtr.png)
+
+### Vaihe 5 - Lisämittaukset {#Vaihe-5}
+
+Algoritmin mukaan voidaan myös hyödyntää mm. vasemman eteisen tilavuutta, keuhkolaskimovirtauksia (erityisesti S/D-suhde, mutta myös Ar-A-duration on hyödyllinen) ja IVRT-kestoa (sekä myös strain-kuvantamista, mutta ei käsitellä sitä), jos gradeeraus ei ole ilman niitä selkeää. Näiden lisäksi on myös korvaavia mittareita, kuten L-aallon nopeus, pulmonaalivuodon loppudiastolinen nopeus ja E/A-suhteen muuttuminen valsalvatessa.
+
+#### Vasemman eteisen tilavuus (LAVi)
+
+Vasemman eteisen tilavuuden mittaaminen on käyty jo aikaisemmin tarkemmin läpi, mutta kertauksena: Kone laskee tilavuuden, kun on piirtänyt vasemman eteisen pinta-alan ja pitkittäisakselin pituuden niin apikaalisessa nelilokerokuvassa kuin kaksilokerokuvassa. Tilavuus sitten jaetaan potilaan kehon pinta-alalla (Body Surface Area, BSA), jotta saadaan suhteutettua eteisen koko potilaan kokoon. Tätä suhteutusta nimetään LAVi:ksi eli Left Atrial Volume index; kannattaa tosin huomata, että merkittävän obeeseilla potilailla LAVi voi olla pseudonormaali, jolloin usein suositellaan indeksoimista pituuden neliöön verrattuna. 
+
+Kuten aikaisemmassa kappaleessa selitettiin, niin vasen eteinen on sydämen "pitkä sokeri" eli kuvastaa pitkäkestoista paine- tai volyymivaikutusta vasemmalla puolella. Diastolisen dysfunktion ollessa pitkäkestoista, johtavat kohoavat täyttöpaineet ja veren pakkautuminen eteiseen hiljalleen eteisen remodelaatioon: venyttyminen ja laajentuminen → LAVi kasvaa. Suurentunut vasen eteinen ei kuitenkaan siis ole spesifinen diastoliselle dysfunktiolle (muita syitä on mm. mitraaliläppäviat, krooninen anemia, raskaus, hypertyreoosi, eteisvärinä, urheilijan sydän), joten se ei voi toimia ainoana osoituksena diastoliikan ongelmasta. 
+
+<li>**LAVi > 34 mL/m2 on epänormaali**</li>
+
+![](images/apicallavi.png)
+![](images/lavia.png)
+
+#### IVRT
+ 
+IVRT eli isovolumetric relaxation time tarkoittaa lyhyttä ajanjaksoa aorttaläpän sulkeutumisen ja mitraaliläpän avautumisen välillä, jonka aikana kammio relaksoituu, mutta sen veritilavuus ei vielä muutu (isovolumetrinen; kts. ylempänä kuuden kuvan sarja diastoliikasta). Kammio vain avaa systolessa tapahtunutta kiertosupistustilaa. Tarkalla kuvantamisessa voitaisiin havaita, että kammion geometrinen sisätilavuus kasvaa pienesti, mutta koska mitraaliläppä on vielä kiinni, niin verivolyymi kammiossa ei muutu. 
+
+IVRT:n kesto määräytyy sen mukaan, kuinka nopeasti kammion paine putoaa eteisen paineen alapuolelle. Mitraaliläppä siis avautuu painegradientin suuntautuessa eteisestä kammioon ja IVRT:n määritelmä oli ajanjakso aorttaläpän sulkeutumisen ja mitraaliläpän avautumisen välillä → muutokset vasemman kammion relaksaatiossa ja eteisen paineissa vaikuttavat suoraan IVRT:n kestoon (kesto on suoraan riippuvainen LV:n relaksaationopeudesta ja käänteisesti riippuvainen LAP:sta).
+
+IVRT voidaan mitata parilla eri tavalla. Klassinen ja yleisin on asettaa CW-leikkauslinja (tai monissa lähteissä myös PW-doppler käytössä (sample gate LVOT:n proksimaalipuolella), mutta ASE:n guidelineissa ohjeistetaan CW) apikaalisessa viisilokerokuvassa LVOT:n proksimaalipuolelle niin että saadaan kerättyä samalla aorttaan päin virtaava veri että mitraalisisäänvirtaus. Muodostuu käyrä, jossa näkyy anturia kohti virtaavat E- ja A-aallot sekä anturista poispäin virtaava aorttavirtaus. Caliperilla mitattuna IVRT on täten horisontaalinen etäisyys (eli ajallinen kesto) aorttavirtauksen loppumisen ja E-aallon alun välillä.   
+
+![](images/ivrtmite.png)
+
+Mittauksen voi myös tehdä kudosdopplerilla (TDI) samoista käyristä, jotka otetaan muutenkin mitraaliannuluksen liikettä tutkiessa. Vaikka mitraaliläppä on vielä IVRT:n aikana kiinni (eli verta ei virtaa kammioon), niin kammion sisäinen paine laskee ja se muuttaa muotoaan systolisen kiertoliikkeen avautuessa. Tämä mekaaninen "pyyhkeen aukeaminen" ja muodonmuutos siirtää hiippaläpän rengasta, vaikka läppä itsessään on yhä kiinni. TDI-kursori havaitsee tämän liikkeen ja käyrällä voidaan nähdä lyhyt ja yleensä amplitudiltaan aika pieni piikki systolisen s'-aallon ja varhaisdiastolisen e'-aallon välissä; piikki on kudosdopplerilla kuvattuna nimetty IVRT'-aalloksi. Mittaus aloitetaan s':n päättymisestä ja lopetetaan e':n alkuun. Kudosdoppleri on varsin hyvä, koska se on teknisesti usein helpompi tallentaa selkeästi kuin kahden eri läpän virtausten yhteensovittaminen perinteisellä dopplerilla. Sitä ei kuitenkaan ole standardoitu diastoliikan gradeerauksessa eikä sitä mainita guidelineissa. IVRT' on yleensä myös systeemisesti pidempikestoisempi kuin IVRT, koska sydänlihas on väistämättä hitaampi muuttamaan suuntia sen inertiasta johtuen kuin herkät painekontrolloidut läpät ja verivirtaukset. 
+
+Alla olevassa kuvassa IVCT on isovolumetric contraction time eli se aika mitraaliläpän sulkeutumisen ja aorttaläpän avautumisen välillä. Senkin mittaaminen voi joskus olla hyödyllistä, mutta se on taas systoliikan arvio. Sen yksi yleisimmistä käyttöaiheista on Myocardial Performance Indexin (MPI, Tein indeksi) laskeminen; MPI =  (IVCT + IVRT) / Ejection time. MPI kuvastaa globaalia kammiotoimintaa. Normaali on pulssiaallolla mitattuna n. 0.30-0.50 ja yli 0.50 viittaa vahvasti vähintään keskivaikeaan myokardium dysfunktioon (0.40-0.49 on harmaa alue ja voi viitata myokardiumin dysfunktioon); kudosdopplerilla mitattuna normaali on vähän korkeampi n. 0.40-0.60. MPI:tä käytetään paljon esimerkiksi sikiön ekokardiografiassa ja aikuisilla joskus esim. amyloidoosissa ja dilatoivassa kardiomyopatiassa. Korkea MPI on voimakas aikaisen sydämen vajaatoiminnan ja kardiovaskulaarisen mortaliteetin ennustaja.  
+
+<li>MPI:n laskeminen ei ole kuitenkaan osa tyypillistä diastoliikan arviota, joten sen voi nyt unohtaa. Halusin vain ottaa sen tähän mainintana, jotta oppii myös tunnistamaan IVCT-piikin käyristä.</li>
+
+
+![](images/ivrtprime.png)
+![](images/mpi.png)
+
+#### L-aalto
+
+L-aalto on mitraalisisäänvirtauskäyrässä nähtävä keskidiastolinen nopeus, joka sijaitsee E-aallon jälkeen. Se kuvastaa jatkuvaa keuhkolaskimovirtausta vasemman eteisen läpi vasempaan kammioon nopean alkudiastolisen täyttymisen jälkeen (on siis E- ja A-aaltojen välissä → ns. trifaasinen mitraalivirtaus; normaalisti välissä on vähävirtauksista diastaasia). 
+
+**L-aalto korostuu myokardiumin relaksaation hidastuessa ja vasemman eteisen paineiden (LAP) kohotessa.** L-aallon nopeuden tulisi olla >20 cm/s, jotta se ajatellaan merkitykselliseksi. 
+
+<li>LAP noustessa E-aalto nopeutuu, mutta jäykässä ventrikkelissä vasemman kammion paine tasoittuu nopeasti -- vähän kuin auto törmäisi seinään. Tämä nähdäänkin jo aikaisemmin selitettynä lyhyenä hidastuvuusaikana (DT).</li>
+<li>LA:n tyhjennettyä E-aallossa nopeasti verta, sen paine tippuu ja keuhkolaskimoista virtaa aktiivisesti verta LA:han painegradientin mukaisesti. Samalla kun kammion relaksoituminen on normaalia hitaampaa, niin se yrittää ekspansoitua ja vetää verta sisälleen vielä keskidiastolessakin E-aallon huipun jälkeenkin. </li>
+  <ul>
+    <li>LA:n paineet siis taas nousevat ja LV:n paineet laskevat → mitraaliläpät taas avautuvat keskidiastolessa vahvemmin auki diastolisten paineiden "oskilloimisesta" johtuen ja syntyy keskidiastolinen L-aalto niin mitraalisisäänvirtauksissa kuin mitraalipurjeiden M-moodissa.</li>
+    <li>L-aallon havaitseminen yleensä tehdään mitraalisisäänvirtauksista, mutta se on hyvä osata tunnistaa myös kudosdopplerista ja harvemmin myös mitraaliläpän M-moodista.</li>
+  </ul>
+<li>**L-aalto ei kuitenkaan suoraan ole patologinen löydös ja se kuvattiinkin ensimmäisen kerran löydöksenä nuorilla urheilijoilla, joilla oli hyvästä kunnosta johtuen matala leposyke.** Urheilijan kammion erittäin tehokas relaksoituminen aiheuttaa supernormaalin E-aallon ja siten nopean kammion paineiden nousun. Jos samalla on vielä bradykardia, niin keskidiastolinen vaihe eli diastaasi pitenee ja voidaan helpommin erottaa virtauskäyrä E- ja A-aallon välissä (usein siis L-aalto on nähtävissä vasta sykkeiden ollessa riittävän matalat). Hyvin kompliantti kammio siis ottaa diastaasissakin jokseenkin tehokkaasti verta vastaan → nähdään merkityksellisen nopeaa virtausta eli L-aalto.</li>
+
+---
+
+**L-aalto ≥ 50 cm/s** on ASE:n algoritmissa yksi mahdollisista korvaavista arvoista, joita voidaan käyttää gradeerauksessa, koska se toimii osoituksena kohonneista eteisen paineista ja merkitsee edennyttä diastolista dysfunktiota (vähintään gr II). L-aalto on siten myös prognostinen markkeri ja sen ilmentyminen diastolisessa dysfunktiossa ennustaa tulevia sairaalajaksoja. 
+
+![](images/lwave.png)
+![](images/eal.png)
+![](images/mmodelwave.png)
+#### Valsalvaus ja E/A-suhde
+
+Valsalvan manööveri on tekniikka, jossa ilmaa puhalletaan syvän sisäänhengityksen jälkeen voimakkaasti ulos suljettuja hengitysteitä tai nenää ja suuta vasten (tällä tavalla esimerkiksi voi itse avat omat korvansa, jos ne ovat lukossa). Tämä stimuloi parasympaattista hermostoa sekä myös nostaa rintakehän sisäistä painetta voimakkaasti. Intratorakaalisen paineen nousu puristaa kasaan suuria laskimoita, jolloin laskimopaluu sydämeen preload vähenee. Sydämeen tulevan veren määrä siis vähenee, mikä laskee myös vasemman eteisen painetta. Eteisen paineiden tippuessa koska vasen kammio on jäykkä, veri ei enää virtaakaan sinne helposti diastolen alussa -> erityisesti E-aalto pienenee. Diastolen lopussa kammio nojaa enemmän eteissystoleen puskeakseen loput veret sisään -> A-aalto säilyy tai korostuu. 
+
+<li>Tämä on erityisen hyödyllinen testi, kun kyseessä on pseudonormaali E/A-suhde. Jos E/A-suhde laskee ≥ 50 %, se on spesifinen merkki siitä, että lähtötilanne oli pseudonormaali ja potilaan todelliset täyttöpaineet olivat kohonneet.</li>
+<li>Jos potilaan diastoliikka on oikeasti normaali, niin preloadin lasku vähentää sekä E-aaltoa että A-aaltoa suhteellisen tasaisesti eikä suhde romahda yli 50%:a. </li>
+
+
+![](images/valsalvaea.png)
+![](images/valsalvapseudo.png)
+
+#### Pulmonaalivuoto 
+
+Pulmonaaliläpän vuodon loppudiastolista nopeutta voidaan käyttää osoittamaan keuhkovaltimoiden diastolista painetta. Bernoullin yhtälöstä päätelleen keuhkovaltimopaine diastolessa (PADP) on 4 x (loppudiastolinen nopeus)^2 + oikean eteisen paine (joka toimii oikean kammion loppudiastolisen paineen verrokkina). Oikean kammion paine (RAP) arvioidaa IVC:stä tuttuun tapaan. 
+
+Loppudiastolessa paineet tasoittuvat ja PADP on suunnilleen sama kuin keuhkohiussuonten kiilapaine ja tämä taas sama kuin vasemman eteisen paineet. Jos pulmonaalivuodon loppudiastolinen nopeus (PREDV) on koholla, niin myös vasemman eteisen paine on koholla. **PREDV voidaan siis käyttää osoittamaan koholla olevat keuhkoverenkierron paineet ja siten myös epäsuorasti vasemman puolen täyttöpaineet, jos trikuspidaalivuodon nopeutta ei ole käytettävissä.** Sama rajoite on kuitenkin tässä eli ei-sydänperäiset pulmonaalihypertension syyt tekevät arvosta korkean, vaikka vasemman puolen toiminta olisikin normaalia. 
+
+**Rajana osoituksena kohonneesta LAP:sta (keuhkosairauden ulkopuolella) on PREDV ≥ 2 m/s tai PADP ≥ 16 mmHg.**
+
+![](images/pred.png)
+
+#### Keuhkolaskimovirtaukset
+
+Keuhkolaskimovirtausten arvioimisen yksi indikaatioista on vasemman kammion diastolisen dysfunktion arvioiminen (ei tosin toimi tärkeimpänä tai ensisijaisena mittarina, vaan pikemminkin harvemmin käytettynä tukevana arviona). Toinen yleinen käyttö on esim. mitraalivuodon gradeeraus (siinäkin tukeva parametri). Koska diastoliikka tulee tässä oppaassa mitraalivuotoa ennen, niin käsitellään nyt keuhkolaskimovirtausten mittaaminen ja tulkitseminen. Jo aikaisemmin käytiin läpi keuhkolaskimoiden tunnistaminen ja löytäminen eri projektioista, mutta nyt voidaan tiivistää aihe siihen, että pitää osata löytää apikaalisesta nelilokeroprojektiosta (A4C) oikea ylempi keuhkolaskimo (RUPV; periaatteessa myös oikea alempi laskimokin käy, mutta RUPV on yleensä helpompi löytää). Siitä tyypillisimmin tehdään keuhkolaskimovirtausten mittaukset. 
+
+Tässä alla on esimerkki RUPV:n väridopplerista ja mittauspisteestä PW-dopplerin suhteen (oikeanpuoleisin video). Taas kannattaa muistaa, että Nyquistin rajan kannattaa useimmiten olla normaalia hieman matalampi johtuen keuhkolaskimoiden hitaammasta virtauksesta. Yleensä n. 40cm/s tai alle mahdollistaa tarkimman ja parhaimman virtausvisualisaation. Sample gate tulisi siis olla n. 0.5-2cm suonen sisällä eli siis proksimaalisesti sen junktiosta vasemman eteisen kanssa. Yritä suunnata UÄ-aallot mahdollisimman hyvin samansuuntaisiksi virtauksen kanssa. 
+
+![](images/rupvsample.gif)
+![](images/tipspvmeasurement.png)
+
+Tämä mittaus tuottaa pulssiaaltokäyrän, joka normaalitilanteessa koostuu kolmesta (tai neljästä) pääkomponentista: systoliset deflektiot (S-aalto; usein voi erottaa S1 ja S2) ja diastoliset deflektiot eli D-aalto ja Ar-aalto. 
+
+Ensiksi kannattaa tunnistaa Ar-aalto eli atrial reversal
+
+<li>Ar siis ilmenee negatiivisena deflektiona, koska virtaus kulkee keuhkolaskimoon poispäin anturista eikä eteiseen, kuten muut positiiviset deflektiot. Virtauksen kääntyminen vastavirtaan johtuu eteisten kontraktoitumisesta (vastaa täten ajoitukseltaan mitraalivirtauksen A-aaltoa ja EKG:n P-aaltoa). Diastolen lopussa vasen eteinen siis supistuu (eteissystole) työntääkseen viimeisen verimäärän kammioon. Koska keuhkolaskimoiden suilla ei ole mekaanisia läppiä, verta puristuu paineesta johtuen taaksepäin takaisin keuhkolaskimoihin.</li>
+<li>Ar-aallosta voi havainnoida sen amplitudin ja keston (Ar duration)</li>
+<li>Eteisvärinä on yleinen Ar-aaltoa muokkaava tekijä ja erityisesti se laskee Ar-aallon huippunopeutta, koska eteisvärinässä ei ole synkronoitua eteiskontraktiliteettia. Usein ei ole edes selkeitä Ar-aaltoja eteisvärinässä.</li>
+
+---
+
+Ar-aallon jälkeen seuraava positiivinen deflektio on S-aalto eli systolic wave, joka on usein kaksivaiheinen ja voidaan jakaa osiin S1 ja S2. Useimmiten (n.70%:lla ihmisistä; varsinkin terveillä nuorilla sekä myös nopeassa sykkeessä) kuitenkin aallot ovat assimiloituneet ja on todettavissa vain yksi S-aalto. 
+
+<li>S1 eli alkusystolinen aalto syntyy kammiosystolen alussa eli eteissystolen päätyttyä, kun vasen eteinen alkaa rentoutua (eteisdiastole). Tämä luo eteiseen imuefektin ja paine laskee, jolloin veri syöksyy laskimoista eteiseen.</li>
+  <ul>
+    <li>Varsinkaan eteisvärinässä S1 ei ole havaittavissa epäkoordinoidun eteistoiminnan takia. S1-aaltoon vaikuttaa myös LA:n relaksaatiokyky (heikko relaksaatiokyky laskee S1-aaltoa) ja eteisen kontraktiliteetti (isompi kontraktiliteetti -> parempi täyttyminen supistumisen jälkeen (Frank-Starlingin laki).</li>
+  </ul>
+<li>S2 eli loppusystolinen aalto syntyy kammiosystolessa mitraaliannuluksen siirtyessä apikaalisesti, mikä taas laskee vasemman eteisen painetta entisestään ja luo gradienttia virtaukselle eteiseen. Samalla oikean kammion luoma perfuusio keuhkoihin päin voi työntää taas lisääntyneen keuhkovaltimopaineen seurauksena laskimoverta eteenpäin (pushing effect).</li>
+  <ul>
+    <li>Oikean kammion toiminta täten voi vaikuttaa S2-aaltoon (RV stroke volumen laskiessa S2 laskee). Samoin LV:n pitkittäissupistuvuus vaikuttaa (vaikuttaa mitraaliannuluksen siirtymiseen) ja tietysti myös LA:n komplianssi vaikuttaa S2-aaltoon.</li>
+  </ul>
+
+---
+
+Systolisten aaltojen jälkeen seuraava käyrän huippu kuvastaa D-aaltoa eli diastolista aaltoa. 
+
+<li>D-aalto kuvastaa eteisten tyhjenemistä eli se syntyy, kun mitraaliläppä avautuu. Tällöin veri virtaa nopeasti vasemmasta eteisestä suoraan vasempaan kammioon. Tämä tyhjentää eteisestä painetta, jolloin keuhkolaskimoista pääsee virtaamaan uutta verta vapaasti suoraan eteisen läpi kammioon. D-aalto vastaa ajoitukseltaan ja logiikaltaan suoraan mitraalivirtauksen E-aaltoa (kammion varhaisdiastolinen täyttyminen).</li>
+  <ul>
+    <li>Tietysti siihen taas vaikuttaa LV:n relaksaatiokyky ja LV:n komplianssi</li>
+  </ul>
+
+---
+
+On siis hyvä tiedostaa, että pulmonaalilaskimoiden virtauksiin vaikuttavat monet hemodynaamiset ja sydämen rakenteelliset tekijät. 
+
+![](images/pvdopplerpattern.png)
+![](images/pulmonaryveindeterminants.png)
+
+##### Keuhkolaskimovirtaukset diastoliikassa
+
+Diastoliikassa keuhkolaskimovirtauksista useimmiten arvioidaan pääasiassa S/D-suhdetta. Yleensä normaaliksi suhteeksi ilmoitetaan, että S-aalto on suurempi (jos sekä S1 että S2 ovat nähtävissä, niin mitataan S2) tai yhtä suuri kuin D-aalto amplitudiltaan (S/D ≥ 1) eli normaalit täyttökuviot (filling patterns) ovat vahvemmin systolisia ja patologiset löydökset diastolisen vajaatoiminnan suhteen olisivat S/D < 1. Suhteen tulkitsemiseen kuitenkin vaikuttaa merkittävästi potilaan ikä ja kammion systolinen toiminta, joten yksittäistä "normaalia" arvoa ei voi suoraan antaa. Diastolisen dysfunktion gradeerausalgoritmissa käytetään rajaa S/D ≤ 0.67 osoittamaan kohonneita eteispaineita, mutta guidelinessa myös mainitaan, että jos LVEF on normaali, niin suhde voi hyvinkin olla >0.67, vaikka täyttöpaineet olisivatkin koholla -> "normaali" S/D-suhde ei poissulje diastolista dysfunktiota, jos systolinen funktio on normaali.
+
+Lisäksi nuorilla (n. < 40v) ja terveillä potilailla voi S/D-suhde olla hyvinkin alle 1 ilman mitään ongelmaa sydämessä. Todella hyvä elastinen rekoili ja nopea vasemman kammion relaksaatio mahdollistaa sen, että aikaisin diastolessa tapahtuva vasemman kammion täyttyminen on hyvin tehokasta ja sydämen ei tarvitse turvautua eteissystoleen (mitraalivirtauksen A-aalto ja keuhkolaskimovirtausten Ar-aalto) kovinkaan paljoa. Tämä näkyy siis myös mitraalivirtausten E- ja A-aalloissa; A-aalto voi olla aika pieni ja E-aalto on suuri siihen verrattuna -> nuorilla ja urheilullisilla ihmisillä voi E/A-suhde olla hyvinkin yli 2, vaikka se on tyypillisen "normaalin" yläraja.
+
+<li>D-aalto voi siis olla systolista virtausta prominentimpi tehokkaan diastolisen täyttymisen takia ja eteissystolea ei tarvita merkittävissä määrin (ja täten eteisten täyttyminen supistumisen jälkeen vähenee (Frank-Starlingin lain mukaan vähäisempi supistus johtaa vähäisempään relaksaatioon ja siten vähäisempään imutoimintaan) -> S/D < 1 ja pieni Ar-amplitudi</li>
+<li>Henkilön ikääntyessä (n. ikävuodet 30-40+) tapahtuu normaalia vasemman kammion relaksaatiokyvyn laskua. Tämä johtaa progressiiviseen LV:n aikaisdiastolisen täyttymisen vähenemiseen ja myös siten eteissystolessa siirrettävän veren määrän nousuun -> S- ja D-aaltojen amplitudit tasoittuvat. Vielä ikääntymisen edetessä lopulta S-aallosta tulee suurempi kuin D-aallosta -> S/D-suhde > 1 (ja Ar-aalto on prominentti). </li>
+  <ul>
+    <li>Tämä ei ole diastolista vajaatoimintaa, vaan normaalia ikääntymistä. Periaatteessa tämä peilautuu gr 1 diastoliseksi dysfunktioksi - samoin kuten E/A-suhde alle 0.8 ikääntyessä</li>
+  </ul>
+
+---
+
+Jos ultraa >40-vuotiasta, niin voi yleensä ajatella normaalin S/D-suhteen olevan > 1. Tässä potilaskunnassa S/D < 1 on yleensä patologista (vaikka onkin samalla tasolla kuin terveillä nuorilla; tämä taas peilautuu gr 2-3 diastoliseen dysfunktioon ja E/A suhteen pseudonormalisaatioon) ja kuvastaa vasemman eteisen paineiden nousua. LA:n paineiden noustessa esim. juuri diastolisesta vajaatoiminnasta johtuen vähenee S-aallon nopeudet, koska kohonneet paineet eteisessä aiheuttavat resistenssin tulevaa keuhkolaskimovirtausta vastaan. Mitraaliläpän avautuessa diastolessa tämä korkea paine aiheuttaa nopean virtauksen ventrikkeliin (samalla periaatteella E-aalto nousee mitraalivirtauksia tutkiessa) ja siten myös tehokkaan samanaikaisen eteisen täyttymisen ja korkean D-aallon.
+
+---
+
+Pähkinänkuoressa voi siis ajatella keuhkolaskimovirtauksista näin: D-aalto käyttäytyy samalla tavalla kuin mitraalivirtauksen E-aalto eli se kasvaa ja terävöityy diastolisen vajaatoiminnan edetessä -> E/A-suhde nousee ja S/D-suhde laskee. 
+
+![](images/eapv.png)
+
+![](images/whatcanwelearn.png)
+
+Yksi toinen mittari S/D-suhteen lisäksi on ns. **Ar-A-kesto eli Ar-aallon kerton ja transmitraalisen A-aallon keston erotus. Jos Ar-duration - A-duration on ≥ 30 ms, niin se viittaa kohonneeseen vasemman kammion loppudiastoliseen paineeseen (LVEDP).**
+
+<li>Arvo siis vertaa eteissupistuksen kestoa keuhkolaskimossa (Ar) ja mitraalivirtauksessa (A). Eteissystole siis puskee verta mitraaliläpän läpi eteenpäin vasempaan kammioon, mutta myös samalla pieni osa verestä pakenee taaksepäin takaisin keuhkolaskimoihin (Ar = Atrial reversal).</li>
+<li>Normaalitilanteessa (normaali LVEDP) eteisen supistuessa kammio ottaa veren helposti vastaan ja veri virtaa kammioon pitkään ja tasaisesti, jolloin A-aallon kesto on pitkä. Koska kammioon on helppo mennä (pienimmän vastuksen reitti), verta ei juurikaan pakene takaisin keuhkolaskimoihin. Siksi Ar-aallon kesto on lyhyt.</li>
+<li>Vasemman kammion jäykistyessä sen sisäinen lepopaine kasvaa ja eteissystolessa kammio pistää enemmän vastaan. Tämä vähentää eteenpäin suuntautuvaa virtausta, joten A-aallon kesto lyhenee ja samalla pienimmän vastuksen reitiksi muodostuu keuhkolaskimot, jolloin Ar-aallon kesto pitenee. </li>
+<li>Kohonnut Ar-A-duration (≥ 30 ms) on spesifinen ja iästä riippumaton osoitus kohonneesta LVEDP:stä.</li>
+
+![](images/arad.png)
+![](images/ara.png)
+
+### Vaihe 6 - Gradeeraus {#Vaihe-6}
+
+On aika laittaa kaikki mittaukset yhteen ja määrittää diastolisen dysfunktion aste (gradus). Gradeeraukseen on laadittu monia ohjeita ja algoritmeja, mutta opetetaan tässä jo aikaisemmin vilautettu ASE:n guidelineissa esitetty algoritmi.
+
+![](images/diastoliikkaalgoase.png)
+
+Algoritmi siis alkaa **annulaarisen e'-nopeuden, E/e'-suhteen ja keuhkovaltimopaineiden (PASP) / trikuspidaalivuodon (TR) huippunopeuden arvioilla.** E'-nopeudet siis kuvastavat vasemman kammion relaksoitumiskykyä suoraan, kun taas E/e'-suhde ja PASP/TR kuvastavat vasemman eteisen paineita. Jos kaikki kolme ovat normaaleja, niin kyseessä on normaali diastolinen funktio. Jos kaikki kolme ovat epänormaaleja, niin kyseessä on diastolinen dysfunktio ja kohonneet vasemman eteisen paineet, jolloin gradus on vähintään 2. 
+
+<li>Vasemman eteisen paineiden kohoaminen on se löydös, joka erottaa gr 1 diastolisen dysfunktion ja suuremmat gradukset.</li>
+
+---
+
+Jos yllä mainituista kolmesta vain e' on alentunut, niin E/A-suhteen kautta voidaan määrittää, onko potilaalla normaali LAP vai kohonnut LAP. Jos E/A on normaaliin ikääntymiseen/alkavaan diastoliseen dysfunktioon sopivasti ≤ 0.8, niin kyseessä on normaalipaineinen tilanne ja gradus on 1. 
+
+Jos taas E/A > 0.8, niin siirrytään algoritmin liilaan boksiin, jossa hyödynnetään lisämittareita päättämään, ovatko eteispaineet koholla. Tähän boksiin siirrytään myös siinä tilanteessa, jos jokin muu kolmesta pääarvosta (eli E/e' tai TR/PASP) on poikkeava tai yhteensä kaksi pääarvoista ovat poikkeavat. 
+
+<li>Liilassa boksissa ensisijaiset lisämittarit ovat keuhkolaskimovirtauksien S/D (kannattaa huomioida, että suhde voi olla >0.67 vaikka LV:n täyttöpaineet olisivatkin koholla, jos potilaalla on normaali LVEF -> ei kannata käyttää, jos systolinen funktio on normaali), (LARS), LAVi tai IVRT. Jos kaikki näistä ovat normaalitasolla, niin LAP on todennäköisesti normaali. Jos näitä ei ole käytössä, niin mahdollisia korvaavia mittareita ovat mm. pulmonaalivuodon loppudiastolinen nopeus, mitraalisisäänvirtauksen L-aallon nopeus, keuhkolaskimovirtauksien atrial reversalin nopeus ja Ar-A-kesto sekä mitraalisisäänvirtauksien muutos valsalvatessa. Jos jokin näistä on poikkeava, niin LAP:n ajatellaan olevan koholla.</li>
+
+---
+
+Jos LAP:n ajatellaan olevan koholla, niin E/A-suhteen perusteella jaetaan dysfunktio lievään/keskivaikeaan (gr 2) ja huomattavaan (gr 3). Lyhyesti sanottuna **gradeeraus siis perustuu siihen, että osoitetaan jollain parametrilla vasemman eteisen paineiden nousu ja vielä E/A-suhteen perusteella jaetaan kohonneet paineet kohtalaisesti kohonneisiin (gr 2) ja huomattavasti kohonneisiin (gr 3).**
+
+<li>Jos E/A on pseudonormaali eli < 2, niin gradus on 2</li>
+<li>Jos täyttöpatterni on restriktiivinen eli E/A on kohonnut ≥ 2, niin gradus on 3</li>
+
+---
+
+Bonus: Jos gradus on 1, mutta potilas on selkeästi oireinen (erityisesti hengenahdistus rasituksessa) eikä selkeää muuta selitystä löydy oireille, niin seuraava diagnostinen selvittely olisi diastoliset stressitestit. Jopa 50%:lla HFpEF-potilaista on normaalit täyttöpaineet levossa, mutta ne nousevat nopeasti rasituksessa tai jopa jalkoja nostaessa (jalkojen nostaminen lisää preloadia). Normaalisti e' nousee n. 3-5 cm/s rasituksessa, mutta diastolisessa dysfunktiossa relaksaatio nopeutuu vain vähän tai ei ollenkaan. E-aalto kuitenkin nousee täyttöpaineiden kohotessa, jolloin E/e'-suhde nousee. 
+
+<li>Potilaalta tulisi siis mitata levossa E ja e' sekä trikuspidaalivuodon huippunopeus. Nämä parametrit ovat myös tärkeimmät rasituskokeessa (esim. potilas pyöräilee; voi tehdä supine bicyclen aikana tai ihan peruspyörän jälkeenkin; matalan kynnyksen testi on myös leg raise-test, jossa jalat kohotetaan minuutin ajaksi ja kuvataan sitten) mitattavat arvot. Täyttöpaineet pysyvät yleensä koholla muutaman minuutin ajan urheilun jälkeenkin, joten kuvantamiselle on tarpeeksi aikaa (virallisesti tulisi tehdä 1-2 minuutin sisällä), vaikka ei olisikaan tarjolla kunnon stressitestipöytää ja mittaukset suoritettaisiin vasta rasituksen pysäyttämisen jälkeen. </li>
+<li>Aluksi tulisi tulkita nopeasti LV:n liike 2D-kuvasta (onko uusia iskemiaan viittaavia liikehäiriöitä). Sitten TR:n nopeuden voi mitata, koska E- ja A-aallot ovat yleensä summautuneita nopeissa sykkeissä. E- ja e'-huipun mittaaminen tehdään heti E- ja A-aaltojen erkaannuttua. Jos potilas on eteisvärinässä, niin mittaukset voi tehdä heti 2D-liikehäiriöiden tulkitsemisen jälkeen.</li>
+<li>Testi on positiivinen, jos E/avg e' nousee ≥ 14 (tai E/sep e' ≥ 15) ja TR:n huippu on ≥ 3.2 m/s. Jos E/e' on koholla, mutta TR on 2.8-3.2, niin HFpEF ei ole varma, mutta mahdollinen. Pelkkä kohonnut TR ei ole erityisenkään tarkka löydös, koska TR voi nousta liittyen lisääntyneeseen keuhkovirtaukseen.</li>
+
+
+### Vaihe 7 - Poikkeustilanteiden huomioiminen {Vaihe-7}
+
+Diastoliikan arviointia voi häiritä todella monet asiat. Algoritmissa onkin mainittu seuraavat erityisryhmät, joissa normaali gradeeraus ei täysin päde:
+
+<li>Mitraaliläpän ongelmat: mitraaliannuluksen kalsifikaatio (MAC), mitraalivuoto (MR) ja mitraalistenoosi (MS)</li>
+<li>Eteisvärinä</li>
+<li>Sydämen vasemman kammion mekaaninen tukilaite (LVAD)</li>
+<li>Ei-sydänperäinen pulmonaalihypertensio</li>
+<li>Sydämensiirre (heart transplant, HTX)</li>
+<li>Perikardiaalinen konstriktio </li>
+
+![](images/huuto.png)
+![](images/indicators.png)
+
+#### Mitraaliläpän ongelmat {#Mitraaliongelmat}
+
+Koska suurin osa perinteisistä diastolisen toiminnan mittareista perustuvat veren virtaukseen vasemmasta eteisestä vasempaan kammioon sekä itse läppärenkaan joustavaan liikkeeseen, mikä tahansa mekaaninen vika läpässä vääristää näitä tuloksia. 
+
+##### Mitraalistenoosi (MS)
+
+Mitraalistenoosissa ahtaan reiän läpi puristuva veri aiheuttaa erittäin nopeavirtauksisen E-aallon ja tästä johtuen E-aaltoon perustuvat arvot (E/A-suhde ja E/e') eivät kerro diastoliikasta eivätkä ole siten hyödyllisiä. Guidelineissa ehdotetaan yhtenä diastoliikkaa arvioivana arvona E-aallon ja annulaaristen e'-nopeuksien välistä aikaintervallia, mutta suurimmalla osalla koneista näiden mittaaminen samanaikaisesti ei ole mahdollista -> mitraalistenoosissa huomio kannattaa kiinnittää diastoliikan tarkemman gradeerauksen sijaan ahtauman asteen arviointiin ja sen aiheuttamaan oikean puolen rasitukseen.
+
+##### Mitraalivuoto (MR)
+
+Mitraalivuodossa (varsinkin keskivaikea ja vaikea) normaali diastoliikan algoritmi ei täysin toimi, koska MR pumppaa verta takaisin vasempaan eteiseen (LA). Kun mitraaliläppä aukeaa diastolessa, tämä ylimääräinen verimassa ryöpsähtää takaisin kammioon. Tämä aiheuttaa suuren E-aallon (ja myös keuhkolaskimovirtausten S/D-suhteen laskun) -> E/A-suhteeseen (tai S/D-suhteeseen) ei voi siis luottaa diastoliikan mittarina. **E/e'-suhdetta voi kyllä käyttää varovaisesti, jos potilaalla on alentunut EF.** Primaarissa mitraalivuodossa ja normaalissa ejektiofraktiossa E/e'-suhde ei korreloi yhtä luotettavasti eteispaineiden kanssa (tosin joissain tutkimuksissa on osoitettu merkittäväkin suhde).
+
+<li>Kun on matala EF, niin mitraalivuoto on todennäköisesti sekundaarinen eli toiminnallinen. Heikko ja jäykkä ja todennäköisesti laajentunutkin kammio aiheuttaa läpän venymistä/liikeongelman ja mitraaliläppä vuotaa sen ei-rakenteellisesta syystä. Koska lihas on sairas ja mahdollisesti arpinen ja systolinen supistus on heikkoa, se ei myöskään kykene rentoutumaan kunnolla -> kudosdopplerin e'-nopeus on matala. E-aalto nousee tyypilliseen tapaan eteisen paineiden noustessa ja E/e'-suhde nousee samaan tapaan kuin ilmankin vuotoa.</li>
+<li>Kun on muuten normaali sydän ja normaali EF, niin mitraalivuoto on todennäköisesi primaarinen eli rakenteellinen. Nyt mitraalivuodossa nousevat vasemman eteisen verinäärät pystytään ottaa vastaan normaalisti, koska kammio on kompliantti. Jotta terve kammio pystyy ottamaan vastaan valtavan verimäärän, se alkaa työskennellä hyperdynaamisesti. Se laajenee ja imee verta sisään tavallista aggressiivisemmin. Tämän seurauksena läppärenkaan liike nopeutuu, ja kudosdopplerin e'-nopeus muuttuu "supernormaaliksi" (korkeaksi). E-aaltokin on vuodon aiheuttamasta eteispaineesta johtuen korkea, jolloin E/e'-suhde on yleensä normaali.</li>
+
+---
+
+E-aaltoon perustuvien mittausten ongelmien takia kannattaa perustaa arvio (ainakin primaarivuotoisessa normaalissa EF:ssa) vahvemmin niihin mittareihin, joita MR ei pysty hämäämään yhtä vahvasti. Yksi parhaista ja luotettavimmista merkeistä on Ar-A-kesto, joka jo käsiteltiin keuhkolaskimovirtausten yhteydessä. 
+
+<li>Mitataan siis eteissystolen kesto keuhkolaskimoissa (Ar eli atrial reversal) ja mitraalisisäänvirtauksessa (A-aalto) ja lasketaan näiden erotus. **Jos Ar-aallon kesto on pidempi kuin A-aallon kesto ≥ 30 ms:a, se on varma merkki siitä, että vasemman kammion loppudiastolinen paine (LVEDP) on koholla –- riippumatta MR:n vaikeusasteesta.**</li>
+
+![](images/ardur.png)
+
+##### Mitraaliannuluksen kalsifikaatio (MAC)
+
+Mitraaliläppärenkaan kalsifikaatio viittaa kalkin (ja lipidien) kertymistä annuluksen fibroosaan (itse endoteeli on tervettä annuluksen päällä; tämä erottaa MAC:n mitraalipurjeiden kalkkeutumisesta). Annuluksen kalkkeutumista voidaan nähdä jopa 35%:lla vanhuksista ja on yhteydessä mm. hypertensioon, aorttastenosiin, sepelvaltimotautiin ja krooniseen munuaisten vajaatoimintaan. Pelkkä MAC ei välttämättä aiheuta itse mitraaliläpän stenoosia, mutta voi joskus aiheuttaa oireetonta ja lievää mitraalivuotoa. Vaikka vuotoa tai stenoosia ei olisikaan, niin MAC kuitenkin vaikuttaa mittauksiin erityisesti e'-aallon eli annuluksen nopeuksien suhteen. **Koska kalkkeutunut kudos ei jousta, e'-nopeus putoaa merkittävästi,** vaikka itse kammion lihas olisi terve ja rentoutuisi normaalisti. Kun e' on pieni, E/e'-suhde nousee virheellisen korkeaksi. 
+
+Tutkimusdata on vähäistä, mutta LV:n täyttöpaineet ja LAP ovat yleensä normaalit MAC-potilailla, kun E/A on < 0.8 ja taas koholla, kun E/A on > 1.8. Jos E/A on välillä 0.8-1.8, niin päätös täyttöpaineista tehdään yleensä IVRT:n perusteella.
+
+![](images/mitraalikalsifikaatio.png)
+#### Pulmonaalihypertensio
+
+Ei-sydänperäiset pulmonaalihypertension syyt (WHO-ryhmät 1 ja 3-5) häiritsevät diastoliikan arviointia verrattuna pulmonaalihypertensioon, joka johtuu sydämen vasemman puolen ongelmasta (WHO-ryhmä 2). 
+
+Pulmonaalihypertensio johtaa kohonneisiin oikean kammion systolisiin ja diastolisiin paineisiin ja siten voi aiheuttaa trikuspidaalivuodon pahenemista sekä septumin suoristumista ("septal flattening"). Tästä johtuen TR:n nopeutta ei voida käyttää yhtä luotettavana mittarina ja E/e'-suhde tulisi mitata vain lateraalisesti (>13 viittaa kohonneisiin vasemman puolen paineisiin ja <8 taas normaaleihin) eikä septaalisesti tai näiden keskiarvona. 
+
+Suositeltu algoritmi perustuu E/A- ja E/lat e'-suhteeseen; kts. alla (LARS on myös mainittu, mutta se ei yleensä ole saatavilla).
+
+![](images/lapestimation.png)
+
+#### Perikardiaalinen konstriktio
+
+Perikardiaalinen konstriktio (konstriktiivinen perikardiitti) on tila, jossa sydänpussi on paksuuntunut (normaalin paksuinen ei poissulje), arpeutunut tai kalkkeutunut, mikä estää sydäntä laajenemasta normaalisti diastolen (lepovaiheen) aikana ilman, että itse sydänlihas olisi viallinen. Vaikka konstriktio voi kehittyä minkä tahansa perikardiitin ja sen jälkitilan seurauksena, yleisimmät syyt ovat:
+
+<li>Idiopaattinen (yleensä oletetusti viraalinen) perikardiitti</li>
+<li>Sydänleikkauksen jälkitila</li>
+<li>Rintakehän alueen sädehoito</li>
+<li>Tuberkuloosi (kehitysmaissa yleinen syy)</li>
+<li>Systeemiset sidekudossairaudet (esim. SLE)</li>
+<li>Ureeminen perikardiitti (merkittävä munuaisten vajaatoiminta)</li>
+  <ul>
+    <li>Hyvä tärppi tietää tästä on se, että ureemisessa perikardiitissa ei yleensä ilmene muiden akuuttien perikardiittien tapaan klassisia EKG-löydöksiä, kuten laajoja ST-nousuja tai PR-segmentin laskuja.</li>
+  </ul>
+<li>Purulentti (bakteeriperäinen) perikardiitti</li>
+
+---
+
+Konstriktiossa sydämen diastolinen toimintahäiriö ei siis johdu itse sydänlihaksen jäykkyydestä, vaan sydäntä ympäröivästä jäykästä "panssarista". Lihaksen ulkopuolinen konstriktio muuttaa hemodynamiikkaa kahdella merkittävällä tavalla: 
+
+<li>**Kammioiden välisen riippuvuuden (ventricular interdependence) korostuminen**</li>
+  <ul>
+    <li>Kammioiden välinen riippuvuus tarkoittaa sitä, että toisen kammion muoto, tilavuus ja paine vaikuttavat suoraan toisen kammion toimintaan. Terveessä sydämessä tämä riippuvuus on vähäistä, koska sydänpussi joustaa ja antaa tilaa kammioiden laajentua ulospäin.</li>
+    <li>Ulkopuolisessa konstriktiossa sydän on kuin lukittu kiinteään laatikkoon ja sydämen kokonaistilavuus on tarkkaan rajoitettu eikä sydän pysty laajentumaan ulospäin normaalisti. Jos toinen kammio haluaa ottaa vastaan enemmän verta ja laajentua diastolen aikana, se ei voi tehdä sitä laajenemalla ulospäin – sen on "varastettava" tilaa toiselta kammiolta.</li>
+    <li>Koska ulkoseinät ovat jäykän kuoren kahleissa, ainoa sydämen sisällä oleva rakenne, joka voi liikkua ja antaa periksi kammioiden täyttyessä, on kammioväliseinä. Septumista tulee ikään kuin liikkuva väliseinä kahden huoneen välillä: jos toista huonetta laajennetaan, toinen kapenee väkisin.</li>
+    <li>Tämä reaktio korostuu voimakkaimmin hengityksen myötä. Sisäänhengityksessä rintakehän sisäinen paine laskee ja tämä imee enemmän verta kehon suurista laskimoista oikeaan eteiseen ja yhä oikeaan kammioon. Oikean kammion nouseva paine työntää kammioväliseinämää vasemman kammion puolelle ja vasen kammio menee lyttyyn. Siksi vasen kammio pystyy ottamaan vastaan paljon vähemmän verta, mikä näkyy echossa mitraalivirtauksen (erityisesti E-aallon) laskuna.</li>
+    <li>Uloshengityksen aikana ilmiö kääntyy päinvastaiseksi: oikean kammion täyttyminen vähenee laskimopaluun vähentyessä ja samaan aikaan keuhkoista puristuu verta vasempaan eteiseen ja vasempaan kammioon. Vasemman kammion paineiden noustessa se työntää septumia taas oikean kammion puolelle. Vasemman kammion täyttymiset paranevat hetkellisesti ja E-aalto nousee.</li>
+  </ul>
+<li>**Intratorakaalisten ja intrakardiaalisten paineiden dissosiaatio**</li>
+  <ul>
+    <li>Normaalisti hengityksen aiheuttamat rintakehän sisäiset paineenmuutokset välittyvät sellaisenaan sekä keuhkoverisuoniin että kaikkiin sydänlokeroihin. Konstriktiossa jäykkä sydänpussi toimii eristeenä, joka estää näiden painemuutosten välittymisen sydämen sisälle, kun taas rintakehässä sydämen ulkopuolella olevat suonet reagoivat paineeseen normaalisti. Tämäkin muutos siten näkyy hengityksen mukaan vaihtelevina doppleri-virtauksina samoin kuten kammioiden välisen riippuvuuden korostuminen.</li>
+    <li>Sisäänhengitys siis laskee keuhkolaskimoiden painetta intratorakaalisen alipaineen kautta. veri ei halua virrata matalamman paineen keuhkoista korkeamman paineen sydämeen ja E-aallon huippunopeus laskee sisäänhengityksessä.</li>
+    <li>Uloshengitys taas nostaa keuhkolaskimoiden painetta ja siten parantaa virtausta vasemmalle puolelle sydäntä -> E-aallon huippunopeus nousee sisäänhengityksessä.</li>
+    <li>Fysiologiset muutokset yhdistettynä voidaan luoda seuraava kriteeri: **mitraalivirtausten laskeminen >25% inspiraation myötä viittaa konstriktioon** (samoilla periaatteilla trikuspidaaliläpän sisäänvirtauksen huippuaallon _nouseminen_ >40% inspiraatiossa on positiivinen löydös).</li>
+  </ul>
+
+![](images/constrictionpathophys.png)
+![](images/ventricularinterdependence.gif)
+
+Kuten yllä olevasta patofysiologiaa selittävästi gifistä näkyy, niin septum heiluu sydämen syklissä normaalia enemmän. Tämän **"septal bounce"-löydöksen** voi helposti sekoittaa dyssynkroniaan, mutta se johtuu tässä tapauksessa ventrikulaarisesta interdependenssistä. Alkudiastolessa siis yleensä nähdään septumin siirtyminen vasempaan kammioon ja tätä seuraa pompahtaminen takaisin. Tämä on selkeintä ensimmäisessä sydänlyönnissä inspiriumin alettua. 
+
+Jos PLAX-ikkunassa laittaisi M-moodikursorin septumin läpi, niin voisi nähdä ns. **"shudder sign:n"** eli oskilloivan septumin liikkeen. 
+
+Yksi mahdollinen lisälöydös on varsinkin PSAX-ikkunassa nähtävä **posteriorisen seinämän M-moodin tasoittuminen** ("posterior wall flattening"). Normaalisti siis diastolessa vasemman kammion täyttyessä kaikki seinämät liikkuvat ulospäib, joten M-moodissa nähdään alaspäin viettävä posteriorisen seinämän tallenne. Konstriktiivisessa perikardiitissa jäykkä perikardium estää tätä liikettä ja nähdään diastolisen osuuden aikana tasainen eli vaakasuora takaseinämän M-moodikäyrä. 
+
+Tietysti 2D-kuvasta voidaan usein myös nähdä paksuuntunut perikardium, mutta transtorakaalisen echon luotettavuus tämän tunnistamisessa ei ole täydellinen. Perikardiumin paksuuntuminen ei myöskään ole diagnostinen kriteeri konstriktiiviselle perikardiitille -- jos se kuitenkin halutaan osoittaa, niin MRI tai TT ovat parhaimpia sen osoittamiseksi. Paksuuntunut perikardium voi kuitenkin olla läsnä ilman konstriktiivisia piirteitä. 
+
+![](images/sepbounce.gif)
+
+---
+
+Toinen yleinen löydös perikardiaalisessa konstriktiossa on ns. **annulus reversus joka tarkoittaa, että mediaalinen e′ > lateraalinen e′.** Normaalitilanteessahan kammion vapaaseen seinämään liittyvä lateraalinen annulus on hieman nopeampi kuin jäykempään kammioväliseinämään kiinnittyvä septaalinen annulus. Poikkeus tähän sääntöön on perikardiaalinen konstriktio, jossa septumin liike on suhteellisen vapaata verrattuna jäykän sydänpussin rajoittamaan lateraaliseinämään. Septaalisen annuluksen liike voi jopa olla ylikorostunutta.
+
+![](images/annulusreversus.png)
+
+---
+
+Vielä yksi yleinen varsinkin varmentavana tutkimuksena käytettävä mittaus on maskalaskimovirtaukset, joissa voidaan nähdä loppudiastolisten virtausten lisääntynyttä ekspiratorista kääntymistä. Maksalaskimovirtauksia käsitellään sydämen oikean puolen kattavassa kappaleessa enemmän. 
+
+<li>Uloshengityksessä rintakehän paine nousee, ja lisääntyvä vasemman kammion täyttyminen johtaa septumin siirtymiseen oikealle. Tämä kompressoi oikeaa kammiota, mikä aiheuttaa sen, että kun loppudiastolessa oikea eteinen yrittää puristaa loppuja veriään oikeaan kammioon (eteissystole), oikea kammio ei pysty vastaanottamaan näitä korkeasta paineestaa johtuen ja eteisen puristama veri kulkeekin taaksepäin alaonttolaskimoon (IVC) ja maksalaskimoihin. Tämä näkyy loppudiastolisen reversal velocityn korostumisena -> (end-diastolic reversal velocity/forward flow velocity ≥ 0.8).</li>
+<li>Restriktiossa taas flow reversal tyypillisesti taas pahenisi inspiraatiossa (sisäänhengitys lisää verta jäykässä oikeassa sydänpuoliskossa, joka ei voi venyttyä).</li>
+
+![](images/flowreversalconstriction.png)
+
+Jos UKG on selvästi konstriktiivinen, niin ei tarvita lisäkuvantamisia diagnoosin asettamiseksi. Erotus restriktiivisen (jäykkä sydänlihas) ja konstriktiivisen tilanteen välillä on tärkeää, koska niiden hoito erooa merkittävästi. Sydämen konstriktion oireet saadaan lievissä tapauksissa hallituksi diureeteilla, mutta lopullinen hoito on periaatteessa aina sydänpussin mahdollisimman laaja resektio. Perikardiektomia tulisi tehdä varhain, sillä pitkälle edenneissä tapauksissa resektio voi olla teknisesti hankala, epikardiaalisia muutoksia on runsaammin ja myös sydänlihas on voinut fibrotisoitua, mikä heikentää kammioiden toimintaa ja lisää leikkauskomplikaatioita. Leikkauskuolleisuus sydänpussin resektiossa on nykyisinkin huomattava, 5–10 %.
+
+Restriktiivinen kardiomyopatia (syitä mm. idiopaattinen, amyloidoosi, sarkoidoosi, hemokromatoosi, Fabryn tauti, familiaaliset geenivirheet) on sydänlihaksen sisäinen ongelma, jonka takia hoito ei voi olla operatiivinen. Hoito perustuu lääkkeisiin (esim. varovainen nesteenpoisto, amyloidoosin täsmähoidot) tai viimeisenä vaihtoehtona sydänsiirtoon.
+
+<li>Lisää sydänamyloidoosista sen omassa kappaleessaan.</li>
+
+
+![](images/consvsres.png)
+![](images/constrictionalgo.png)
+
+#### Eteisvärinä 
+
+Eteisvärinä on yksi yleisimmistä diastoliikan arviota häiritsevistä tekijöistä ja sen esiintyvyys on itse asiassa koholla diastolisessa dysfunktiossa ja HFpEF:ssä.
+
+<li>Esiintyvyys on muutenkin merkittävän korkea nykyään varsinkin ikääntyneessä väestössä, mutta erityisesti diastolisessa dysfunktiossa laajeneva ja remodeloituva eteinen on alttiimpi eteisvärinälle.</li>
+
+---
+
+Tärkein huomio eteisvärinän yhteydessä on se, että ei ole synkronoitua eteissystolea, jonka seurauksena A-aaltoa ei ole nähtävissä. Eteisvärinässä todetaan siis mitraalisisäänvirtauksissa vain epäsäännöllisesti esiintyviä E-aaltoja. **Tästä johtuen E/A-suhdetta ei voida laskea ja tarkempi gradeeraus kolmeen gradukseen ei ole mahdollista** -- käytännössä siis eteisvärinässä diastoliikan gradeeraus jakautuu kahteen: täyttöpaineet normaalit / täyttöpaineet koholla.
+
+Johtuen myös epäsäännöllisen epäsäännöllisesti rytmistä kammion täyttyminen sydänsyklien välillä vaihtelee ja E-aaltojen amplitudi vaihtelee. Samaa ilmenee myös kudosdopplerissa. Tämän takia eteisvärinässä on järkevää ottaa monia arvoja ja laskea niistä keskiarvo. E/e'-suhteiden laskemisessa parasta olisi käyttää dual-doppleria ja mitata molemmat samaan aikaan samasta syklistä, mutta tällaista teknologiaa ei yleensä ole saatavilla.
+
+<li>On myös todella tärkeää huomioida, että eteisen ulottuvuuksista ei voi päätellä vasemman eteisen täyttöpaineita, jos potilas on eteisvärinässä. Eteisvärinä johtaa eteisten remodelaatioon ja erityisesti laajenemiseen, vaikka täyttöpaineet olisivatkin normaalit. </li>
+
+---
+
+Tärkeimmät mittarit on mainittu alla olevassa algoritmissa. **E/e'-suhteessa on mainittu vain septaalinen e',** koska lateraalinen seinämä on vapaaliikkeisempi ja eteisvärinän aiheuttaman mekaanisen sekasorron vuoksi lateraalisen seinämän liikkeen vaihtelu vääristää E/e’-suhdetta herkemmin, jolloin se saattaa aliarvioida täyttymispaineiden nousua. 
+
+Yksi kvalitatiivinen lisämittari on **E-aaltojen nopeuden vaihtelevuuden (beat-to-beat variability) tarkastelu. Nopeusvariabiliteetti vähenee täyttöpaineiden noustessa,** mikä johtuu siitä, että kun potilaalla on vaikea diastolinen dysfunktio ja korkeat täyttöpaineet, vasemman eteisen paine (LAP) on jatkuvasti erittäin korkea. Kun mitraaliläppä aukeaa diastolen alussa, eteisen ja kammion välinen painegradientti on iso R-R-välin pituudesta riippumatta. Tämä jatkuva paine-ero pakottaa veren virtaamaan kammioon maksimaalisella nopeudella joka ikisellä lyönnillä, mikä häivyttää sykevaihtelun tuoman normaalin fysiologisen variaation. 
+
+<li>Vaihtelevuudelle ei kuitenkaan ole mitään selkeää raja-arvoa ja arvio on subjektiivinen -> tulisi käyttää vain jos kvantitaviiviset mitat eivät ole saatavilla.</li>
+
+![](images/lapafib.png)
+![](images/evariability.png)
+
+## Lausunto
+
+Liian usein vajaatoimintaepäilyssä keskitytään liikaa systoliseen puoleen. Olen jopa nähnyt lausuntoja päivystyksestä osastolle tulleilta potilailta, joissa sanotaan luokkaa "ei nyt lähdetty yön pikkutunneilla arvioimaan diastoliikkaa" ja jätetty sydämen suhteen arvio vain siihen, että todettu systolinen funktio normaaliksi ja potilaan hengenahdistus hieman epäselväksi. Ja vaikka systolinen funktio olisikin heikentynyt, niin diastolinen funktio (ja mm. myös oikean kammion funktio, joka on myös usein unohdettu mittauksissa) on itsenäinen ennustetekijä. 
+
+Diastoliikkaa ei tulisi pelätä tai kokea, että se on liian monimutkaista ja aikaa vievää. Jos vain ymmärtää gradeerauksen periaatteet ja sen mitä eri mittauksilla haetaan, niin arvioinnista tulee helppoa. Kaikkiin kattaviin UKG-lausuntoihin tulisi kuulua arvio diastolisesta funktiosta ja täyttöpaineista ja sitä kautta diastoliikan gradeeraus luokkiin normaali, gr 1, gr 2 (LAP lievästi tai kohtalaisesti koholla) ja gr 3 (LAP huomattavasti koholla). Jos tarkkaa gradusta on mahdotonta selvittää (esim. eteisvärinässä, kun E/A-suhdetta ei voida määrittää), niin täyttöpaineet tulisi ilmoittaa tarkkuudella normaali/koholla. Kehitys edelliseen ultraan tulisi aina mahdollisuuksien mukaan myös arvioida. 
+
+Lausuntoon sisällytettävät arvot ovat yleisimmin vähintään mitraalisisäänvirtausnopeudet, annulaariset e'-nopeudet, trikuspidaalivuodon huippunopeus/gradientti, E/A-suhde, E/avg e'-suhde (tai E/lat' tai E/sep e' jos vain toinen kerätään). Jos näiden perusteella gradeeraus on selvä, niin ei sinänsä tarvitse muuta, mutta jos gradeerausalgoritmia seuraten on mitattu myös esim. keuhkolaskimoiden S/D-suhde, A-aallon kesto, keuhkolaskimovirtauksen Ar-kesto ja/tai IVRT niin myös nämä tulisi ilmoittaa ja ilmoittaa mitä niistä on päätelty LAP:n ja diastoliikan graduksen suhteen. 
+
+--- 
+
+Tyypillinen diastoliikan osuuden esimerkkilausunto potilaasta, jolla gr 3 diastolinen dysfunktio voisi esimerkiksi olla seuraavanlainen: 
+
+<li>Diastoliikasta sep e' 4 ja lat e' 5, joista avg e' 4.5. E 1.2, E/A 2.4. E/avg e' 26.7. Trikuspidaalivuodosta huippunopeus 3.5.</li>
+<li>Yht: Huomattavasti heikentynyt relaksaatiokyky ja huomattavasti koholla oleva vasemman eteisen paine. Kyseessä siis gr 3 diastolinen dysfunktio.</li>
+
+
+## HFpEF
+
+Sydämen vajaatoiminta jaetaan ejektiofraktion mukaan kolmeen pääryhmään: 
+
+<li>HFrEF (heart failure with reduced ejection fraction) = EF on 40% tai alle</li>
+  <ul>
+    <li>Periaatteessa on vielä olemassa ns. HFimpEF (heart failure with improved ejection fraction), jos EF on joskus ollut alle 40%, mutta kontrolliultrissa se on parantunut yli 40%:iin.</li>
+  </ul>
+<li>HFmrEF (heart failure with mildly reduced ejection fraction) = EF on välillä 41-49%</li>
+<li>HFpEF (heart failure with preserved ejection fraction) = EF on 50% tai enemmän</li>
+  <ul>
+    <li>HFpEF on nousussa ja käsittää tällä hetkellä yli 50% kaikista sydämen vajaatoimintatapauksista. Nousun syy on monitekijäinen ja liittyy erityisesti ikääntyvään väestöön, jossa on runsaasti altistavia komorbiditeettejä, kuten hypertensio, diabetes, obesiteetti yms.</li>
+  </ul>
+
+---
+
+Vaikka EF otettiin nyt heti puheeksi, niin kuin systoliikassa että diastoliikassakin tulee muistaa yksi tärkeä asia: **diagnoosi sydämen vajaatoiminnasta ei perustu pelkästään echolaitteen ruudulla näkyviin arvoihin.** Sydämen vajaatoiminta on oireyhtymä, joka vaatii _vajaatoiminnalle tyypillisiä oireita ja/tai löydöksiä_ sen lisäksi että on osoitus sydämen rakenteellisesta tai toiminnallisesta poikkeavuudesta. 
+
+Sydämen vajaatoimintaepäilyssä tulisi siis ensin arvioida sopivatko oireet tai kliiniset löydökset vajaatoimintaan. Sen jälkeen usein arvioidaan, ovatko natriureettisten peptidien (proBNP) pitoisuudet suurentuneet (NT-proBNP < 125 ng/l sulkee kroonisessa tapauksessa (akuutissa < 300 ja eteisvärinässä < 365) sydämen vajaatoiminnan pois n. 94%:n herkkyydellä, kun taas > 2 000 ng/l tarkoittaa melko suurella todennäköisyydellä sydämen vajaatoimintaa; välissä on harmaa alue) tai voidaan siirtyä jopa suoraan ultraäänitutkimukseen, jolla varmistetaan vajaatoiminnan diagnoosi ja saadaan pääteltyä vajaatoiminnan etiologia. 
+
+<li>Virallisesti sydämen vajaatoiminnan diagnoosi ei vaadi UÄ:ssä muuta kuin osoituksen sydämen poikkeavasta rakenteesta/toiminnasta eli mm. pelkkä vasemman kammion hypertrofia voi toimia diagnostisena löydöksenä. Kuitenkin kannattaa suorittaa tarkempi rakenteellinen UÄ, jotta saa ongelman vaikeusasteen gradeerattua ja etsittyä kaikki mahdolliset syyt pettävälle pumppufunktiolle.</li>
+<li>Jos potilaalla ei ole oireita tai kliinisiä löydöksiä sydämen vajaatoiminnasta, mutta UÄ:ssä on rakenteellinen/toiminnallinen poikkeavuu tai proBNP on koholla, niin kyseessä on ns. vaiheen B sydämen vajaatoiminta eli ns. sydämen vajaatoiminnan esivaihe.</li>
+  <ul>
+    <li>Vaihe A = Riski sairastua sydämen vajaatoimintaan, mutta ei rakenteellisia tai toiminnallisia muutoksia sydämessä. Ei sydämen vajaatoimintaan liittyviä oireita.</li>
+    <li>Vaihe C = Oireinen sydämen vajaatoiminta. Oireita ja löydöksiä, jotka johtuvat sydämen toiminnan häiriintymisestä. Vaiheeseen liittyy poikkeava hemodynamiikka, ja natriureettisten peptidien pitoisuus on selvästi suurentunut. Hoidon myötä oireet ja löydökset voivat väistyä, mutta manifesti sydämen vajaatoiminta pysyy vaiheessa C (tai etenee vaiheeseen D)</li>
+    <li>Vaihe D = Vaikea-asteinen sydämen vajaatoiminta. Tilaa kuvastavat vaikeat sydämen vajaatoimintaoireet, toistuvat sairaalahoitojaksot ja vajaatoimintaan liittyvät muiden elinten (munuaiset, keuhkot, maksa, ääreisverenkierto) kuormitusmuutokset.</li>
+    <li>Vaiheessa A tavoite on hoitaa vajaatoiminnan riskitekijöitä. Vaiheessa B tavoite on lisäksi hoitaa rakenteellista sydänsairautta ja näin estää vajaatoiminnan kehittyminen. Vaiheissa C ja D tavoite on lievittää oireita ja vähentää (sairastavuutta) sairaalahoidon tarvetta ja kuolleisuutta.</li>
+    <li>Vaiheessa B voidaan guidelinejen mukaan aloittaa  ACEi ja beetasalpaaja, jos EF on ≤ 40% (eivät ole ennustelääkkeitä HFpEF:ssä); SGLT2i ei vielä ole virallisesti suositeltu ilman samaan aikaan olevaa diabetesta.</li>
+   <li>Vaiheessa C ja D tulisi käyttää guidelinejen mukaisia ennustelääkkeitä (näistä lisää kohta).</li>
+  </ul>
+
+![](images/hfcriteria.png)
+![](images/hfalgo1.png)
+![](images/hfalgo2.png)
+
+![](images/sydvajvaiheet1.png)
+![](images/sydvajvaiheet2.png)
+
+HFpEF:n diagnostiikkaa auttamaan on rakennettu H2FPEF-laskuri, jota voi käyttää kvantifoimaan HFpEF:n todennäköisyyttä ultraäänilöydöksistä ja kliinisistä/anamnestisistä piirteistä. Tulos ≥ 4 pistettä oireisella potilaalla viittaa diastoliseen vajaatoimintaan ja yli 7 pistettä on jo yli 95%:n todennäköisyydellä HFpEF. On myös esitetty ns. HFA-PEFF-score ja siihen perustuva algoritmi. 
+
+Nämä voivat olla apuna tarvittaessa, mutta periaatteessa siis HFpEF:n UÄ-diagnoosi perustuu siihen, että poissuljetaan matala ejektiofraktio sekä osoitetaan kohonneet vasemman eteisen paineet (tarvittaessa stressiecholla). Periaatteessa mm. primääreistä läppävioista (esim. mitraalivuoto) johtuvat sydämen vajaatoiminnat myös tippuvat HFpEF:n alle, koska sen määritelmä on vain, että on sydämen vajaatoiminta normaalilla ejektiofraktiolla. Kuitenkin tällaisten hoito usein eroaa verrattuna pelkästään diastolisesta dysfunktiosta johtuvaan sydämen vajaatoimintaan. 
+
+![](images/h2fpef.png)
+![](images/hfapeff1.png)
+![](images/hfapeff2.png)
+
+![](images/hfpefalgo.png)
+![](images/hfpefdef.png)
+
+### HFpEF:n hoito
+
+Kuten suurin osa todennäköisesti muistaa, niin sydämen vajaatoiminnan hoito eroaa sen mukaan, mikä potilaan ejektiofraktio on. HFrEF:lle on ollut jo pitkään käytössä monia ennustelääkkeitä, mutta HFmrEF:n ja HFpEF:n ennustehoito on ollut vähäisempää. Nykyään niillekkin kuitenkin löytyy hyvä lääke. 
+
+<li>HFrEF:n ennustelääkitys sisältää neljä pilaria</li>
+  <ul>
+    <li>ACE:n estäjän (enalapriili, lisinopriili, ramipriili tai toissijaisesti ATR-salpaaja; jos ACEi/ATR ei riitä ja potilas oireinen, niin ARNIa (sakubitriili-valsartaani) voi miettiä niiden tilalla)</li>
+    <li>Beetasalpaajan (bisoprololi, karvediloli, metoprololi)</li>
+    <li>Mineralokortikoidireseptorin salpaaja eli MRA (spironolaktoni, eplerenoni, finerenoni)</li>
+    <li>SGLT2:n estäjä (dapagliflotsiini, empagliflotsiini)</li>
+  </ul>
+<li>HFmrEF:n ja HFpEF:n ennustelääkitys sisältää nykysuosituksissa luokan I näytöllä ainoastaa SGLT2-inhibiittorin. </li>
+  <ul>
+    <li>**Simppelisti: SGLT2i aloitetaan kaikille vajaatoimintapotilaille riippumatta ejektiofraktiosta (vasta-aiheisia aloittaa (mutta ei jatkaa), kun GFR <20-25)**</li>
+    <li>Muilla ennustelääkkeillä (ACEi/MRA/beetasalpaaja) ei siis ole havaittu samaa vaikutusta kuolleisuuteen kuin HFrEF:ssä (esim. ACE:n estäjillä ei vaikutusta kuolleisuuteen HFpEF:ssa, vaikka vähentäisivätkin oireita). HFmrEF:ssa on nykyään jonkin verran näyttöä näiden lääkkeiden ennustevaikutuksesta ja niiden aloitusta suositellaan luokan II näytön tasoisesti, joten niiden käyttö on lisääntynyt HFmrEF-tasoisen (EF 41-49%) vajaatoiminnan hoidossa.</li>
+    <li>FINERARTS-HF-trial (esitettiin ESC:n kongressissa 2024) on tosin osoittanut HFmrEF/HFpEF:n hoidon toisen pilarin: **non-steroidaalinen MRA (eli siis finerenoni).** Finerenoni ei vielä ole osa esim. Käypä Hoito -suosituksia, mutta kannattaa pitää mielessä, että HFpEF:n hoitolinjat voivat tulla muuttumaan lähiaikoina.</li>
+    <li>Myös GLP1-agonisteista tai GIP/GLP1-tupla-agonisteista on hyötyä varsinkin obeeseilla potilailla</li>
+  </ul>
+
+![](images/hfpeftreat.png)
+![](images/hfreftreat.png)
+![](images/finerenoni.png)
+![](images/finearts.png)
+
+## Sudenkuopat 
+
+Sen lisäksi, että jo algoritmissa mainitut erityisryhmät voivat häiritä diastoliikan tulkitsemista, niin mittauksiin ja tulkintoihin liittyy myös todella monia yleisiä sudenkuoppia. Käydään läpi niistä muutama tärkein.
+
+### Milloin välttää toista puolta {#Milloin-valttaa}
+
+Tämä on jo osittain käyty läpi, mutta e'-aalto voi olla vain toisella puolella "väärin" hidastunut, mikä johtaa johtaa E/e'-suhteen yliarviointiin. 
+
+<li>Septaalista puolta tulisi välttää, jos potilaalla on oikean puolen kuormitusta tai septumin liikehäiriöitä</li>
+<li>Lateraalista annulusta tulisi välttää esimerkiksi, jos annulus on vain lateraalisesti kalkkeutunut tai potilaalla on eteisvärinä</li>
+
+### Väärän aallon mittaaminen {#Vaara-aalto}
+
+Välillä voi olla hankalaa tunnistaa, mikä aalloista on mikäkin ja tämä voi johtaa väärin valittuihin mittauskohtiin. EKG-ohjattu aaltomuotojen ajoituksien arvioiminen voi auttaa aaltojen erottamisessa toisistaan, mutta ilman EKG:takin on yleensä mahdollista tunnistaa tarvittavat aallot hieman hankalaltakin näyttävistä käyristä.  
+
+**Yksi yleisimmistä virheistä on mitata kudosdopplerikäyrältä prominentti IVRT'-aalto e'-aaltona.** Kuten jo käytiin aikaisemmin läpi, niin IVRT eli isovolumetric relaxation time tarkoittaa lyhyttä ajanjaksoa aorttaläpän sulkeutumisen ja mitraaliläpän avautumisen välillä, jonka aikana kammio relaksoituu, mutta sen veritilavuus ei vielä muutu. Vaikka mitraaliläppä on vielä IVRT:n aikana kiinni (eli verta ei virtaa kammioon), niin kammion sisäinen paine laskee ja se muuttaa muotoaan systolisen kiertoliikkeen avautuessa. Tämä mekaaninen "pyyhkeen aukeaminen" ja muodonmuutos siirtää hiippaläpän rengasta (mitraaliannulusta), vaikka läppä itsessään on yhä kiinni. TDI-kursori havaitsee tämän liikkeen ja käyrällä voidaan nähdä lyhyt ja yleensä amplitudiltaan aika pieni piikki systolisen s'-aallon ja varhaisdiastolisen e'-aallon välissä; piikki on kudosdopplerilla kuvattuna nimetty IVRT'-aalloksi. 
+
+Joskus IVRT' voi olla jokseenkin prominentti ja sitä voi helposti luulla e'-aalloksi. Varsinkin potilaan ollessa eteisvärinässä voi helposti ajatella näkevänsä normaalin TDI-käyrän, kun näkee kaksi erillistä piikkiä, joista ensimmäinen on oikeasti IVRT ja toinen e' -- helposti voisi luulla, että ensimmäinen olisi e' ja toinen a'. Kuitenkin jos tietää potilaan olevan eteisvärinässä tai epäilee sitä (esim. mitraalisisäänvirtauksissa ei selkeää A-aaltoa ja epäsäännöllinen rytmi), niin tulisi tiedostaa, että potilaalla ei tulisi olla a'-aaltoa (flimmeripotilailla ei ole synkronoitua eteissystolea) ja jos näkee kaksi diastolista deflektiota kudosdopplerilla, niin toinen niistä on "a'-aallon mimikoija" eikä oikea a'-aalto.
+
+![](images/ivrtwrong.png)
+
+### Sample gaten väärä sijainti {#Vaara-sijainti}
+
+Mitraalisisäänvirtauksien mittaus tehdään siten, että PW-sample gate on mitraaliläpän avonaisessa asennossa purjeiden välissä -- ei merkittävästi niiden kammio- taikka eteispuolella. Jos paikka on väärä, niin myös mittaukset yleensä heittävät. Yleensä siis portin ollessa eteisessä E-aalto laskee ja A-aallon huippunopeus korostuu, kun taas liikaa kammion puolella varsinkin A-aalto laskee (myös E-aalto voi hidastua). 
+
+![](images/abcde.png)
+
+### Aorttavuoto
+
+Yllä mainittuun liittyen voi kuitenkin olla joskus järkevää siirtää sample gaten lokaatiota oppikirja-asennosta pois. Yksi yleisimmistä syistä tällaiselle on aorttavuoto. 
+
+**Aorttavuodon suihku voi kulkea mitraalivirtauksien mittausalueelle ja häiritä luotettavan sisäänvirtauskäyrän keräämistä. Välillä sample gaten siirtäminen hieman eteisen puolelle voi auttaa suojaamaan sitä vuotosuihkulta.**
+
+Keskivaikea tai vaikea aorttavuoto voi myös aiheuttaa **ennenaikaista mitraaliläpän sulkeutumista (PMVC),** kun korkeapaineinen vuotosuihku työntää anteriorista purjetta liian aikaisin kiinni. Anteriorisen purjeen värinä vuotosuihkun takia voidaan joskus myös kuulla ns. Austin Flint-sivuäänenä, joka on matalataajuuksinen keskidiastolinen sivuääni, joka kuuluu parhaiten apeksin alueelta ekspiraatiossa ja eteenpäin nojatessa; usein sekoitetaan mitraalistenoosin sivuääneen. [Täällä](https://litfl.com/austin-flint-murmur/) on esimerkkiääniä kuunneltavissa.
+
+Nopeasti nouseva kammiopaine vaikeassa aorttavuodossa voi myös aiheuttaa joskus **diastolista mitraalivuotoa,** joka voidaan nähdä CW-dopplerilla transmitraalisesti pienenä signaalina ennen systolista vuotoa. Tällainen voi myös olla nähtävissä joskus AV-blokeissa. 
+
+![](images/pmvc.png)
+![](images/diastolicmr.png)
+
+### Assimiloituneet E- ja A-aallot {#Fused}
+
+Yksi ongelma E/A-suhteen mittaamisessa on se, että joskus E- ja A-aallot ovat voineet sulautua yhdeksi isoksi aalloksi (summaatiovirtaus). Tämän yleisin syy on takykardia, koska sykkeen noustessa erityisesti diastole on se syklin vaihe, joka lyhenee merkittävästi. Diastolessa vielä diastaasin eli E- ja A-aallon välisen matalavirtauksisen ajan kesto on käänteisesti suhteellinen sykkeeseen ja voikin takykardiassa kadota, jolloin E- ja A-aallot osuvat käytännössä päällekkäin. 
+
+**Paras tapa erottaa E- ja A-aallot on saada syke laskemaan: rauhoita potilasta, käytä Valsalvan manööveriä (hidastaa sykettä) tai mittaa pitkän uloshengityksen lopussa (syke laskee luonnollisesti uloshengityksen aikana).**
+
+<li>Jos syke ei laske, voit yrittää parantaa laitteen aikeresoluutiota, jotta pienikin viive aaltojen välillä tulisi näkyviin: nosta pyyhkäisynopeutta (Sweep Speed): Nosta laitteen Doppler-näytön pyyhkäisynopeus maksimiin (esim. jopa 150 mm/s). Tämä venyttää Doppler-spektriä vaakasuunnassa. Joskus aaltojen välissä on pieni lovi, joka tulee näkyviin vasta, kun kuva "venytetään" kunnolla.</li>
+<li>Jos potilas saa ennenaikaisen eteislyönnin takykardian aikana, niin tätä seuraavan kompensatorisen paussin jälkeisessä mitraalivirtauksessa E- ja A-aallot usein erkanevat. Näistä otettuja mittauksia voidaan käyttää guidelinejen mukaan diastoliikan arvioimisessa.</li>
+
+---
+
+Jos mikään kikka ei auta ja aallot ovat täysin fuusioituneet, E/A-suhdetta ei voi eikä kannata mitata, koska tulos on epäluotettava. Tässä tilanteessa kannattaakin mitata kudosdoppleriarvot, koska e'- ja -a'-aallot saattavat korkeammasta aikeresoluutiosta johtuen silti näkyä erillisinä -> e'-nopeuksien mittaus on mahdollista. Jos nekin ovat sulautuneet, mittaa fuusioaallon huippunopeus. Samoin voi myös mitata E/A-fuusioaallon sisäänvirtauksissa ja ilmoittaa tämän lausunnossa summaatiovirtauksen nopeutena. E/e'-suhdetta voi käyttää lausunnossa myös, mutta samoin varauksella. Lisäksi kannattaa tukeutua moniin muihin diastoliikan arvioihin, joita ollaan jo tässä kappaleessa mainittu useita. 
+
+**Huom! Kannattaa varmistaa, ettei kyseessä ole eteisvärinä** (tai eteislepatus). Eteisvärinässä A-aalto puuttuu kokonaan (koska eteiset eivät supistu koordinoidusti), jolloin näkyvissä on vain epäsäännöllisesti ilmeneviä E-aaltoja. Yhdistyneet E- ja A-aallot voivat helposti herättää epäilyn eteisvärinästä, vaikka ne tulisivatkin säännöllisesti (usein eteisvärinäkin voi olla hämäävän tasainen). Kannattaakin usein ottaa tällaiselta potilaalta EKG eteisvärinän poissuluksi tai tehdä echo ja EKG samanaikaisesti (useimmissa koneissa on mahdollisuus kiinnittää leadit kiinni koneeseenkin ja saada rytmikäyrä näytölle). 
+
+---
+
+**Nopean sykkeen lisäksi yksi toinen tärkeä syy E/A-fuusiolle on 1. asteen AV-katkos.** Sähköisen signaalin kulussa kammioihin kestää normaalia pidempään (EKG:ssa PQ-aika on pidentynyt > 200 ms), joten eteiset supistuvat suhteessa kammioon paljon aikaisemmin kuin yleensä eli jo heti edellisen kammion supistuksen jälkeen. Eteissupistus (A-aalto) siirtyy ajallisesti eteenpäin ja "työntyy" suoraan varhaisdiastolisen täyttövaiheen (E-aalto) päälle. Tuloksena on fuusioitunut E/A-aalto, vaikka potilaan syke olisi täysin normaali. Merkittävästi pitkittyneessä PQ-ajassa eteiset alkavat relaksoitumaan jo ennen kammion supistumista, jolloin muodostuu käänteinen gradientti jo diastolen aikana ja voidaan nähdä diastolista mitraalivuotoa (CW-doppleri mitraaliläpän läpi; kuva tästä aorttavuotoa käsittelevän alaotsikon alla tässä kappaleessa). 
+
+![](images/eafusion.png)

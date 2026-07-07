@@ -1,0 +1,257 @@
+# Projektiot 
+
+UKG:ssa sydäntä tarkastellaan tyypillisesti muutamasta standardinäkymästä eli projektiosta. Ei ole aloittelijan näkökulmasta erityisenkään tärkeää, että osaisi päässään peilata näytöllä näkyvää oikeaan anatomiaan, vaan **tärkeintä on se, että oppii tunnistamaan, miltä tiettyjen projektioiden tulisi näyttää ja oppia tunnistamaan niissä näkyvät asiat.** Vasta myöhemmin voi syventyä siihen, miten ultraääniaallot oikeasti kulkevat anatomisesti ja miksi tietty projektio näyttää siltä, miltä se näyttää. 
+
+Käydään kuitenkin nyt jo tässä samalla se, miten projektiot muodostuvat, koska yksi yleisimmistä kommenteista, jonka olen saanut UKG-aloittelijoilta on se, että "projektioiden ymmärtäminen on vaikeaa, kun osaamani anatomia ei oikein sovi loogisesti näytöllä näkyviin kuviin". Olen hyödyntänyt paljon [tältä sivulta](https://pie.med.utoronto.ca/TTE/TTE_content/assets/applications/TTE-HTML5-SV/index.html) kerättyjä kuvia. Sivustolta löytyy anatomisia malleja, joita voi itsekin mennä pyörittämään, jos anatomia ei täysin avaudu täysin kappaleen kuvista. 
+
+---
+
+Tärkeimmät pääprojektiot ovat **PLAX, PSAX, A4C/A5C ja SC (ja tämä on myös tyypillinen tutkimusjärjestys perusteellisessa rakenteellisessa UÄ:ssä).** Näistä on runsaasti variaatioita, joista muutamia on hyvä osata. Käydään tärkeimmät projektiot ja niistä tunnistettavat rakenteet tässä kappaleessa läpi ja syvennytään hieman harvinaisemmin arvioitaviin rakenteihin ja projektioihin vasta seuraavassa kappaleessa.
+
+## Potilaan asento 
+
+## Projektioiden etsiminen
+
+Pyöritä -> palaa
+
+## Sektorin syvyys 
+
+## Parasternaalinen pitkittäisprojektio (parasternal long axis, PLAX)
+
+Tyypillisesti PLAX on ensimmäinen projektio, joka potilaalta etsitään. Sen (yleensä) löytää siten, että **asettaa anturin rintalastan vasemmalle reunalle n. rintalastan keskiosan tasolle** (eli n. 3.-4. kylkiluuväliin). **Anturin "nypyn" tulisi osoittaa mediaalisesti potilaan oikeaan olkapäähän/kainaloon.**
+
+Koska nypyn puoleiset UÄ-aallot kulkevat sydämen kannan puolelta läpi ja toisella puolella taas enemmän kärjen läheiseltä alueelta (kärkeä ei kuitenkaan tulisi nähdä kokonaan), niin projektion oikealla puolella (cardiac modessa eli indikaattori näytön oikealla) on sydämen kraniaalisemmat rakenteet ja vasemmalla taas kaudaalisemmat eli apeksin puoleiset rakenteet. AP-suunnassa liikuttaessa ensiksi tulee vastaan anteriorisimmin (lähimpänä rintalastaa) sijaitseva oikean kammion vapaa seinämä (RVFW), oikea kammio ja sen ulosvirtauskanava (RVOT). Tämän jälkeen aallot lävistävät kammioväliseinän (IVS). Seuraavaksi aallot etenevät vasempaan kammioon (LV) ja aortan tyveen (Ao), halkaisten vielä aorttaläpän (ensiksi oikean koronaarikuspin (RCC) ja yleensä sen alla non-koronaarikuspin (NCC)) ja mitraaliläpän (ylempänä kuvassa anteriorinen purje (AMVL) ja sen alla posteriorinen purje (PMVL)) sekä valoittaen vasempaa eteistä aina vasempien lokeroiden takaseinämien (PW tai kammion suhteen virallisesti inferolateraalisen (IL) seinämän) läpi aina sydämen takana kulkevaan laskevaan rinta-aorttaan (descending aorta, DAO) saakka. 
+
+![](images/plaxlocation.png)
+![](images/plax.png)
+![](images/plaxorientation.png)
+
+
+### PLAX:n optimointi ja troubleshooting
+
+[Tässä on pitkä diapaketti](https://hmpocus.org/wp-content/uploads/2019/07/Optimization-1.-PLAx-7-25-19.pdf) Cornell Medical Collegesta, joka käsittelee PLAX:n optimointia ja antaa hyvinkin tarkat ohjeet siitä, miten kuvan saa oikeanlaiseksi. Ei kuitenkaan ole mielestäni kovinkaan järkevää opetella ulkoa kaikkia troubleshooting-ohjeita sen suhteen, miten missäkin ongelmakohdassa tulisi liikuttaa anturia. Fiksumpaa on vain viettää mahdollisimman paljon aikaa anturi kädessä oikeasti tutkien potilaita. Hiljalleen n-luvun noustessa oppii tunnistamaan, miten käden pienet korjausliikkeet vaikuttavat näytöllä näkyvään ja miten kuvaa saa paremmaksi. Oikeassa elämässä pitää vielä muistaa, että **kaikilla on hieman erilainen anatomia** ja projektioiden etsiminen poikkeaa potilaasta toiseen: joillakin saattaa olla "pysty sydän", joillakin taas oikein mikään kylkiluuväli ei tarjoa riittävän hyvää ikkunaa. Kuitenkin mitä enemmän sydämiä näkee, niin sitä todennäköisemmin pystyy saamaan seuraavalta potilaalta paremmin projektiot esiin.  
+
+Käydään kuitenkin läpi (yksinkertaistetusti) millainen edes on "optimaalinen" PLAX, jotta tietää, mihin kuvatessaan tulisi kiinnittää huomiota. 
+
+<li>**Sydämen kärkeä ei tulisi näkyä suurimmalla osalla potilaista ja vain n. 2/3 septumista tulisi olla nähtävissä; ns. "false apex" viittaa väärään leikkaustasoon ja tilannetta kutsutaan nimellä "foreshortening".**</li>
+  <ul>
+    <li>Yleensä foreshorteningin siis tunnistaa siitä, että apeksi "työntyy" kammioon ja kammio näyttää pieneltä pussilta. </li>
+    <li>Yleensä paras troubleshooting-vinkki on rotatoida anturia hieman myötäpäivään - tämä auttaa kammion "avaamisessa". Joskus tarvitsee siirtää anturia hieman mediaalisesti tai yksi kylkiluuväli ylöspäin tai joskus tarvitsee tehdä tilttausliikkeitä.</li>
+  </ul>
+<li>Vasemman kammion ja sen seinämien tulisi olla suhteellisen vaakatasossa 2D-kuvassa</li>
+  <ul>
+    <li>Liian "pysty" sydän häiritsee erityisesti M-mode-mittauksia, mutta usein myös muita mittauksia, koska paras spatiaalinen ja lateraalinen resoluutio tulee 90 asteen kulmassa UÄ-aaltoihin nähdessä. Usein myös vertikaaliset seinämät ja foreshortening kävelevät käsi kädessä.</li>
+    <li>Ratkaisu on tässäkin rotatoiminen myötäpäivään ja yleensä myös siirtyminen ylöspäin ja/tai mediaalisesti.</li>
+  </ul>
+<li>Mitraaliläpän tulisi olla juuri keskilinjan oikealla puolella; aorto-septaalisen kulman tulisi olla symmetrinen vertikaalisen linjan suhteen (kulman ei tosin tarvitse olla absoluuttisen keskellä)</li>
+  <ul>
+    <li>Jos aortoseptaalinen kulma on rotatoitunut, niin pitää keinuttaa. Jos taas se on normaali, mutta kuva ei ole oikein keskitetty, niin siirtäminen kaudaalisesti/kraniaalisesti on usein paras.</li>
+  </ul>
+  
+
+---
+
+Tässä alla vasemmalla kuvan keskitys on väärä, apeksia näkyy liikaa ja seinämät ovat liian vertikaaliset suhteessa parempaan kuvaan oikealla. 
+
+![](images/plaxcomp.gif)
+
+Tässä alla olevissa gifeissä ensimmäinen on liian pystysuora ja nähdään apeksin merkittävästi supistuvan sisäänpäin kammioon (foreshortening). Alemmassa videossa apeksia nähdään vähemmän ja seinämät ovat vähemmän vertikaalisesti asennoituneita. Mitraaliläppä ja aortoseptaalinen kulmakin ovat paremmin keskitettyjä. 
+
+![](images/plaxvertical.gif) 
+
+![](images/plaxhorizontal.gif)
+![](images/rocking.png)
+![](images/rockingsliding.png)
+
+
+### RV Inflow Tract View (RVIT)
+
+Välillä trikuspidaaliläpän ja sen vuodon arviointi on vaikeaa apikaalisesti, jos sydämen asento tai yleisesti näkyvyys on apikaalisesti suboptimaalinen. **Näkyvyys voi kuitenkin parasternaalisesti olla hyvä, jolloin oikean eteisen, trikuspidaaliläpän ja oikean kammion alueen arvioiminen saattaa olla paras tehdä PLAX-projektion modifikaatiosta eli ns. "right ventricular inflow tract (RVIT)" -projektiosta.** Joskus kuulee myös nimityksen "atyyppinen PLAX", mutta tarkempi nimitys on RVIT. 
+
+**RVIT-ikkunaan pääsee kallistamalla (tilt) anturia alaspäin PLAX:sta,** jolloin ultraääniaallot lähtevät yleensä enemmän portilaan oikeaa lonkkaa kohti. UÄ-aallot leikkaavat tällöin oikeaa puolta sydämestä. **Näytöllä voidaan erityisesti nähdä oikea kammio ja sen alla trikuspidaaliläppä, jonka alla taas oikea eteinen.** Lisäksi voidaan tunnistaa ylä- ja alaonttolaskimo (IVC ja SVC) sekä sinus coronariuksen laskuaukko. 
+
+<li>Joskus myös on nähtävissä prominentti Eustachin läppä, joka on sikiörakenne, joka on alaonttolaskimon suulla sijaitseva pieni limakalvopoimu, jonka tehtävä sikiön verenkierrossa on ohjata runsashappinen veri eteisten väliseinässä olevan soikean ikkunan (foramen ovale) kautta vasempaan eteiseen. Se surkastuu tai häviää normaalisti syntymän jälkeen. Se voidaan kuitenkin todeta merkityksettömänä jäänteenä jopa yli puolella aikuisista; UKG:ssa siis näkyy mobiili projektio oikeaan kammioon IVC:n vieressä.  Läppä ei yleensä aiheuta oireita, ellei siihen liity muita sydämen rakennepoikkeavuuksia (kuten avoin eteisväliseinäaukko).</li>
+  <ul>
+    <li>Rakenne on myös mm. apikaalisesti yleensä nähtävissä, jos sellainen on.</li>
+  </ul>
+
+---
+
+RVIT-projektion tärkein käyttöaihe on trikuspidaalivuodon gradientin mittaaminen. Tämä voidaan tehdä monesta muustakin ikkunasta, mutta tarvittaessa RVIT on yleensä hyvä ja vuotosuihku usein kulkee UÄ-aaltojen myötäisesti, jolloin saadaan tarkat mittaukset.
+
+![](images/rvit.png)
+![](images/rvit2.png)
+![](images/rvitanatomy.png)
+![](images/rvitcollage.gif)
+
+
+## Parasternaalinen poikittaisprojektio / lyhyen akselin ikkuna (PSAX)
+
+Seuraava projektio, johon yleensä siirrytään PLAX:n jälkeen on PSAX (parasternal short axis). 
+
+PSAX saadaan näkyviin pyörittämällä (rotate) anturia n. 90 astetta myötäpäivään PLAX-projektiosta. Tällöin anturin nypy yleensä osoittaa kohti potilaan vasenta olkapäätä. Joskus anturia tarvitsee siirtää hieman, koska rotaation aikana saatetaan menettää näkyvyyttä kylkiluiden välistä. 
+
+PSAX on todella dynaaminen ikkuna, koska UÄ-aallot siivuttavat sydämestä poikkileikkauksen pitkään akseliin nähden ja anturia tilttaamalla saadaan skannattua näitä poikkileikkauksia aorttaläpän tasolta aivan sydämen kärkeen saakka. 
+
+Käydään läpi eri leikkaustasot aloittaen kraniaalisimmasta tilttausasennosta (aorttaläpän ja oikean kammion ulosvirtauskanavan projektiosta) ja siirrytään kaudaalisesti kohti kärkeä.
+
+![](images/psaxlocation.png)
+
+### PSAX - Aorttaläppä ja RVOT (AV, TV, PV View) {#PSAX-1}
+
+Ääriasennossa aorttaa (eli käytännössä potilaan päätä) kohti tiltatessa nähdään poikkileikkaus aorttaläpästä ja sen ympäriltä voidaan tunnistaa myös paljon muitakin rakenteita. 
+
+Aorttaläpästä voidaan mm. arvioida, kuinka monesta liuskasta (kuspista) se muodostuu. Yleensä siis aorttaläppä on kolmiliuskainen, jolloin nähdään ns. "Mercedes-Benz-sign" eli läpän sulkeutuessa kuspien välirajoista muodostuva Y-muoto. Lisää aortan arvioinnista Aortta-kappaleessa.
+
+Aortan "alla" kuvassa on vasen eteinen (LA). Se oikealla puolella voidaan usein nähdä siihen yhdistyvä eteiskorvake (left atrial appendage, LAA) ja tämän alla vielä keuhkolaskimoita (vasen ylempi (LUPV) ja vasen alempi (LLPV)) sekä vielä laskeva aorttakin (DAo). 
+
+Vasemman eteisen vasemmalla puolella näkyvä lokero on oikea eteinen (RA). Näiden välissä on siten tietysti eteisväliseinä (AS, IAS). Tämä onkin yksi parhaimmista paikoista arvioida väridopplerilla eteisväliseinäaukon (ASD) olemassaoloa; tästä lisää sydämen oikean puolen kappaleessa. 
+
+Oikean eteisen "päällä" on oikea kammio ja näiden välissä trikuspidaaliläppä. Tämäkin on usein todella hyvä paikka mitata trikuspidaaligradientti ja arvioida trikuspidaaliläppää yleisesti. 
+
+Oikeasta kammiosta voidaan erityisesti arvostaa ulosvirtauskanavaa ja vielä jopa pulmonaaliläppää. Tästä vielä hieman ylöspäin tiltaten ja mahdollisesti kylkiluuvälinkin ylös mentäessä saadaan itse keuhkovaltimoa ja sen bifurkaatiota tutkittua; tästä enemmän seuraavassa kappaleessa projektioihin syventyessä.
+
+![](images/psaxavlvl.png)
+![](images/psaxavlvl.gif)
+![](images/psaxlaa.gif)
+
+![](images/psaxavtvpv.png)
+
+### PSAX - Mitraaliläppä {#PSAX-2}
+
+Aorttaläppätasosta kärkeen päin tiltatessa päästään seuraavaksi mitraaliläppätasolle, jossa voidaan nähdä mitraaliläpän lisäksi sitä ympäröivä pyöreä vasemman kammion tyvi ja kammioväliseinämän toisella puolella oikea kammio. 
+
+![](images/psaxmv.png)
+![](images/psaxmv.gif)
+![](images/psaxmvlvl.png)
+
+### PSAX - Keskiventrikkelitaso/Papillaarilihastaso {#PSAX-3}
+
+Mitraalitasolta yhä kammion kärkeä päin kammetessa päästään vasemman kammion keskitasolle, jossa voidaan nähdä papillaarilihakset (anterolateraalinen ja posteromediaalinen). Tältä tasolta voidaan hyvin arvioida mm. vasemman kammion toimintaa (esim. ejektiofraktion ja seinämien mittauksia voidaan suorittaa tältä tasolta).
+
+![](images/psaxpapillary.png)
+![](images/psaxmid.gif)
+![](images/psaxmid.png)
+
+### PSAX - Kärkitaso {#PSAX-4}
+
+Vielä kammion keskeltä kärkeä päin tiltatessa saadaan kammion kärki esiin. Kammion kärjessä ei enää ole selkeitä papillaarilihaksia näkyvissä. 
+
+PSAX-ikkunassa voidaan siis skannata koko vasen kammio sen tyvitasolta aivan apeksiin saakka ja näin saadaan seinämät ja niiden toiminta kauttaaltaan läpi. Tätä kautta saadaan hyvin löydettyä esim. paikalliset liikehäiriöt, jotka voisivat viitata mm. aikaisempaan infarktiin. 
+
+![](images/psaxapex.png)
+![](images/psaxapex.gif)
+![](images/psaxapical.png)
+
+### PSAX:n optimointi
+
+**Aorttataso:**
+
+Aortan juuren tulisi näkyä ympyränä keskellä näyttöä. Jos se on ovaali tai pisaramainen, niin se leikataan off-axis. Lisäksi optimaalisesti tulisi myös nähdä kuspien sulkeutumisrajat ja Mercedes-Benz-sign (kolmikuspisilla), mutta tämä ei aina ole näkyvyyden puitteissa mahdollista. 
+
+![](images/psaxav.gif)
+
+**Mitraaliläppätaso:**
+
+Vasemman kammion tulisi näkyä ympyrämäisenä. Mitraaliläpästä tulisi nähdä suurempi anteriorinen mitraalipurje ja pienempi posteriorinen purje. Kun ne avautuvat ja sulkeutuvat, ne muistuttavat kalan suuta. Papillaarilihaksia ei tulisi näkyä -- jos ne ovat kuvassa, niin on liian tiltannut anturia liian inferiorisesti ja on jo keskikammiotasolla. 
+
+![](images/mv.gif)
+![](images/mvtopap.gif)
+
+**Keskikammiotaso:**
+
+Usein sydämen ollessa vertikaalisempi (esim. ylipainoisilla) on anturin pyyhkäiseminen alas 1-2 kylkiluuväliä parempi tapa saada luotettavat projektiot tehtyä keskipapillaari- ja kärkitasoilta. Tilttaus voi aiheuttaa sen, että kammio leikataan vinosti ja tämä nähdään mm. ovaalinmuotoisena kammiona. Varsinkin keskipapillaaritasolta olisi hyvä saada luotettavan kohtisuora leike, koska muuten seinämä- ja EF-mittaukset menevät pieleen. Tavoitteena papillaaritasolla onkin saada kuvaan mahdollisimman pyöreä kammio ja molemmat papillaarilihakset suunnilleen yhtä suurina toisiinsa verrattuna sekä sentteröidä kuva vasempaan kammioon, vaikka oikean kammion tulisikin näkyä vielä sen vasemmalla puolella. Mysökään mitraali- tai aorttaläppää ei tulisi tietystikään näkyä.
+
+![](images/sweeptilt.png)
+![](images/pmopti.png)
+
+**Apikaalinen taso:**
+
+Samoin apeksi voidaan leikata liian vinosti, jolloin se näkyy ovaalisena. Terveen apeksin tulisi myös supistua siten, että nähdään kevyttä vastapäiväistä liikettä seinämissä (kammio ei siis supistu täysin sirkulaarisesti kauttaaltaan; enemmänkin kyseessä on "pyyhkeen rutistaminen"). Usein tämä liike on kuitenkin vain heikosti havaittavissa. 
+
+Esim. tässä alla vasemmalla kärki on pyöreä ja se supistuu vastapäiväisellä liikkeellä. Oikealla kärki on ovaalin muotoinen eli leikkaantuu vinosti. 
+
+![](images/apexclock.gif)
+
+## Apikaalinen projektio (Kärkikuva) {#Apical}
+
+Seuraavaksi yleensä siirrytään apikaalisiin projektioihin, joita on monia ja ne ovat pääasiassa nimetty sen mukaan, kuinka monta "lokeroa" sydämestä visualisoidaan. Tärkeimmät ovat apikaalinen nelilokerokuva (A4C) ja viisilokerokuva (A5C), mutta käydään läpi myös kaksilokerokuva (A2C) ja kolmilokerokuva (A3C), koska niilläkin on käyttöaiheensa. 
+
+**Projektiot ovat nimeltään apikaalisia, koska UÄ-aallot lävistävät sydämen ensimmäisenä sen kärjestä.**
+
+### Apikaalinen nelilokerokuva (A4C)
+
+Tyypillisesti ensimmäisenä haettava on klassinen nelilokerokuva (A4C, apical four chamber). Sen löytää, kun asettaa anturin n. vasemman nännin alle (yleensä siis rintalihaksen/rintakudoksen ja rintakudoksen junktiossa eli inframammaarisessa taitoksessa). Virallisempana ohjeena lokaatio on 4./5. kylkiluuväli keskiklavikulaarilinjassa. 
+
+Käytännössä anturi siis asetetaan kärkisysäyksen kohdalle. Kärkisysäystä ei kuitenkaan tarvitse yrittää palpoida, mutta yleensä oikea lokaatio anturille olisi myös maksimaalisen kärkisysäyksen (PMI, point of maximal impulse) lokaatio. 
+
+Anturin kulma on yleensä niin, että UÄ-aallot lähtevät lievästi potilaan päähän päin. Kuitenkin jos angulointi päähän päin on liian suuri, niin saatetaan ensimmäiseksi löytää viisilokerokuva (eli aortta näkyisi). Tällöin kuvan voi korjata nelilokerokuvaksi tilttaamalla anturia pikkuisen jalkoihin päin.
+
+**Anturin nypyn suunta on pääasiassa makuasia.** Suurin osa opetusmateriaaleista (varsinkin Suomen ulkopuolella tehdyistä) opettaa niin, että A4C:ssa (ja A5:ssa) anturin **nypy osoittaa potilaan vasemmalle kello kolmeen. Tällöin sydämen vasen puoli piirtyy näytöllä oikealle ja oikea puoli näytön vasemmalle.** Suosittelen opettelemaan heti alkujaan käyttämään tätä kuvantamistapaa, koska siten opetusmateriaalit ja omat toimintamallit käyvät paremmin yhteen, ja myös koska kehittyneempien kaikukuvauslaitteiden automaattitoiminnot on suunniteltu tälle kuvaustavalle. 
+
+<li>Itse olen kuitenkin oppinut kuvaamaan apikaalisesti **vaihtoehtoisella tavalla eli niin, että anturin nypy on potilaan oikealle eli kello yhdeksään suunnattu.** Tällöin sydän vain kuvautuu standardin tavan peilikuvana niin, että vasen puoli sydämestä on näytön vasemmalla puolella ja oikea puoli näytön oikealla puolella.</li>
+<li>Suurimmassa osassa tapauksia sekä standardia että vaihtoehtoista kuvantamistapaa voi käyttää omien kuvausmieltymysten mukaan eikä automaattimittausten ulkopuolella kuvantamistavalla ole käytännön merkitystä.</li>
+  <ul>
+    <li>Tässä oppaassa suurin osa kärkikuvista on standardilla tavalla kuvattuja, koska netistä ei löydy oikein ollenkaan klippejä vaihtoehtoisesti kuvattuna.</li>
+  </ul>
+
+---
+
+Anturista kannattaa ottaa ns. lapio-ote sen sijaan, että jatkaisi parasternaalisten projektioiden tapaan anturin pitämistä kuin kynää. 
+
+
+![](images/a4clocation.png)
+![](images/a4cprague.png)
+![](images/a4c.gif)
+![](images/a4c3d.png)
+
+### Apikaalinen viisilokerokuva (A5C)
+
+**Viisilokerokuva (A5C, apical five chamber) muodostetaan hakemalla ensin nelilokerokuva ja kallistamalla sitten anturin kärkeä hiukan ventraalisesti,** jolloin distaaliset UÄ-aallot leikkaavat enemmän aorttaa -- aortta on siis apikaalisissa projektiossa ns. lokero eteisten ja kammioiden kanssa, vaikka virallisesti ei anatomisesti lokero olekaan. Vastaavasti nelilokerokuvaan pääsee takaisin kallistamalla anturin kärkeä takaisin hivenen dorsaalisuuntaan. 
+
+Kallistuksen ei tarvitse yleensä olla kovinkaan suuri, puhutaan siis usein millimetreistä-senttimetreistä. Joskus ventraalinen kallistus voi hävittää näkyvyyden kokonaan, ja joskus aortta avautuu niin vinosti, ettei aorttaläpän yli pysty kunnolla tekemään mittauksia jatkuvalla dopplerilla. Näissä tapauksissa kannattaa kokeilla siirtää anturia; usein varsinkin vinossa aortassa auttaa se, että liu'uttaa anturia kylkiluuta pitkin lateraalisesti jonkin matkaa kohti potilaan vasenta kylkeä. 
+
+![](images/a5ctilt.png)
+![](images/a5clabeled.png)
+![](images/a5c.gif)
+![](images/a5c3d.png)
+
+### A2C
+
+Kaksilokerokuva on hyvä arvioimaan vasemman kammion seinämiä hieman eri paikoista kuin A4C/A5C -- A2C:ssa seinämät koostuvat inferiorisista segmenteistä vasemmalla ja anteriorisista oikealla, kun taas A4C:ssa inferoseptaalisista ja anterolateraalisista (lisää seinämistä ja niiden nimeämisestä paikallisia liikehäiriöitä käsittelevässä kappaleessa). Samalla saadaan myös fokusoitu kuva mitraaliläpästä. 
+
+**Kaksilokerokuva muodostetaan rotatoimalla A4C:sta anturia 90 astetta niin, että anturin nypy osoittaa nyt kello kahteentoista.**
+
+![](images/a2cloc.png)
+![](images/a2clabel.png)
+![](images/a2c.gif)
+![](images/a2c3d.png)
+
+### A3C (Apical Long Axis)
+
+Apikaalinen kolmilokerokuva näyttää samoja rakenteita kuin parasternaalinen pitkittäisakseli (PLAX), mutta tässä projektiossa apeksi näkyy hyvin. LV:sta nähtävät seinämäsegmentit ovat käytännössä samat kuin PLAX:ssa eli nähdään inferolateraaliset ja anteroseptaaliset segmentit. Aortta- ja mitraaliläppäkin näkyy ktuen PLAX:ssa, mutta virtaukset ovat suunniltaan dopplermittauksille usein otollisemmat. 
+
+**A3C:n saa esiin rotatoimalla anturia niin, että nyt sen nypy osoittaa potilaan oikeaan olkapäähän eli n. kello kymmeneen.** 
+
+![](images/a3cloc.png)
+![](images/a3clab.png)
+![](images/a3c.gif)
+![](images/a3c3d.png)
+
+### Apikaalisten projektioiden optimointi
+
+
+
+## Subkostaaliprojektio (SC, subxiphoidaalinen)
+
+
+
+### SC:n optimointi
+
+
+
+## Testaa tietosi
+
+
+
+### Nimeä rakenteet {#Nimea-rakenteet-1}

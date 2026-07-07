@@ -1,0 +1,403 @@
+# Paikalliset liikehäiriöt ja dyssynkronia {#Paikalliset-liikehäiriöt-ja-dyssynkronia}
+
+Kuten aikaisemmassa kappaleessa jo mainittiin, niin LV:n liikehäiriöt ovat yleisiä LV:n toiminnan arviota häiritseviä tekijöitä. 
+
+Seinämän liikehäiriöt voidaan jakaa muutamaan ryhmään: 
+
+<li>Paikallinen seinämän paksuuntumisen poikkeavuus (paikallinen liikehäiriö)</li>
+<li>Seinämän strain-poikkeavuus</li>
+<li>Synkronisaatiopoikkeavuus</li>
+<li>Oikean kammion poikkeavuudet</li>
+
+---
+
+Pari määritelmää ennen syvällisempää keskustelua: 
+
+<li>Normokineettinen = Yleisin määritelmä on, että systolessa endokardiumin ekskursio >5mm ja seinämän paksuuntuminen >30%</li>
+<li>Hyperkineettinen = Normaaliin verrattuna lisääntynyt supistusliike</li>
+<li>Hypokineettinen = Vähentynyt supistusliike</li>
+<li>Akineettinen = Puuttuva supistusliike</li>
+<li>Dyskineettinen = Ulospäin suuntautuvaa liikettä systolessa (esim. transmuraalisen sydäninfarktin jälkeinen arpikudos ja aneurysma)</li>
+
+![](images/rwma.png)
+
+## Paikalliset liikehäiriöt {#Paikalliset-liikehairiot}
+
+Paikallisia seinämäliikehäiriöitä (regional wall motion abnormalities, RWMA) on hyvä osata bongata myös ejektiofraktion arvioimisen ulkopuolella, koska ne yleensä viittaavat iskemiaan tai jopa infarktiin (niin akuuttiin kuin aikaisempaankin). UKG voi siis auttaa tunnistamaan sydäniskemiaa, kun EKG on epäselvä. UKG:ssa ilmenee yleensä muutoksia jopa n. 10-20 sekunnissa iskemian alusta eli **paikallinen liikehäiriö voidaan nähdä kuvantamalla ennen kuin se näkyy EKG:ssa** -- muutos on nähtävissä jopa ennen rintakivun syntymistä. 
+
+Jos koko sydän supistuu tasaisen huonosti (globaali hypokinesia), kyseessä on usein dilatoiva kardiomyopatia tai myokardiitti. Jos taas vain yksi seinämän kohta on hypo- tai akineettinen ja muut toimivat jopa hyperkineettisesti (kompensointia), kyseessä on lähes varmasti sepelvaltimotauti, varsinkin jos affisioituminen noudattaa tiettyä tunnettua sepelvaltimoaluetta.
+
+<li>Non-iskeemiset leesiot siis usein ylittävät monia sepelvaltimoalueita ja affisioivat monia seinämiä/koko ventrikkeliä. Kun seinämän liikepoikkeavuus ei noudata sepelvaltimoanatomiaa, on tärkeää ottaa paussi ja miettiä non-iskeemisiäkin syitä.</li>
+
+---
+
+**Paikallisia liikehäiriöitä voi kuitenkin olla usein hankalaa havaita,** varsinkin jos endokardiumin näkyvyys on heikkoa ja liikehäiriö on vain hypokinesiatasoista eikä selkeää akinesiaa ole vielä kehittynyt. 
+
+### LV:n segmentointi 
+
+Vasen kammio jaetaan eri osiin ja osat nimetään hieman eri tavoin riippuen siitä, minkä erikoisalan kirjallisuutta lukee. Akuuttilääketieteen (ED) ja tehohoidon (critical care) jako on yleensä kardiologista 17-segmentin jaottelua yksinkertaisempi. 
+
+ASE:n **17-segmentin malli** jakaa vasemman kammion standardoituihin alueisiin, joita käytetään mm. ekokardiografiassa sekä CT-, MRI- ja isotooppikuvantamisessa. Standardoitu malli optimoi intra- ja intermodaalista vertailua. Paikalliset liikehäiriöt tulisi kuvailla mallin mukaisesti.
+
+---
+
+Pitkittäisakselissa LV jaetaan yhtä suuriin kolmanneksiin, joiden nimet ovat basaalinen (basal), keskimmäinen (mid) ja apikaalinen (apical) kolmannes. Aivan apeksin kärki muodostaa yhden erillisen segmentin (apical cap). Kun kolmanneksia katsotaan poikittaisakselissa, niin ne muodostavat renkaita, jotka on jaettu sektoreihin (segmentteihin) ja nämä taas numeroitu vastapäiväisessä järjestyksessä. 
+
+Tyvikolmanneksessa eli basaalikolmanneksessa on kuusi 60° sektoria/segmenttiä 
+
+<li>Basal anterior (segmentti 1)</li>
+<li>basal anteroseptal (segmentti 2)</li>
+<li>basal inferoseptal (segmentti 3)</li>
+<li>basal inferior (segmentti 4)</li>
+<li>basal inferolateral (segmentti 5)</li>
+<li>basal anterolateral (segmentti 6)</li>
+
+---
+
+Keskikolmanneksessa on myös kuusi 60° sektoria/segmenttiä
+
+<li>mid anterior (segmentti 7)</li>
+<li>mid anteroseptal (segmentti 8)</li>
+<li>mid inferoseptal (segmentti 9)</li>
+<li>mid inferior (segmentti 10)</li>
+<li>mid inferolateral (segmentti 11)</li>
+<li>mid anterolateral (segmentti 12)</li>
+
+---
+
+Kärkikolmanneksessa on neljä 90° sektoria/segmenttiä
+
+<li>apical anterior (segmentti 13)</li>
+<li>apical septal (segmentti 14)</li>
+<li>apical inferior (segmentti 15)</li>
+<li>apical lateral (segmentti 16)</li>
+
+---
+
+Lopulta aivan apeksin kärki on oma segmenttinsä (segmentti 17). 
+
+
+Akuutti- ja tehohoitokirjallisuus yleensä taas jakaa sydämen vain neljään segmenttiin vähän samalla tavalla kuin EKG:ssakin jaetaan sydän: septaalinen/anteroseptaalinen, inferiorinen, posteriorinen ja lateraalinen. 
+
+---
+
+Kolmen tärkeimmät sepelvaltimon (LAD, RCA, LCx) alueiden ajatellaan menevän seuraavasti: 
+
+<li>LAD (left anterior descending, vasemman sepelvaltimon laskeva haara; widow maker) ruokkii segmenttejä 1, 2, 7, 8, 13, 14 ja 17 eli siis anteriorisia ja anteroseptaalisia alueita ja apeksin kärkeä</li>
+<li>RCA (right coronary artery, oikea sepelvaltimo) ruokkii segmenttejä 3, 4, 9, 10 ja 15 eli siis inferiorisia ja inferoseptaalisia alueita</li>
+<li>LCx (left circumflex, vasemman sepelvaltimon kiertävä haara) ruokkii segmenttejä 5, 6, 11, 12 ja 16 eli siis infero- ja anterolateraalisia alueita</li>
+<li>On kuitenkin hyvä tiedostaa, että merkittävää anatomista variaatiota on sepelvaltimoiden alueissa; muuttavia tekijöitä ovat mm. LV:n koko ja se, onko potilas oikea- vai vasendominantti (dominanttisuus = mistä sepelvaltimosta PDA haarautuu; oikeadominantti sydän eli RCA:sta haarautuva PDA on yleisin, vasendominantti eli LCx:sta (tai harvemmin LDA:sta) haarautuva PDA n. 8-10%:lla ja ko-dominantti eli PDA:ta ruokkii sekä LCx (tai harvemmin LAD) että RCA). Suuri osa alueista on myös useamman pääsuonen haarojen ruokkimia, mikä rajoittaa tarkkaa leesion lokalisaatiota. Kollateraalisuonet voivat myös säilyttää paikallista kontraktiliteettia, vaikka olisikin merkittävää sepelvaltimostenoosia -- normaali seinämän liike ei siis poissulje iskemiaa.</li>
+
+![](images/segments.png)
+![](images/segments2.png)
+
+![](images/ekgkorrelaatio.png)
+![](images/infarcts.png)
+
+---
+
+[Tässä](https://youtu.be/13KndZPuqAo?si=okja_K7PZdwM62BM) on todella hyvä video segmenteistä 3D-mallin kautta esiteltynä. Alla on samalta videolta klippejä:
+
+![](images/a4csegments.gif)
+![](images/a2csegments.gif)
+![](images/a3csegments.gif)
+![](images/plaxsegs.gif)
+![](images/psaxsegs.gif)
+![](images/a4csegs.gif)
+![](images/a2csegs.gif)
+
+### Esimerkkejä {#Esimerkkeja-RWMA}
+
+#### 1 - Mitkä segmentit ovat liikehäiriöisiä? {#Kysymys-1} 
+
+![](images/rwma1.gif)
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      ![](images/ans1.gif)
+![](images/ans1zoom.gif)
+  </div>
+</div>
+
+#### 2 - Mitkä segmentit ovat liikehäiriöisiä? {#Kysymys-2} 
+
+![](images/rwma2.gif)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      ![](images/ans2.gif)
+
+  </div>
+</div>
+
+#### 3 - Mitkä segmentit ovat liikehäiriöisiä? {#Kysymys-3} 
+
+![](images/rwma3.gif)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      ![](images/ans3.gif)
+
+  </div>
+</div>
+
+
+#### 4 - Mitkä segmentit ovat liikehäiriöisiä? {#Kysymys-4} 
+
+![](images/rwma4.gif)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      ![](images/ans4.gif)
+
+  </div>
+</div>
+
+#### 5 - Mitkä segmentit ovat liikehäiriöisiä? {#Kysymys-5} 
+
+![](images/rwma5.gif)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      ![](images/ans5.gif)
+
+  </div>
+</div>
+
+
+#### 6 - Mitkä segmentit ovat liikehäiriöisiä? {#Kysymys-6} 
+
+![](images/classiclad.gif)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Keskimmäiset septaaliset ja anteroseptaaliset segmentit ovat hypokineettisiä
+
+Alla olevassa gifissä nuolten osoittamat segmentit ovat normokineettisiä, mutta septaaliset/anteroseptaaliset segmentit vähän kuin vetäytyvät keskelle päin niiden vetämänä eikä itse supistu. Oikealla segmenttijako ei ole tehty 17-segmentin mallin mukaan.
+
+![](images/classicladans.gif)
+
+Tässä on selkeämpi esimerkki samanlaisesta liikehäiriöstä. Yleensä tällaiset aiheuttaa LAD:n tukos. 
+
+![](images/flagrant.gif)
+  </div>
+</div>
+
+#### 7 - Mitkä segmentit ovat liikehäiriöisiä? {#Kysymys-7} 
+
+![](images/rca1.gif)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Inferioriset ja inferoseptaaliset segmentit
+
+Segmenttijako ei ole tehty gifin kuvassa 17-segmentin mallin mukaan.
+
+![](images/rca1ans.gif)
+
+Tässä on selkeämpi esimerkki samanlaisesta liikehäiriöstä. Yleensä tällaiset aiheuttaa RCA:n tukos. 
+
+![](images/rca1ansextra.gif)
+  </div>
+</div>
+
+#### 8 - Mitkä segmentit ovat liikehäiriöisiä? {#Kysymys-8} 
+
+![](images/rca2.gif)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Inferolateraaliset segmentit (niin basaalinen, keskimmäinen ja todnäk myös apikaalinen)
+
+Segmenttijako ei ole tehty gifin kuvassa 17-segmentin mallin mukaan.
+
+![](images/rca2ans.gif)
+
+  </div>
+</div>
+
+#### 9 - Mitkä segmentit ovat liikehäiriöisiä? {#Kysymys-9} 
+
+![](images/lcx1.gif)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Infero- ja anterolateraaliset segmentit 
+
+Yleensä tällainen on LCx:n leesio. Segmenttijako ei ole tehty gifin kuvassa 17-segmentin mallin mukaan.
+
+![](images/lcx1ans.gif)
+
+  </div>
+</div>
+
+#### 10 - Mitkä segmentit ovat liikehäiriöisiä? {#Kysymys-10} 
+
+![](images/lcx2.gif)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Anterolateraaliset (basaalinen ja keskimmäinen) ja lateraalinen (apikaalinen) segmentti
+
+Yleensä tällainen on LCx:n leesio. Segmenttijako ei ole tehty gifin kuvassa 17-segmentin mallin mukaan.
+
+![](images/lcx2ans.gif)
+
+  </div>
+</div>
+
+
+#### 11 - Mitkä segmentit ovat liikehäiriöisiä? {#Kysymys-11} 
+
+![](images/takotsubo1.gif)
+
+<div class="">
+  <button class="solution-button"
+          data-label="Vastaus"
+          data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Apikaaliset segmentit (tällä potilaalla oli takotsubo-oireyhtymä)
+
+Takotsubo-oireyhtymä (tunnetaan myös nimillä särkynyt sydän -oireyhtymä tai stressikardiomyopatia tai apical ballooning syndrome) on yksi tärkeimmistä akuutin sepelvaltimotautikohtauksen (ACS) erotusdiagnostisista vaihtoehdoista. Sen oireet ja löydökset (EKG-löydökset ja troponiinipäästö) pitkälti muistuttavat sydäninfarktia eikä oireyhtymien erottaminen yleensä ole mahdollista muuten kuin angiografiassa. Sydäninfarktille tyypillisistä oireista, EKG-löydöksistä ja troponiinipäästöstä (troponiini ei tosin yleensä nouse yhtä korkealle kuin sydäninfarktissa) huolimatta sepelvaltimot ovat angiografiassa avoimet (tosin sepelvaltimotaudin toteaminen ei poissulje Takotsuboa -- ei vain saa olla kyseiselle tilanteelle sopivaa akuuttia sepelvaltimotukosta). 
+
+---
+
+Takotsubo-oireyhtymä kuvailtiin ensimmäisen kerran Japanissa 1990. Sairaus nimettiin japanilaisen mustekalapyydyksen mukaan (蛸壺 eli tako tsubo; tako = mustekala, tsubo = ruukku; tosin usein kirjoitetaan taudin yhteydessä kanjien sijaan hiraganoilla: たこつぼ心筋症 eli takotsubokardiomyopatia tai nykyään enemmänkin suositaan nimeä たこつぼ症候群 eli takotsubo-oireyhtymä (kyseessä on akuutti sairaus, joten termiä kardiomyopatia ei suosita)). Patofysiologia on vielä hieman hämärä, mutta ajatellaan, että **stressireaktiossa vapautuva suuri adrenaliinipitoisuus aiheuttaaa G-proteiinivälitteisesti supistumislamaa sydänlihaksessa. Yleensä lama on merkittävin sydämen kärjessä,** koska beeta-adrenergisten reseptorien määrä on jakautunut epätasaisesti kammioon niin, että apikaalisessa osassa on enemmän reseptoreita kuin basaalisessa osassa. Tästä johtuen takotsubo-oireyhtymän tyypillisin muoto on ns. apikaalinen takotsubo eli apeksi heikentyy ja pullistuu ulospäin ja samalla tyvi on hyperaktiivinen. Tästä oireyhtymä saa nimensäkin; **sydän on apikaalisessa tyypissä mustekalapyydysruukun muotoinen.** Harvinaisempia tyyppejä on mm. midventrikulaarinen tyyppi, basaalinen tyyppi ja vielä fokaalinenkin tyyppi.
+
+
+**Oireisto alkaa tyypillisesti voimakkaan tunnepitoisen tapahtuman, fyysisen ponnistuksen, muun sairauden tai lääketieteellisen toimenpiteen yhteydessä.** Noin neljäsosalla ei voida tunnistaa mitään selkeää etiologista tekijää. Suurin osa potilaista on vaihdevuodet ohittaneita naisia (90% potilaista on naisia). Oireet muistuttavat akuuttia sydäninfarktia: ¾:lla oireena on rintakipu ja puolella hengenahdistus. Kliininen kuva voi vaihdella lievästä huonovointisuudesta ja jopa oireettomuudesta vaikeaan sydämen vajaatoimintaan ja kardiogeeniseen sokkiin; pienellä osalla oireena on pyörtyminen. 
+
+Takotsubo-potilasta hoidetaan siis yleensä sydäninfarktina, kunnes päästään angiosaliin, jossa ei todeta akuuttia sepelvaltimotukosta. Sen jälkeen yleensä tehdään vielä vasemman kammion varjoainekuvaus, joka osoittaa tyypillisen kammion kärjen akineettisyyden, joka ylittää sepelvaltimosuonen alueen. Joissakin tapauksissa diagnoosi varmistuu vasta sydämen magneettikuvauksen jälkeen. Kaikista sydäninfarktioireisista potilaista n. 2 %:lla on takotsubokardiomyopatia. 
+
+![](images/mustekala.png)
+![](images/takotsubolvangio.gif)
+
+
+Kun diagnoosi on varmistunut takotsubokardiomyopatiaksi, hoito mukailee sydämen vajaatoiminnan hoitoa: aloitetaan siis ennustelääkkeet (ainakin ACEi ja beetasalpaaja; muiden käyttö on vakiintumatonta) ja niitä jatketaan, kunnes kammion toiminta on normaalistunut (lääkkeiden pitkäaikaiskäytöstä ei ole näyttöä, jollei muuta syytä niiden jatkolle ole). Lääkkeitä tai LMWH kannattaa antaa koko sairaalahoidon ajan. Jos sydämen kärjessä on viitteitä hyytymästä tai kammion kärki on vahvasti akineettinen, tulee aloittaa pidempiaikaisempi antikoagulaatio (varfariini/DOAC); magneettikuvauksesta saattaa olla hyötyä päätöstä tehdessä. 
+
+
+<li>Hoito sairaalassa tosin eroaa hieman sen mukaan, onko potilas hemodynaamisesti stabiili/instabiili ja onko LV:n ulosvirtauskanavan obstruktiota (LVOTO). Yllä mainittu beetasalpaajat+ACEi ovat hyviä, jos potilas on hemodynamisesti stabiili ja LVEF on lievästi redusoitunut. Beetasalpaajat saattavat vähentää rytmihäiriöiden ilmentymistä ja vähentävät patofysiologisesti tärkeää adrenergista tonusta. ACE:n estäjät vähentävät jälkikuormaa, mutta dynaamisessa LVOTO:ssa tulee kuitenkin hoksata, että jälkikuorman alentaminen on vasta-aiheista.</li>
+  <ul>
+    <li>Tästä puhuttiin jo viime kappaleessa sigmoidin septumin yhteydessä, mutta nyt Takotsubon oireyhtymässä voi samoin sydämen tyven (klassinen apikaalinen takotsubon muoto) supistuessa ahkerasti syntyä dynaamista LVOTO:a (n. 10%:lla potilaista kehittyy LVOTO). LVOTO siis pahenee hyperkontraktiileissa tiloissa, koska se lisää virtausnopeuksia LVOT:ssa (pahentaa mm. Venturi-ilmiötä) ja myös pahentaa työntöefektiä (veri voi myös työntää mitraalipurjeita ulosvirtauskanavaan Venturi-imun lisäksi). Preloadin väheneminen myös pahentaa geometrisesti obstruktiota, kun kammion täyttötilavuus pienenee (kammion ontelo jää pieneksi ja supistuksen alkaessa sen seinämät ja mitraaliläpän purjeet ovat anatomisesti lähempänä toisiaan).</li>
+    <li>Beetasalpaajat voivat auttaa LVOTO:n vähentämisessä, koska ne hidastavat sykettä ja parantavat siten diastolista täyttymistä. Myös nestehoito voi vähentää LVOTO:a täyttymisen parantuessa. Puhtaat vasopressorit voivat myös auttaa tarvittaessa, mutta inotrooppeja tulisi välttää.</li>
+    <li>Inotrooppeja (ESC:n suosituksena milrinoni) voidaan tarvittaessa käyttää mahdollisimman pienillä annoksilla, jos ei ole LVOTO:a. Niiden käyttö on kuitenkin kaksipiippuinen juttu, koska lisääntynyt inotropia voi potentiaalisesti aiheuttaa LVOTO:n.</li>
+  </ul>
+
+---
+
+Vaikka takotsubo ei olekaan akuutti sepelvaltimo-oireyhtymä, niin kyseessä ei kuitenkaan ole täysin benigni sairaus. Mortaliteetti sairaalassa on n. 2-5% ja kuolleisuus yleensä liittyy komplikaatioihin, kuten rytmihäiriöihin, vajaatoimintaan ja aivohalvaukseen. Takotsubo on kuitenkin määritelmällisesti paraneva sairaus akuutin vaiheen jälkeen ja n. 95%:lla potilaista heikentynyt sydänlihas paranee muutamassa viikossa. Tila uusii n. 5-22%:lla ja uusimisajankohta vaihtelee n. 3kk-10 vuotta ensimmäisestä ilmentymisestä.
+
+![](images/takotsubotreatmentalgo.png)
+
+Tässä alla potilaalla on selkeä LVOT:n obstruktio.
+
+![](images/takotsubolvoto.gif)
+![](images/takotsubolvoto2.gif)
+
+  </div>
+</div>
+
+
+## Dyssynkronia 
+
+Dyssynkronia tarkoittaa poikkeavuuksia normaalin aktivaation ja kontraktion ajoituksessa; tämä ongelma voi olla eteisten ja kammioden välinen (atrioventricular dyssynchrony), oikean ja vasemman kammion välinen (interventricular dyssynchrony) tai kammion eri seinämien välinen (intraventricular dyssynchrony). 
+
+Yleensä kun puhutaan kliinisesti merkityksellisestä dyssynkroniasta, niin viitataan useimmiten vasempaan haarakatkokseen (LBBB). Se käytännössä aiheuttaa kaikkia yllä mainittuja ajoitusongelmia: 
+
+<li>Atrioventrikulaarista dyssynkroniaa syntyy, kun LBBB hidastaa sähköisen signaalin totaalikulkuaikaa kammioissa (leventää QRS-kompleksia) ja siten häiritsee myös eteisten ja kammioiden välistä ajoitusta. Tämä voi johtaa lyhempiin täyttöaikoihin vasemmalle kammiolla ja jopa aiheuttaa toiminnallista mitraalivuotoa.</li>
+<li>Interventrikulaarista dyssynkroniaa syntyy, kun LBBB:stä johtuen oikea kammio supistuu normaalilla ajoituksella sen saadessa signaalin oikealta haaralta, mutta vasen kammio supistuu vasta sen jälkeen signaalin kulkiessa lihaskudosta pitkin oikealta vasemmalle. </li>
+<li>Intraventrikulaarinen dyssynkronia johtuu siitä, kun sähköinen signaali välittyy lihaskudosta pitkin oikealta vasemmalle ja siten kammioväliseinämä supistuu ensin samalla kun lateraaliseinämä on relaksoitunut.</li>
+
+---
+
+Koska LBBB aiheuttaa vasemman kammion myöhästyneen supistumisen, niin tämä on usein helpommin havaittavissa UKG:n 2D-kuvassa kuin RBBB, joka taas hidastaa oikean kammion supistumista. Vasen kammio on korkeamman paineen systeemi ja dominoi normaalistikin ultraikkunoita, joten RBBB on merkittävästi vaikeampaa havaita 2D-kuvasta. RBBB:ssäkin kyllä voidaan havaita dyssynkroniaa visuaalisesti usein, mutta septumin supistuminen on yleensä aika normaali ja tyypillisin poikkeavuus on myöhäinen oikean kammion vapaan seinämän supistuminen. 
+
+LBBB:n arvioimiseksi ultraäänellä riittää yleensä ihan visuaalinen maininta dyssynkroniasta, mutta on myös hyvä tiedostaa ne tarkemmat piirteet, joita etsitään LBBB-sydämistä, koska tietoa voidaan hyödyntää **sydämen vajaatoiminnan tahdistinhoitoa (CRT)** harkitessa. Vaikeassa systolisessa vajaatoiminnassa vasemman kammion seinämien supistuminen on usein eriaikaista, mikä voi edelleen heikentää sydämen pumppaustoimintaa. Vasen haarakatkos (LBBB) todetaan jopa joka kolmannella vajaatoimintapotilaalla. LBBB viivästyttää sydämen taka- ja sivuosien sähköistä aktivoitumista ja supistumista aiheuttaen vasemman kammion seinämien epätahtisen liikkeen. Tämä heikentää vasemman kammion supistumista sekä diastolista täyttymistä ja yleensä myös lisää mitraaliläpän vuodon määrää. **Vasen haarakatkos heikentää terveen sydämen iskutilavuutta jopa 40 %:lla. Vajaatoimintaisessa sydämessä dyssynkronian aiheuttama haitta voi olla vieläkin merkittävämpi.**
+
+Selvä mekaaninen dyssynkronia on useimmiten todettavissa LBBB:n yhteydessä, kun kammioheilahduksen kesto on EKG:ssä > 150 ms. Tällöin sydämen kaikukuvaustutkimuksessa nähdään viivästynyt vasemman kammion takaseinämän supistuminen väliseinään nähden. Myös lukuisia muita kaikukuvaustutkimuksen mittausarvoja voidaan käyttää dyssynkronian arvioinnissa. **Luotettavimmin vajaatoimintatahdistimen hyötyä voidaan kuitenkin ennakoida kahdella visuaalisella löydöksellä. Erityisesti CRT:stä hyötyvät ne potilaat, joilla todetaan kaikukuvaustutkimuksessa vasemman kammion keinuva liike (apical rocking) ja septumin ennenaikainen systolinen liike (septal flash).** Lisäksi yksi tyypillinen löydös on septumin oikean kammion suuntainen liike aikaisen systolisen supistumisen jälkeen (septal bounce, paradoxical movement). Huolimatta tästä paradoksisesta liikkeestä, voidaan todeta septumin paksuuntumista, mikä auttaa erottamaan toimivan väliseinämälihaksen paikallisista iskeemisistä liikehäiriöistä. Kannattaa siis myös arvioida paikallisia seinämäliikehäiriöitä, koska laajat infarktiarvet heikentävät vajaatoimintatahdistuksen tehoa. Tarvittaessa arpialueiden laajuutta tulee selvittää EKG:n ja kaikukuvaustutkimuksen lisäksi sepelvaltimoiden varjoainekuvauksen ja magneetti- tai isotooppikuvantamisen avulla ennen päätöstä vajaatoimintatahdistimen asennuksesta.
+
+Virallisesti CRT:n indikaatio on silloin, kun optimaalisesta lääkehoidosta huolimatta sinusrytmissä olevalla potilaalla on oireita (NYHA II-IV), ja EF on ≤ 35 % ja EKG:ssä LBBB-konfiguraatio, jonka QRS-kesto on vähintään 150 ms. CRT-hoito ei hyödytä potilaita, joilla on kapea QRS ≤ 130 ms (ellei ole aihetta kammiotahdistukseen eteis-kammiokatkoksen vuoksi); välillä 130-150ms CRT voi olla hyödyllinen (varsinkin naisilla). Vajaatoimintatahdistuksen ennustetta ja oireita lievittävä teho on osoitettu vain sinusrytmissä olevilla potilailla -> CRT-tahdistusta harkitaan pysyvässä eteisvärinässä vain vaikeaoireisille potilaille. 
+
+### Septal beak/flash
+
+LBBB:n osoittamiseksi bedside echossa tulisi klassisesti ottaa M-moodi PLAX:ssa septumin ja mitraaliläpän kärkien läpi. Muodostuu käyrä, josta voidaan arvioida erityisesti IVS:n liikettä sydämen syklin läpi: 
+
+<li>Tyypillistä LBBB:lle on siis IVS:n liike kohti LV:n keskustaa alkusystolessa ja tätä seuraa heti liike LV:n keskikohdasta poispäin. Tästä muodostuu ns. septal "beak", joka näkyy yleensä juuri mitraaliläpän alkaessa sulkeutua (tai R-aallon huipun jälkeen samanaikasesta EKG-tallenteesta arvioituna). Septal beak kuvastaa siis samaa asiaa kuin ns. septal flash; flash vain saa nimensä kudosdopplerilöydöksestä, jossa aikainen systolinen liike sisäänpäin aiheuttaa korostuman dopplervärissä. Kudosdoppleristakin voi vielä ottaa M-moodin ja nähdä saman beakingin.</li>
+<li>Arvioinnin voi tehdä myös 2D kuvasta visuaalisesti, mutta M-mode voi auttaa tunnistamisessa.</li>
+
+![](images/septalflashmechanism.png)
+![](images/septalflash.png)
+![](images/septalbeak1.png)
+![](images/septalbeak2.png)
+![](images/septalbeak3.png)
+![](images/septalflash1.png)
+
+### Apical rocking
+
+
+"Apical rocking"-piirteen arvioiminen yleensä tapahtuu visuaalisesti apikaalisesti. Siinä tyypillisesti lyhyen IVS:n suuntaisen apeksin liikkeen jälkeen tapahtuu pidempikestoinen apeksin liikkuminen vapaata seinää kohti ejektiovaiheessa -> apeksi keinuu sivulta toiselle. 
+
+![](images/apicalrocking1.gif)
+![](images/apicalrocking2.gif)
+
+### Strain imaging
+
+Kuten jo yhdestä yllä olevasta kuvasta näkyy, niin LBBB:n kanssa voidaan myös tutkia ns. strain imaging -tekniikan eli Speckle Tracking Echocardiography (STE) kautta vasenta kammiota. Strain-kuvantaminen mittaa lihaksen venyttymistä ja puristumista ja kone laskee, kuinka paljon lihassäikeet muuttavat muotoaan ja ilmoittaa tämän prosenttina (esim. jos segmentti on 10cm pitkä ja puristuu 8cm:iin, niin se on lyhentynyt 20% ja Global Longitudinal Strain on n. -20%; negatiivinen vain kuvaa, että lihas lyhenee). 
+
+Strain-kuvantaminen auttaa erottamaan kuollutta kudosta (strain lähes 0%) vain dyssynkroniasta. Strain-curve myös auttaa kvantifoimaan septal flashia ja auttaa CRT:n toimimisen todennäköisyyden ennustamisessa. 
+
+Strain-kuvantamista ei ole tarjolla suuressa osassa bedside-ultria, joten ei puhuta siitä enempää. Mm. [tältä videolta](https://youtu.be/q7BXFww1Ocg?si=g9DUJx7NVPrp4_Ky) näkee lisää aiheesta LBBB:hen liittyen.
+
+![](images/strainlbbb1.gif)
+![](images/strainlbbb2.png)

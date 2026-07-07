@@ -1,0 +1,23 @@
+--- 
+title: "UKG+"
+author: "Remo Kapanen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# UKG
+
+Tämä opas keskittyy pääasiassa sydämen kaikukuvaukseen (ultraäänikardiografia, UKG, echo, sydämen UÄ), mutta lisäksi käsitellään hieman myös muita mielenkiintoisia ja hyödyllisiä ultraäänilaitteen ja erityisesti phased array-anturin mahdollisia käyttöaiheita. Monissa laitteissa on siis vain yksi anturi kiinnitettynä ja usein se on vaiheanturi (phased array) eli ns. sydänanturi. Sillä voi kuitenkin tehdä paljon muutakin kuin vain katsoa sydäntä.
+
+## Aloittelijoille
+
+Ehkä parempi johdanto ultraamiseen on [Ville Langénin UKG-opas](https://ukg-opas.netlify.app/), jota myös itse käytin aloitellessani. Se käy läpi asiat läpi tiiviimmin ja myös kävelyttää mittausten suorittamisen selkeämmin läpi kuin tämä opas.  
+
+Monet tämän oppaan kappaleet voivat ehkä mennä aloittelijan näkökulmasta liian pitkälle. Villen oppaalla pääsee oikeasti todella pitkälle, mutta jos sen jälkeen vielä kokee haluavansa oppivan lisää, niin voi selata tästä kirjasta sopivia kappaleita. Olen kuitenkin yrittänyt tehdä oppaasta ainakin guidelineihin verrattuna aloittelijaystävällisemmän ja käyn kaikki perusasiatkin läpi, joten myös tästäkin voi aloittaa. 
