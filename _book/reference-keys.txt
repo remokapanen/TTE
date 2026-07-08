@@ -136,6 +136,8 @@ koronaariostiumit
 aortan-kuspisuus
 koarktaatio
 koarktaation-echo--tutkimus
+koarktaation-vaikeusaste-ja-hoitovaihtoehdot
+Myohaisongelmat-ja-liitannaisviat
 AAS
 huomioita
 vasen-eteinen
@@ -211,6 +213,7 @@ flail-leaflet
 vaikeusasteet
 muuta-huomioitavaa
 vuodon-kesto
+paineiden-vaikutus
 hoito
 primaarisen-mitraalivuodon-operatiivisen-hoidon-indikaatiot
 sekundaarinen-mitraalivuoto
