@@ -350,9 +350,9 @@ Seurantaa edellyttävistä koarktaation **liitännäisvioista kaksiliuskainen ao
 
 ## Akuutit aorttaoireyhtymät (AAS) {#AAS}
 
+Äkilliset aortan sairaudet ovat usein hätätilanteita, joissa ennuste on huono, ellei oikeaan diagnoosiin ja hoitoon päästä ajoissa. 
 
-
-<li>Akuutti aorttaoireyhtymä on vakiintunut käsitte, joka käsittää seuraavat tilanteet:</li>
+<li>**Akuutti aorttaoireyhtymä (AAS)** on vakiintunut käsitte, joka käsittää seuraavat tilanteet:</li>
   <ul>
     <li>dissekoituma</li>
     <li>intramuraalihematooma (IMH)</li>
@@ -362,6 +362,74 @@ Seurantaa edellyttävistä koarktaation **liitännäisvioista kaksiliuskainen ao
 
 ![](images/aorticsyndromes.png)
 ![](images/aas.png)
+
+---
+
+Akuutti dissekoituma on yleisin näistä. **Aortan dissekoituma tarkoittaa pitkittäistä intiman repeämää, jossa verta virtaa median läpi repien sitä auki.** Virtaus muodostaa kerroksien erottuessa oikean luumenin ja pseudoluumenin (false lumen), joka tarkoittaa mediakerrokseen muodostunutta veren kulkureittiä. Tämä väärä käytävä voi joko hyytyä umpeen eli trombosoitua (intramuraalihematooma, IMH); IMH voi syntyä myös vasa vasorum -suonien ruptuurasta seinämän sisällä. Penetroiva ateroskleroottinen ulkus (PAU) taas kuvaa tilaa, jossa aortan ateroskleroottinen plakki ulseroituu ja syntyy avoin reitti suonen seinämään -- PAU voi johtaa intramuraaliseen hematoomaan, dissekoitumaan tai jopa aortan repeämiseen (yleensä todetaan laskevan aortan alueella (eniten ateroskleroottista rasitusta siellä)). 
+
+Dissekoituman ilmaantuvuus on 2–10 tapausta/100 000 henkeä/vuosi. Esiintymishuippu nousevan aortan dissekoitumassa on noin 50–60 vuoden iässä ja laskevan aortan dissekoitumassa 60–70-vuotiailla. Kroonisesta dissekoitumasta on kyse, kun dissekoituma on yli kolme kuukautta vanha. Valtaosa potilaista on miehiä, ja dissekaatioriski suurenee iän myötä. **Tavallisin riskitekijä on hypertensio** (vasa vasorumin hyaliininen arterioloskleroosi hypertension aiheuttamana johtaa aortan median atrofiaan ja seinämän heikentymiseen, mikä lisää riskiä aortan dissekoitumiselle ja aneurysmille
+; hypertensio myös suoraan altistaa ateroskleroosille). Lisäksi aortan dissekaatiolle altistavia tekijöitä ovat **muut aortan tai aorttaläpän sairaudet,** tupakointi, aikaisempi sydänkirurgia, rintakehän vammat ja suonensisäisten huumeiden käyttö. Perinnölliset aortan sairaudet ovat varsinkin nuorissa ikäryhmissä merkittävä dissekaatiolle altistava tekijä. 
+
+Dissekoituma etenee tyypillisimmin anterogradisesti, mutta joskus myös retrogradisesti. Dissekoituma voi edetä aortan sivuhaaroihin ja huonontaa niiden virtausta. Silloin sydämeen, aivoihin (jopa 20 %:lla potilaista pääasiallinen oire voi olla äkillinen tajunnanmenetys), selkäytimeen, viskeraalielimiin tai alaraajoihin voi tulla kohtalokkaita iskeemisiä pääte-elinkomplikaatioita. Klassinen oire on äkillisesti alkava **repivä rinta-selkäkipu,** joka voi muuttaa paikkaa dissekoituman edetessä. Aortan sivuhaarojen malperfuusio voi aiheuttaa monenmuotoisia oireita kohde-elimestä riippuen, esim. neurologisia oireita ja/tai vatsakipuja. **Oireet voivat joskus olla hyvinkin epätyypillisiä ja moninaisia.** On arvioitu, että jopa 30 %:lla potilaista, joilla myöhemmin todetaan aortan dissekoituma, on aluksi epäilty jotain muuta tautia. **Potilas voi olla hyvinkin oireeton** ja potilaan saattaa vahingossa lähettää päivystyksestä kotiin kuolemaan. Potilaalla voi esim. esiintyä vain ohimenevää kipua tai neurologinen oire, ja statuksessa todetaan pulssipuutos esim. toisessa nivusvaltimossa. Pulssipuutokset ovatkin jokseenkin tyypillisiä, samoin **verenpaine-ero >20 mmHg käsien välillä.** 
+
+---
+
+Aortan dissekoitumilla on kaksi luokittelutapaa: Stanford (A ja B ja non-A-non-B) ja Debayke (I-III) -- **toimivin ja käytetyin kliininen luokittelu on Stanfordin mukainen.**
+
+<li>**Stanford A -tyyppi = dissekoituma affisioi ainakin nousevaa aorttaa** (voi olla myös laskevassa osassa)</li>
+  <ul>
+    <li>Tyypin A dissekoituman mahdollistama intiman repeämä sijaitsee missä tahansa</li>
+    <li>Yleensä repeämä lähtee nousevasta aortasta, mutta tyypin A määritelmä on, että dissekoituma affisioi vähintään aortan nousevaa osaa (voi siis olla lähtöisin vaikka laskevasta aortasta ja kulkea retrogradisesti nousevaan aorttaan)</li>
+    <li>Yleisin dissekoituman lähtökohta on ensimmäiset pari senttiä nousevasta aortasta ja näin **tyypin A on yleisin dissekoitumatyyppi**</li>
+  </ul>
+<li>**Stanford B -tyyppi = dissekoituma affisioi vain laskevaa aorttaa**</li>
+    <li>Intiman repeämä sijaitsee a. subclavia sinistrasta distaalisesti. Dissekoituma myös pysyy a. subclavia sinistrasta distaalisesti eikä kulje retrogradisesti kaareen (non-A-non-B) tai nousevaan aorttaan (Stanford A)</li>
+<li>**Stanford non-A-non-B -tyyppi = dissekoituma affisioi vähintään aortan kaarta, mutta ei nousevaa aorttaa**</li>
+    <li>Intiman repeämä sijaitsee joko distaalisesti vasemmasta solisvaltimosta (veri virtaa retrogradisesti aortan kaareen, mutta ei nousevaan aorttaan) tai truncus brachiocephalicuksen ja vasemman solisvaltimon välissä (veri voi edetä kaarta ja laskevaa aorttaa eteenpäin)</li>
+
+![](images/stanford.png)
+
+**Tyypin A dissekoitumassa on korkein kuolleisuus,** koska siinä nouseva aortta vaurioituu (nouseva aortta on ehjä tyypin B (ja tyypin non-A-non-B) dissekoitumassa). Nousevan aortan eheys on merkittävää sen vuoksi, että se sijaitsee sydänpussin sisällä, sen tyvestä lähtevät koronaariostiumit ja sen tyveen kiinnittyy aorttaläppä. A-tyypin dissekoituma voi sen vuoksi aiheuttaa sydänpussin tamponaation, aorttaläpän pettämisen, koronaariostiumien ahtautumisen tai kaikki edellä mainitut.
+
+
+<li>Verta voi kulkea siis perikardiumiin asti ja aiheuttaa tamponaatiota, joka on joidenkin lähteiden mukaan yleisin kuoleman mekanismi dissekoitumassa</li>
+<li>Aorttaläpän akuutti vuoto on yleistä tyypin A dissekaatiossa ja sen syntymekanismeja on useita:</li>
+  <ul>
+    <li>Aortan juuren dilataatio johtaa epätäydelliseen aorttaliuskojen koaptaatioon</li>
+    <li>Kuspien prolapsi (asymmetrinen dissekoituma painee kuspeja annuluksen alle)</li>
+    <li>Annuluksen tukirakenteiden häiriintyminen ja flail leaflet</li>
+    <li>Intimakielekkeen (dissection flap) prolapsi aorttaläpän läpi diastolessa</li>
+    <li>Aorttaläppä voi olla jo alkujaan epänormaali (esim. bikuspidi läppä -- on riskitekijä dissekoitumalle ja niiden yhteydessä on muutenkin usein aorttavuotoa)</li>
+  </ul>
+<li>Koronaariostiumien ahtautuminen voi aiheuttaa sydäniskemiaa, koska sepelvaltimoiden täyttyminen estyy; yleisin obstruktoituva sepelvaltimo on oikea päähaara. Jos sepelvaltimo on täysin tukossa, kliininen ilmenemismuoto voi olla myös ST-nousuinfarkti.</li>
+
+![](images/atype.png)
+
+### Dissekoituman diagnostiikka 
+
+Ensisijainen kuvantamismenetelmä aortan dissekoitumaa epäiltäessä on yleensä mahdollisimman nopeasti suoritettava **varjoainetehosteinen TT-kuvaus,** jonka avulla voidaan varmistaa diagnoosi, nähdä koko aortta ja selvittää dissekoituman laajuus ja sivuhaarojen tila varsin tarkasti; sensitiivisyys ja spesifisyys ovat yli 95 %. Usein kuitenkin potilas oireilee ei-niin-selkeällä tavalla ja muitakin tutkimuksia tehdään sitä ennen. 
+
+<li>EKG kuuluu yleensä muutenkin potilaan ensimmäisiin tutkimuksiin. Sydänfilmi on yleensä normaali, noin 20 %:lla potilaista, joilla on tyypin A dissekoituma, on merkkejä sydänlihasiskemiasta. Jos rintakipuisella potilaalla on ensisijaisesti iskemiaan viittaavat EKG-löydökset, mutta oireet tai löydökset herättävät epäilyn aortan dissekoitumasta, aortta kuvannetaan ennen sepelvaltimotoimenpiteitä. Trombolyyttinen hoito on myös tietysti vasta-aiheista, jos epäilee dissekoituman mahdollisuutta iskemialöydösten taustalla.</li>
+<li>Thoraxkuva on poikkeava jopa 90 %:lla aortan dissekoitumapotilaista. Välikarsina voi olla laajentunut tai aortan varjo poikkeava, tai kuvasta voidaan todeta keuhkopussinestettä.</li>
+
+---
+
+Itse aortan kuvantamismenetelmistä TT:n lisäksi on käytössä MRI ja UÄ. Magneettikuvauksen käyttöä diagnostiikassa rajoittavat huono saatavuus päivystysaikana ja soveltumattomuus kriittisesti sairaiden potilaiden hoitoon. Se on kuitenkin hyvä kroonisten dissekoitumien diagnostiikassa ja hoidon suunnittelussa sekä aortan sairauksien seurannassa.
+
+UÄ:n käyttö akuuteissa dissekoitumissa on taas yleistä. Rintakehän päältä tehtävä sydämen ultraäänitutkimus (TTE) voidaan tehdä heti päivystyspoliklinikalla huonokuntoiselle, rintakipuiselle potilaalle. Dissekoitumassa nähdään laajentunut, poikkeava aortan tyvi, aorttaläpän mahdollinen vuoto ja sydänpussin nestekertymä luotettavasti. Jos näkyvyys nousevaan aorttaan on hyvä ja tekijä on kokenut, oikea ja väärä luumen sekä sisäkerroksen repeämä voidaan löytää kohtuullisen hyvin. Nousevan aortan osalta menetelmän sensitiivisyys on 77–80 % ja spesifisyys noin 95 %. Ruokatorven kautta tehtävä sydämen ultraäänitutkimus (TEE) on parempi tutkimus, ja sillä saavutetaan kaikissa aortan dissekoitumissa keskimäärin 89–99 %:n sensitiivisyys ja 89 %:n spesifisyys, vaikkakin nousevan aortan yläosa jää usein katveeseen. Seinämänsisäinen verenpurkauma, haavauma ja vamma voidaan useimmiten nähdä varsin hyvin. Joissakin sairaaloissa on suoraan leikkaussaliolosuhteissa tehtävä TEE-tutkimus onkin ensisijainen tutkimus kriittisesti sairaille potilaille aortan dissekoitumaa epäiltäessä. TEE:n tärkein käyttöaihe on kuitenkin toimenpiteiden ohjaaminen leikkaussalissa. 
+
+**TTE ei voi siis poissulkea dissekoitumaa,** mutta rule-in-tutkimuksena se on hyvä diagnoosin nopeassa saamisessa sekä myös auttaa epäselvien dissekoitumien kiinni nappaamisessa (varsinkin A-tyypin; B-tyypissä sensitiivisyys on matalampi). Jos TTE-tutkimuksella saa definitiivisen A-tyypin dissekoituman diagnoosin, niin on mahdollista sairaalan toimintatavoista riippuen siirtää potilas suoraan leikkaussaliin ilman CT-tutkimusta, kunhan vain intraoperatiivinen TEE saadaan järjestettyä.  
+
+![](images/admodalities.png)
+![](images/aascomp.png)
+![](images/aasimagalgo.png)
+
+### Echo-arvio 
+
+Klassisen aortan dissekoituman diagnoosi yleensä perustuu siihen, että voidaan osoittaa intimakieleke (dissection flap, intimal flap), joka jakaa aortan oikeaan luumeniin ja pseudoluumeniin. Tämä voidaan osoittaa niin CT:llä, MRI:llä kuin UÄ:lläkin. 
+
+![](images/adfinding.png)
+![](images/luminadiff.png)
 
 ## Huomioita
 

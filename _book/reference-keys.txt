@@ -139,6 +139,8 @@ koarktaation-echo--tutkimus
 koarktaation-vaikeusaste-ja-hoitovaihtoehdot
 Myohaisongelmat-ja-liitannaisviat
 AAS
+dissekoituman-diagnostiikka
+echo-arvio
 huomioita
 vasen-eteinen
 asd
