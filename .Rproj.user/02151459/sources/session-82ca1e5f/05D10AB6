@@ -1,9 +1,9 @@
 {
     "id": "05D10AB6",
-    "path": "D:/Projektit/ultra/19-Keuhkot.Rmd",
-    "project_path": "19-Keuhkot.Rmd",
+    "path": "D:/Projektit/ultra/20-Keuhkot.Rmd",
+    "project_path": "20-Keuhkot.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2216239403",
     "contents": "",
     "dirty": false,
     "created": 1780827579281.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1780827858,
+    "lastKnownWriteTime": 1783616382,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1780827857056,
+    "last_content_update": 1783616382,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -357,7 +357,7 @@ Seurantaa edellyttävistä koarktaation **liitännäisvioista kaksiliuskainen ao
     <li>dissekoituma</li>
     <li>intramuraalihematooma (IMH)</li>
     <li>penetroiva ateroskleroottinen ulkus (PAU)</li>
-    <li>traumaattinen aortan seinämän laseraatio</li>
+    <li>traumaattinen aortan seinämän laseraatio (ei tosin aina osa AAS:n tyypillistä määritelmää)</li>
   </ul>
 
 ![](images/aorticsyndromes.png)
@@ -383,9 +383,13 @@ Aortan dissekoitumilla on kaksi luokittelutapaa: Stanford (A ja B ja non-A-non-B
     <li>Yleisin dissekoituman lähtökohta on ensimmäiset pari senttiä nousevasta aortasta ja näin **tyypin A on yleisin dissekoitumatyyppi**</li>
   </ul>
 <li>**Stanford B -tyyppi = dissekoituma affisioi vain laskevaa aorttaa**</li>
+  <ul>
     <li>Intiman repeämä sijaitsee a. subclavia sinistrasta distaalisesti. Dissekoituma myös pysyy a. subclavia sinistrasta distaalisesti eikä kulje retrogradisesti kaareen (non-A-non-B) tai nousevaan aorttaan (Stanford A)</li>
+  </ul>
 <li>**Stanford non-A-non-B -tyyppi = dissekoituma affisioi vähintään aortan kaarta, mutta ei nousevaa aorttaa**</li>
+  <ul>
     <li>Intiman repeämä sijaitsee joko distaalisesti vasemmasta solisvaltimosta (veri virtaa retrogradisesti aortan kaareen, mutta ei nousevaan aorttaan) tai truncus brachiocephalicuksen ja vasemman solisvaltimon välissä (veri voi edetä kaarta ja laskevaa aorttaa eteenpäin)</li>
+  </ul>
 
 ![](images/stanford.png)
 
@@ -422,17 +426,64 @@ UÄ:n käyttö akuuteissa dissekoitumissa on taas yleistä. Rintakehän päält�
 
 ![](images/admodalities.png)
 ![](images/aascomp.png)
+![](images/aortadifferentimaging.png)
+
 ![](images/aasimagalgo.png)
 
 ### Echo-arvio 
 
-Klassisen aortan dissekoituman diagnoosi yleensä perustuu siihen, että voidaan osoittaa intimakieleke (dissection flap, intimal flap), joka jakaa aortan oikeaan luumeniin ja pseudoluumeniin. Tämä voidaan osoittaa niin CT:llä, MRI:llä kuin UÄ:lläkin. 
+Klassisen aortan dissekoituman diagnoosi yleensä perustuu siihen, että voidaan osoittaa **intimakieleke (dissection flap, intimal flap), joka jakaa aortan oikeaan luumeniin ja pseudoluumeniin.** Tämä voidaan osoittaa niin CT:llä, MRI:llä kuin UÄ:lläkin. Tämä opas keskittyy nyt ultraäänilöydöksiin ja spesifimmin transtorakaalisen UÄ:n käyttöön. 
+
+TTE mahdollistaa erityisesti aortan proksimaalisten osien tarkastelun -- varsinkin aortan tyvi visualisoituu yleensä hyvin. Myös proksimaalinen nouseva aortta, aortan kaari ja proksimaalinen laskeva aortta sekä myös vatsa-aorttakin ovat usein nähtävissä aika hyvin. 
+
+Aortan tyvi ja proksimaalinen nouseva aortta visualisoituvat parhaiten yleensä PLAX-projektiossa. Alla olevissa videoissa ja kuvissa voidaan nähdä esimerkkejä dissekoitumista. 
+
+![](images/flaps.png)
+
+---
+
+Nuoli osoittaa intimakielekkeen.
+
+![](images/intimaflap.gif)
+
+---
+
+![](images/tadis.gif)
+![](images/dilao.gif)
+
+---
+
+Seuraavat kolme videota samalta potilaalta, jolla vatsakipua ja sekavuutta. Ensimmäisessä näkyy intimakieleke proksimaalisessa aortassa PLAX:ssa ja toisessa supresternaalisti. Kolmannessa näkyy flap vatsa-aortassa asti. Kyseessä oli pitkä aortan A-tyypin dissekoituma.
+
+![](images/wasthataflap.gif)
+![](images/suprasternaltypea.gif)
+![](images/abddiss.gif)
+
+---
+
+Tässä PLAX-projektiossa nähdään tyypin A dissekoituma, jossa intimaan virrannut veri on trombotisoitunut. 
+
+![](images/thromboseddissection.gif)
+
+---
+
+Tyypin B dissekoitumat ovat vaikeampia havaita, mutta suprasternaalisesti voidaan usein nähdä varsinkin doppleria hyödyntämällä false ja true lumen -- true luumenin virtaus on selkeämpää. Tässä alla esimerkki.
+
+![](images/typebtte.gif)
+
+---
+
+Tässä vielä koostettuna echo-löydökset dissekoitumassa. 
 
 ![](images/adfinding.png)
 ![](images/luminadiff.png)
 
-## Huomioita
+### Dissekoituma vs artefakta 
 
+Kaikki "ekstralinjat" aortassa eivät ole dissekoituma. Joskus intimakielekkeen kaltainen linja voi olla ihan vain artefaktaa eikä kuvasta mitään "oikeaa" rakennetta. Yleinen artefakta on ns. **simple reverberation artifact,** joka johtuu siitä, että aortan anteriorisesta seinämästä heijastuva ultraääniaalto heijastuu paluumatkallaan taas anterioriseen seinämään ja näin aalto tekee käytännössä kahden reissun pituisen matkan. Anturi luulee, että toisen kerran seinämästä heijastuva palaava aalto on tehnyt vain yhden reissun ja arvioi paluuajasta, että tuleva aalto tuli oikeaa rakennetta syvemmältä. Tämän takia nähdään artefakta aortan sisällä n. 2 kertaa syvemmällä kuin anteriorinen seinämä. 
 
-![](images/aortadifferentimaging.png)
+Erityisen hyvä työkalu erottamaan tämä artefakta oikeasta intimakielekkeestä on väridoppleri, jolla nähdään normaalit homogeeniset virtaukset eikä "rakenne" häiritse virtauksia.
 
+![](images/artefact.gif)
+![](images/artefact2.gif)
+![](images/artefact3.gif)
