@@ -170,7 +170,9 @@ Sydamesta-johtuvat-ongelmat
 kohonnut-intra-abdominaalinen-paine
 nuoret-urheilijat
 particulate-matter-ja-smoke
-nestevolyymistatuksen-kokonaisarvio-ja-nesteresponsiivisuuden-ennustaminen
+vexus
+nesteet-kokonaisvaltaisesti
+nestevasteisuuden-ennustaminen
 Oikea-puoli
 oikean-kammion-ulottuvuudet
 oikean-kammion-systoliikka
