@@ -171,6 +171,11 @@ kohonnut-intra-abdominaalinen-paine
 nuoret-urheilijat
 particulate-matter-ja-smoke
 vexus
+vaihe-1---ivc
+vaihe-2---maksalaskimo
+vaihe-3---porttilaskimo
+vaihe-4---munuaislaskimo
+vaihe-5---pisteytys-ja-gradeeraus
 nesteet-kokonaisvaltaisesti
 nestevasteisuuden-ennustaminen
 Oikea-puoli

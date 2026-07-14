@@ -245,7 +245,53 @@ Alla on esimerkkejä smokesta. Kaksi ensimmäistä on IVC:stä sydämen oikean p
 
 ## VExUS 
 
-Venous Excess Ultrasound (VExUS) Score on tutkimus, joka arvioi ja pisteyttää IVC:n lisäksi myös maksalaskimon, porttilaskimon ja intrarenaalisen laskimon kongestion. 
+**Venous Excess Ultrasound (VExUS) Score on tutkimus, joka arvioi ja pisteyttää systeeemisen laskimokongestion. Siinä arvioidaan IVC:n lisäksi dopplermittauksilla myös maksalaskimon, porttilaskimon ja intrarenaalisen laskimon kongestio.** Kuten jo aikaisemmin käytiin läpi, niin IVC:n paksuus ja hengitysvaihtelu on hyvin häiriöherkkä mittari (esim. trikuspidaalivuoto, urheilijat), joten on yritetty kehittää paremmin kongestiota havainnollistavia mittareita. VExUS-tutkimuksessa hyödynnettävät elinten (maksan, suoliston ja munuaisten) doppleraallot kuvaavat sitä, miten eri elimet kokevat nestelastin -- protokolla voi toimia myös dekongestiivisen hoidon seurantatyökaluna. 
+
+---
+
+Ennen kuin mennään tarkemmin VExUS-protokollan suorittamiseen, niin käydään nopeasti läpi sen hemodynaamisista periaatteista tärkein: **perfuusiopaine.** Elinten saama verenkierto eli perfuusio perustuu yksinkertaistettuna keskivaltimopaineen (MAP) ja keskuslaskimopaineen (CVP) gradienttiin eli perfuusiopaineeseen (PP = MAP - CVP). Jos ulosvirtauksen (CVP) resistenssi nousee, niin tämä vähentää perfuusiopainetta ja siten vähentää kudoksen saamaa verenkiertoa. Yleensä siis lääketieteessä tupataan keskittymään enemmän kudoksen sisäänvirtaukseen eli keskuslaskimopaineeseen, mutta on myös tärkeää osata huomioida perfuusioon yhtäläisesti osallistuva ulosvirtaus eli laskimopuoli. Ulosvirtauksen painearvio voidaan non-invasiivisesti karkeasti tehdä IVC:llä ja vähän tarkemmin VExUS-protokollalla. 
+
+![](images/perfusionpressure.png)
+
+---
+
+Käydään seuraavaksi läpi tarkemmin VExUS-protokollan suorittaminen. Potilaan tulisi olla selällään tutkimuksen aikana. Soveltuvia antureita ovat phased array- tai curvilinear-anturit; koneessa tulee myös olla pulse wave (PW) -mittauskyvykkyys. 
+
+### Vaihe 1 - IVC 
+
+Ensimmäisessä vaiheessa tulisi tehdä sama IVC:n arvio, joka on jo opetettu tässä kappaleessa. Arvioidaan siis subkostaali-ikkunasta IVC:n paksuus (ja tämän paksuuden vaihtelu hengityksen myötä). Jos IVC < 2cm, niin VExUS on gr 0 eikä merkittävää laskimokongestiota ajatella olevan -> virallisten ohjeiden mukaan ei tarvitse tutkia VExUS-protokollan muita osia. Jos IVC > 2cm, niin voi siirtyä seuraaviin osioihin.
+
+![](images/ivcvexus.png)
+
+### Vaihe 2 - Maksalaskimo
+
+Myös maksalaskimon arvio voidaan tehdä subkostaalisesti, mutta ensisijaisempi on lateraalinen projektio (rescue window) eli anturi asetetaan oikeaan kylkeen n. keskiaksillaarilinjan ja anteriorisen aksillaarilinjan väliin nypy osoittaen potilaan päähän päin. Tässä ikkunassahan näkyi ns. “double barrel shotgun” sign eli aortta IVC:n "alla" näytöllä. Lisäksi prominenttina näkyy yleensä myös kolmas suoni, joka on nyt arvioitava maksalaskimo. Maksalaskimot ovat ohutseinäisiä maksan sisäisiä rakenteita, jotka yhdistyvät alaonttolaskimoon. 
+
+Ensimmäisessä kuvassa on subkostaalinen ikkuna (HV = maksalaskimo) ja toisessa lateraalinen ikkuna. 
+
+![](images/hvsubcostal.png)
+
+![](images/vexushvvisualisation.png)
+
+Kun on saanut maksalaskimon hyvin näkyviin, niin tulisi laittaa väridopplerlaatikko sen päälle. Virtauksen tulisi olla pääasiassa sinistä eli poispäin anturista. Sitten suoneen asetetaan PW-sample gate n. 1-2cm poispäin HV-IVC-junktiosta, kun alla olevassa esimerkkivideossakin (huomioi, että kyseessä on standard-modessa tehty kuvantaminen eli peilikuva cardiac modesta, jossa indikaattori on näytön oikealla). 
+
+![](images/hvvexus.gif)
+
+---
+
+
+
+### Vaihe 3 - Porttilaskimo 
+
+
+
+### Vaihe 4 - Munuaislaskimo
+
+
+
+### Vaihe 5 - Pisteytys ja gradeeraus
+
+
 
 ## Nesteet kokonaisvaltaisesti 
 
