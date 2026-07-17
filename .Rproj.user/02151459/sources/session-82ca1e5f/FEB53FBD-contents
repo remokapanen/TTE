@@ -265,7 +265,7 @@ Ensimmäisessä vaiheessa tulisi tehdä sama IVC:n arvio, joka on jo opetettu t�
 
 ### Vaihe 2 - Maksalaskimo
 
-Myös maksalaskimon arvio voidaan tehdä subkostaalisesti, mutta ensisijaisempi on lateraalinen projektio (rescue window) eli anturi asetetaan oikeaan kylkeen n. keskiaksillaarilinjan ja anteriorisen aksillaarilinjan väliin nypy osoittaen potilaan päähän päin. Tässä ikkunassahan näkyi ns. “double barrel shotgun” sign eli aortta IVC:n "alla" näytöllä. Lisäksi prominenttina näkyy yleensä myös kolmas suoni, joka on nyt arvioitava maksalaskimo. Maksalaskimot ovat ohutseinäisiä maksan sisäisiä rakenteita, jotka yhdistyvät alaonttolaskimoon. 
+Myös maksalaskimon arvio voidaan tehdä subkostaalisesti. Toinen vaihtoehto (monissa lähteissä ensisijainen) on lateraalinen projektio (rescue window) eli anturi asetetaan oikeaan kylkeen n. keskiaksillaarilinjan ja anteriorisen aksillaarilinjan väliin nypy osoittaen potilaan päähän päin. Tässä ikkunassahan näkyi ns. “double barrel shotgun” sign eli aortta IVC:n "alla" näytöllä. Lisäksi prominenttina näkyy yleensä myös kolmas suoni, joka on nyt arvioitava maksalaskimo. Maksalaskimot ovat ohutseinäisiä maksan sisäisiä rakenteita, jotka yhdistyvät alaonttolaskimoon. 
 
 Ensimmäisessä kuvassa on subkostaalinen ikkuna (HV = maksalaskimo) ja toisessa lateraalinen ikkuna. 
 
@@ -279,19 +279,59 @@ Kun on saanut maksalaskimon hyvin näkyviin, niin tulisi laittaa väridopplerlaa
 
 ---
 
+Normaalilla ei-kongestoituneella potilaalla on kolme (-neljä) erillistä aaltoa: pieni positiivinen deflektio (A-aalto) ja kaksi negatiivista deflektiota (S- ja D-aallot). S- ja D-aaltojen välillä on ns. V-aalto. 
 
+<li>A-aalto = Atrial contraction eli eteissystole nostaa painetta oikeassa eteisessä ja tuottaa myöhäisdiastolisen retrogradisen virtauksen IVC:hen ja maksalaskimoihin</li>
+<li>S-aalto = Ventricular systole eli oikea kammion supistuessa trikuspidaaliannulus vetäytyy apikaalisesti -> oikean kammion paineen tippuminen -> anterogradinen virtaus maksalaskimoista ja IVC:stä oikeaan eteiseen</li>
+<li>V-aalto = Atrial overflow eli kuvastaa oikean eteisen maksimaalista täyttymistä, jolloin virtaus maksalaskimoissa ja IVC:ssä hidastuu -> S-aalto palaa takaisin perustasolle ja voi jopa olla mahdollisesti pientä retrogradista "rekoilia", jolloin V-aalto nousisi perusviivan yläpuolelle</li>
+<li>D-aalto = Ventricular diastole eli trikuspidaaliläpän avautuessa verta virtaa oikeasta eteisestä oikeaan kammioon -> nettovirtaus poispäin maksasta -> aaltokäyrässä taas negatiivinen deflektio</li>
+
+![](images/hvpw.png)
+
+Aaltoja ja niiden suhteita voidaan käyttää päätellessä laskimokongestion tilannetta. **Normaalisti S-aalto on suurempi kuin D-aalto (kirjataan "S>D" tai "S/D-suhde positiivinen"). Laskimokongestion lisääntyessä S/D-suhde kääntyy (S<D) ja lopulta systolinen osuus näkyy positiivisena deflektiona (S-wave reversal).** 
+
+![](images/hvincongestion.png)
+![](images/hvcongestions.png)
 
 ### Vaihe 3 - Porttilaskimo 
 
+Seuraavaksi tarkastellaan maksan alueelta toista laskimoa: **porttilaskimoa (portal vein).** Porttilaskimo on siis suuri laskimo, joka kuljettaa ravinnerikasta mutta vähähappista verta ruoansulatuskanavasta, pernasta ja haimasta suoraan maksaan prosessoitavaksi. Sen muodostavista suonista isoimmat ovat v. mesenterica superior (SMV) ja v. lienalis (splenic vein), jotka yhdistyvät haiman takana -- v. mesenterica inferior (IMV) myös syöttää tätä systeemiä ja yleensä dreneeraa v. lienalikseen ennen porttilaskimoon yhdistymistä. 
 
+![](images/pvanatomy.png)
+
+Porttilaskimon visualisoiminen onnistuu samoin kuin maksalaskimo joko subkostaalisesti tai oikealta lateraalisesti. Porttilaskimon usein tunnistaa sen hyperekoiisista (ei aina kovinkaan selkeästi) seinämistä ja väridopplerilla punaisesta/oranssista virtauksesta (virtaus on maksaan eli anturiin päin). 
+
+![](images/portalvein.png)
+![](images/portalvein2.png)
+![](images/pv3.png)
+
+Porttilaskimon tunnistamisen jälkeen sen sisälle laitetaan PW-gate ja kerätään virtauksen aaltomuoto. **Normaali porttilaskimovirtaus on positiivisesti monofaasinen ja sen maksimaalisen ja minimaalisen virtausnopeuden variaatio on pieni (<30%) eikä virtaus käänny koskaan negatiiviseksi.** Kongestion noustessa virtauden nopeusvaihtelu kasvaa ja aaltoilusta tulee pulsatiilimpi. Virtaus voi jopa kääntyä negatiiviseksi (reversal of flow; alempi kuva). 
+
+![](images/portalveinwaveforms.png)
+![](images/reversal.png)
 
 ### Vaihe 4 - Munuaislaskimo
 
+Viimeiseksi arvioidaan vielä **munuaislaskimovirtaukset.** Munuaisen echo-anatomia on hyvä tunnistaa ja käydään se yksinkertaisesti läpi nyt: 
 
+Ekogeeninen kapseli tekee munuaisesta helposti erotettavan. Korteksi on yleensä isoekooinen tai hypoekooinen (yleisemmin) verrattuna normaaliin maksaan tai pernaan. Medullaariset pyramidit ovat hypoekooisia tai anekooisia verrattuna korteksiin (useimmiten pyramidaalinen muoto ei kuitenkaan visualisoidu kovinkaan hyvin). Kortikaalinen kudos ylettyy medullaan saakka Bertin kolumneina erottaen pyramidit toisistaan. Munuaisen keskellä sijaitsevaa ekogeenistä rasvakudosta kutsutaan sinusrasvaksi (renal sinus fat). Munuaisallas (renal pelvis) on hypoekooinen, mutta ei musta tai merkittävän suuri ellei ole hydronefroosia. Munuaisia ruokkii yksi muinuaisvaltimo ja dreneeraa yksi laskimo. 
+
+![](images/kidneyusanatomy.png)
+![](images/renalflow.png)
+
+Munuaisten visualisaatio onnistuu samasta paikkaa kuin yleensä arvioidaan askites / hemoabdomen ja pleuranestekin eli lateraalisesti pitkittäisakselissa. Kannattaa laittaa väridoppler päälle, niin näkee interlobaariset virtaukset paremmin ja sitten voi asettaa PW-gaten virtauksen päälle korteksissa. Valtimo- ja laskimovirtauksen samanaikainen mittaaminen on tyypillistä, eli käyrässä nähdään niin positiivinen (arteriaalinen) kuin negatiivinen (laskimoperäinen) komponentti. 
+
+![](images/renalveindoppler.gif)
+![](images/renalveindoppler2.gif)
+
+Samoin kuten porttilaskimovirtauksissa, niin normaalivirtaus on jatkuvaa ja vaihtelevuudeltaan vähäistä (pääasiassa nyt siis puhutaan laskimopuolesta eli negatiivisesta deflektiosta). Kun kongestio lisääntyy, niin aluksi virtauksesta tulee bifaasista ja sitten monofaasista (vain diastolinen virtaus näkyy). 
+
+![](images/renalveinwaveform.png)
+![](images/renalflow3.png)
 
 ### Vaihe 5 - Pisteytys ja gradeeraus
 
-
+![](images/vexusgrading.png)
 
 ## Nesteet kokonaisvaltaisesti 
 
