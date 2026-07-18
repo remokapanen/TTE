@@ -462,6 +462,10 @@ Tätä ei tietystikään saa tehdä, jos on epäily kohonneista vatsaontelopaine
 
 ![](images/passivelegraise.png)
 
+![](images/algo.png)
+
 ### Nestetoleranssi
 
-Nestetoleranssia voi arvioida mm. tutkimalla merkkejä kohonneista LV:n täyttöpaineista (E/A >2, E/e' >13 yms.; kts. diastoliikka-kappale). 
+Nestetoleranssi tarkoittaa potilaan kykyä ottaa vastaan nesteitä ilman kongestio-ongelmia. Jos toleranssi ylittyy, niin sitä voi arvioida mm. tutkimalla merkkejä kohonneista LV:n täyttöpaineista (E/A >2, E/e' >13 yms.; kts. diastoliikka-kappale). Tietysti myös kannattaa tutkia kongestion suoria merkkejä eli B-viivoja keuhkoista, pleuranesteilyä, VExUS-scorea yms. 
+
+Nestebolusten annon jälkeen tulisi siis muistaa myös seurata potilasta ja suorittaa toistuvia arviointeja, jotta haitallista nestelastia ei pääse kertymään. 

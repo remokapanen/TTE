@@ -183,6 +183,7 @@ munuaislaskimo
 gradeeraus-ja-tulkinta
 volyymistatus-ja-nestevasteisuus
 nestevasteisuuden-ennustaminen
+nestetoleranssi
 Oikea-puoli
 oikean-kammion-ulottuvuudet
 oikean-kammion-systoliikka
