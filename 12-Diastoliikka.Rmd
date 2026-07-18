@@ -389,7 +389,7 @@ Bonus: Jos gradus on 1, mutta potilas on selkeästi oireinen (erityisesti hengen
 <li>Testi on positiivinen, jos E/avg e' nousee ≥ 14 (tai E/sep e' ≥ 15) ja TR:n huippu on ≥ 3.2 m/s. Jos E/e' on koholla, mutta TR on 2.8-3.2, niin HFpEF ei ole varma, mutta mahdollinen. Pelkkä kohonnut TR ei ole erityisenkään tarkka löydös, koska TR voi nousta liittyen lisääntyneeseen keuhkovirtaukseen.</li>
 
 
-### Vaihe 7 - Poikkeustilanteiden huomioiminen {Vaihe-7}
+### Vaihe 7 - Poikkeustilanteiden huomioiminen {#Vaihe-7}
 
 Diastoliikan arviointia voi häiritä todella monet asiat. Algoritmissa onkin mainittu seuraavat erityisryhmät, joissa normaali gradeeraus ei täysin päde:
 

@@ -176,7 +176,12 @@ vaihe-2---maksalaskimo
 vaihe-3---porttilaskimo
 vaihe-4---munuaislaskimo
 vaihe-5---pisteytys-ja-gradeeraus
-nesteet-kokonaisvaltaisesti
+sudenkuopat-vexus
+maksalaskimo
+porttilaskimo
+munuaislaskimo
+gradeeraus-ja-tulkinta
+volyymistatus-ja-nestevasteisuus
 nestevasteisuuden-ennustaminen
 Oikea-puoli
 oikean-kammion-ulottuvuudet
@@ -202,7 +207,7 @@ pulmonaalivuoto
 keuhkolaskimovirtaukset-1
 keuhkolaskimovirtaukset-diastoliikassa
 Vaihe-6
-vaihe-7---poikkeustilanteiden-huomioiminen-vaihe-7
+Vaihe-7
 Mitraaliongelmat
 mitraalistenoosi-ms
 mitraalivuoto-mr

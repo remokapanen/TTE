@@ -275,7 +275,10 @@ Ensimmäisessä kuvassa on subkostaalinen ikkuna (HV = maksalaskimo) ja toisessa
 
 Kun on saanut maksalaskimon hyvin näkyviin, niin tulisi laittaa väridopplerlaatikko sen päälle. Virtauksen tulisi olla pääasiassa sinistä eli poispäin anturista. Sitten suoneen asetetaan PW-sample gate n. 1-2cm poispäin HV-IVC-junktiosta, kun alla olevassa esimerkkivideossakin (huomioi, että kyseessä on standard-modessa tehty kuvantaminen eli peilikuva cardiac modesta, jossa indikaattori on näytön oikealla). 
 
+**Huom! VExUS-mittauksissa (niin maksalaskimo, portttilaskimo kuin munuaislaskimo) potilaan tulisi pidättää hengitystään loppuekspiraatiossa (ei tarvitse pakotettua puhallusta niin, että kaikki ilma olisi pihalla, mutta normaalin uloshengityksen jälkeen tulisi pysäyttää hengitys mittauksen ajaksi).** Tämä vähentää hengityksen aiheuttamasta elinten liikkumisesta johtuvaa artefaktaa ja mahdollistaa standardoidummat mittaukset. 
+
 ![](images/hvvexus.gif)
+![](images/hvcollage.png)
 
 ---
 
@@ -287,6 +290,7 @@ Normaalilla ei-kongestoituneella potilaalla on kolme (-neljä) erillistä aaltoa
 <li>D-aalto = Ventricular diastole eli trikuspidaaliläpän avautuessa verta virtaa oikeasta eteisestä oikeaan kammioon -> nettovirtaus poispäin maksasta -> aaltokäyrässä taas negatiivinen deflektio</li>
 
 ![](images/hvpw.png)
+![](images/hvwaveforms.png)
 
 Aaltoja ja niiden suhteita voidaan käyttää päätellessä laskimokongestion tilannetta. **Normaalisti S-aalto on suurempi kuin D-aalto (kirjataan "S>D" tai "S/D-suhde positiivinen"). Laskimokongestion lisääntyessä S/D-suhde kääntyy (S<D) ja lopulta systolinen osuus näkyy positiivisena deflektiona (S-wave reversal).** 
 
@@ -323,17 +327,75 @@ Munuaisten visualisaatio onnistuu samasta paikkaa kuin yleensä arvioidaan askit
 
 ![](images/renalveindoppler.gif)
 ![](images/renalveindoppler2.gif)
+![](images/irv.png)
+
 
 Samoin kuten porttilaskimovirtauksissa, niin normaalivirtaus on jatkuvaa ja vaihtelevuudeltaan vähäistä (pääasiassa nyt siis puhutaan laskimopuolesta eli negatiivisesta deflektiosta). Kun kongestio lisääntyy, niin aluksi virtauksesta tulee bifaasista ja sitten monofaasista (vain diastolinen virtaus näkyy). 
 
 ![](images/renalveinwaveform.png)
-![](images/renalflow3.png)
+![](images/irvd.png)
 
 ### Vaihe 5 - Pisteytys ja gradeeraus
 
+Mittausten jälkeen voidaan lopulta koota tiedot ja arvioida systeemisen laskimokongestion vaikeusaste. **VExUS-scoren perusteella kongestio on jaettu neljään eli graduksiin 0-3.**
+
+<li>Gradus 0 tarkoittaa sitä, että merkittävää laskimokongestiota ei ole</li>
+<li>Gradus 1 = lievä laskimokongestio</li>
+<li>Gradus 2 = kohtalainen laskimokongestio</li>
+<li>Gradus 2 = vaikea laskimokongestio</li>
+
+---
+
+**Gradeeraus on yodella yksinkertaista: Jos IVC on < 20 mm, niin gradus on suoraan 0. Siitä eteenpäin gradus nousee sen myötä, mitä enemmän merkittävän kongestion aaltomuotoja on todettavissa.** 
+
+<li>Gr 1 = Ei yhtään merkittävän kongestion aaltomuotoa</li>
+<li>Gr 2 = 1 merkittävän kongestion aaltomuoto</li>
+<li>Gr 3 = 2 tai 3 merkittävän kongestion aaltomuotoa</li>
+<li>Merkittävän kongestion aaltomuodot olivat siis:</li>
+  <ul>
+    <li>Maksalaskimo: Systolinen osuus näkyy positiivisena deflektiona (S-wave reversal)</li>
+    <li>Porttilaskimo: >50% pulsatiilisuus</li>
+    <li>Munuaislaskimo: Monofaasinen (vain D-deflektiot)</li>
+  </ul>
+
 ![](images/vexusgrading.png)
 
-## Nesteet kokonaisvaltaisesti 
+### Sudenkuopat -- VExUS 
+
+VExUS ei ole täydellinen työkalu ja kuten kaikissa UÄ-tutkimuksissa, siihen liittyy monia sudenkuoppia, jotka tulee pitää mielessä. 
+
+#### Maksalaskimo 
+
+**Eteisvärinä** on yleinen häiriötekijä monien UÄ-mittausten yhteydessä -- samoin nyt taas maksalaskimodopplerissa. Eteisvärinä voi aiheuttaa A-aallon puuttumista ja S-aallon heikentymistä (S<D) ilman merkittävää oikean kammion paineiden (RAP) kohoamista. Myös muut rytmiongelmat, kuten pidentynyt PQ-aika (PR-interval) voivat johtaa vääriin tulkintoihin aaltomuodoista ilman samanaikaista EKG:ta. 
+
+**Maksakirroosi** (ja myös hieman rasvamaksakin) voivat aiheuttaa aaltomuotojen tylpistymistä ja sydänvaiheittaisuuden menetyksen. 
+
+**Merkittävä trikuspidaalivuoto** voi aiheuttaa pysyvää S-aallon kääntymistä, joka ei poistu volyymireduktiolla. S-aallon kääntyminen kyllä yleensä indikoi laskimokongestiota ja voi olla yhteydessä vaurioon kongestoituneissa elimissä, mutta ei aina toimi hyvänä nesteenpoiston ohjaajana. 
+
+![](images/ecghv.png)
+![](images/hvblunting.png)
+
+#### Porttilaskimo
+
+**Laihoilla potilailla ja urheilijoilla** voi olla kohonnut pulsatiili-indeksi porttilaskimossa ilman merkittävää laskimokongestiota. 
+
+**Kirroosissa ja portaalihypertensiossa** aaltomuoto voi visualisoitua matalanopeuksisena jatkuvana virtauksena tai vaikeissa tapauksissa ns. hepatofugaalisena virtauksena eli täydellisenä virtauksen kääntymisenä. 
+
+**Hengitysvariaatio** voi aiheuttaa aaltojen amplitudissakin vaihtelua ja tämä voidaan väärin tulkita sydänperäiseksi pulsaatioksi. VExUS-mittauksissa potilaanhan kannattaisi pidättää hengitystään loppuekspiraatiossa, mutta kaikki potilaat eivät ole ko-operoivia tai pysty tähän. 
+
+#### Munuaislaskimo
+
+Munuaislaskimon virtauksien saaminen voi olla vaikeampaa kuin portti- tai maksalaskimon, varsinkin phased array -anturilla ja cardiac presetillä (kannattaakin vaihtaa vatsa-moodiin kone, jos mahdollista). Munuaisvirtauksien tulkitsemista ei myöskään oikein ole tutkittu kroonisissa munuaissairauksissa tai munuaissiirrepotilailla. 
+
+#### Gradeeraus ja tulkinta
+
+**VExUS tulisi aina tulkita kliinisessä kontekstissa ja integroituna muihin tutkimuksiin,** kuten anamneesiin, statukseen, labroihin ja kuvantamiseen. Optimaalisesti kardiopulmonaalinen UÄ-tutkimus tulisi aina tehdä sen lisäksi. VExUS ei suoraan sanoa, tulisiko nesteitä poistaa vai ei tai miten potilas vastaisi nestehoitoon/dekongestioon.  
+
+Esimerkiksi perikardiumeffuusiosta johtuva sydämen täyttymistoiminnan aleneminen johtaa kylläkin kongestioon ja korkeaan VExUS-scoreen, mutta liiallinen dekongestio perikardiumin tilannetta tunnistamatta voi johtaa tamponaatioon vähentämällä intrakardiaalisia paineita suhteessa perikardiaaliseen kompressioon. 
+
+VExUS siis indikoi vain yhtä komponenttia hemodynaamisesta kierrosta eikä sitä tulisi käyttää kaikkia muita arvioita korvaavana mittarina. 
+
+## Volyymistatus ja nestevasteisuus 
 
 Usein sen sijaan, että lääkäriä kiinnostaisi potilaan tarkka volyymistatus, niin tarkempi kysymys lääkärin mielessä on seuraava: **"Minulla on syytä ajatella, että potilaani minuuttitilavuus on riittämätön vastaamaan kudosten metaboliset tarpeet. Jos lisään laskimopaluuta antamalla suonensisäisiä nesteitä, johtaako se todennäköisesti minuuttitilavuuden ja siten kudosperfuusion paranemiseen? Tarvitseeko potilas sittenkin vasopressoreita vai diuresointia?"**
 
@@ -344,14 +406,14 @@ Kudosperfuusio on siis pitkälti minuuttitilavuuden määrittämää ja minuutti
 Määritellään aluksi muutama keskeinen termi: 
 
 <li>**Volyymistatus** (Volume status) = Tilavuus intravaskulaarista nestettä, joka on potilaan verenkierrossa ja useimmiten heijastuu potilaan preloadina</li>
-<li>**Nestevasteisuus** (Fluid responsiveness) = Minuttitilavuuden 10 - 15 % suureneminen n. 10-30 minuutissa annetun 200 - 500 ml:n nestetäytön jälkeen</li>
+<li>**Nestevasteisuus** (Fluid responsiveness) = Minuuttitilavuuden 10 - 15 % suureneminen n. 10-30 minuutissa annetun 200 - 500 ml:n nestetäytön jälkeen</li>
 <li>**Nestetoleranssi** (Fluid tolerance) = Potilaan kyky vastaanottaa lisänesteitä ilman, että elindysfunktiota alkaa kehittymään</li>
 
 ---
 
-Frank-Starlingin lain mukaan kammion kontraktiovoima on suhteellinen sen esikuormaan eli lihassäikeiden venyttymiseen ennen supistumista. Täten vasemman kammion loppudiastolista tilavuutta (LVEDV) nostettaessa voidaan myös nostaa iskutilavuutta -- ainakin tiettyyn pisteeseen saakka (liiallisessa venyttyksessä myosiini ja aktiini ovat liian kaukana toisistaan ja SV pysyy tasaisena tai jopa laskee). 
+Frank-Starlingin lain mukaan kammion kontraktiovoima on suhteellinen sen esikuormaan eli lihassäikeiden venyttymiseen ennen supistumista. Täten vasemman kammion loppudiastolista tilavuutta (LVEDV) nostettaessa voidaan myös nostaa iskutilavuutta -- ainakin tiettyyn pisteeseen saakka (liiallisessa venytyksessä myosiini ja aktiini ovat liian kaukana toisistaan ja SV pysyy tasaisena tai jopa laskee). 
 
-Potilaan ollessa nestevasteinen muutokset iskutilavuudessa korostuvat ja osoittavat potilaan sijaitsevan Frank - Starlingin käyrän "jyrkällä osuudella". On kuitenkin muistettava, että nestevasteisuus ilmiönä on täysin fysiologinen eikä sinänsä edellytä korjaamista. **Yksinään nestevasteisuuden toteaminen ei ole aihe nesteenantoon, vaan nestevasteisuuden on aina yhdistyttävä huoleen riittämättömästä perfuusiosta, jotta nesteenanto olisi perusteltua.**
+Potilaan ollessa nestevasteinen muutokset iskutilavuudessa korostuvat ja osoittavat potilaan sijaitsevan Frank-Starlingin käyrän "jyrkällä osuudella". On kuitenkin muistettava, että nestevasteisuus ilmiönä on täysin fysiologinen eikä sinänsä edellytä korjaamista. **Yksinään nestevasteisuuden toteaminen ei ole aihe nesteenantoon, vaan nestevasteisuuden on aina yhdistyttävä huoleen riittämättömästä perfuusiosta, jotta nesteenanto olisi perusteltua.**
 
 <li>Liiallista nesteytystä on vältettävä aina, kun mahdollista. Se johtaa kudosödeemaan ja siitä johtuviin ongelmiin, kuten hengitysdysfunktioon, heikentyneeseen haavojen paranemiseen ja intra-abdominaaliseen hypertensioon. </li>
 
@@ -368,7 +430,7 @@ Potilaan ollessa nestevasteinen muutokset iskutilavuudessa korostuvat ja osoitta
   </ul>
 <li>70-vuotias mies ollut 5 päivää osastolla pneumonian hoidossa. Tulee hyvin kontaktiin. Verenpaine 131/70, syke 75/min. Hengitystaajuus 18, hengitys rauhallista. Vointi mennyt etenevästi parempaan suuntaan. </li>
   <ul>
-    <li>Potilaan vointi on stabiili ja menossa parempaan suuntaan. Ei ole (ainakaan näillä tiedoilla) syytä ajatella, että kudosperfuusio ei ole riittävä. </li>
+    <li>Potilaan vointi on stabiili ja menossa parempaan suuntaan sekä vitaalit ovat kunnossa. Ei ole (ainakaan näillä tiedoilla) syytä ajatella, että kudosperfuusio ei ole riittävä. </li>
     <li>Kliinisesti merkittävän nestevasteisuuden pre-test-todennäköisyys on matala ja liialliset nesteet voivat olla jopa haitallisia potilaalle -> ei tarvitse UÄ-avusteista volyymistatuksen tai nestevasteisuuden tutkimuksia tai lisänesteiden annostelua</li>
   </ul>
 
@@ -389,3 +451,17 @@ Lisätutkimukset ovat hyödyllisiä pääasiassa tilanteissa, joissa nestevastei
   </ul>
 
 ---
+
+Eniten tutkimusnäyttöä tällä hetkellä dynaamisista testeistä on tullut passiivisesta alaraajojen nostosta. Idea on siis se, että alaraajojen laskimostossa on n. 300-500 ml nestettä, joka saadaan jalat nostamalla sentraalisempaan kiertoon. Voidaan siis käytännössä antaa transientisti ja palautettavasti potilaalle n. 300-500 ml nestebolus ilman, että oikeasti annostellaan mitään nesteitä. 
+
+Optimaalisesti jalat tulisi nostaa sängyn päätyä nostamalla, mutta tarvittaesas voi pyytää toista henkilöä nostamaan potilaan jalat 45 asteen kulmaan ylös, jos tähän kykenevää sänkyä ei ole käytössä. Tätä asentoa pidetään n. 60-90 sekuntia. 
+
+Etukäteen tulisi olla mitannut potilaan **LVOT VTI** (lisää tästä aorttastenoosikappaleessa), kun potilas on 45 asteen kulmassa toisin päin eli pää koholla. LVOT VTI saadaan viisilokerokuvasta, kun PW-gate on ulosvirtauskanavassa. Se siis käytännössä kuvastaa nyt iskutilavuutta (ei suoraan, mutta LVOT VTI:n ja LVOT Diam kautta laskettaisiin iskutilavuus). Jos jalkojen nosto lisää LVOT VTI:tä >12%:lla, se viittaa potilaan olevan todennäköisesti nestevasteinen.  
+
+Tätä ei tietystikään saa tehdä, jos on epäily kohonneista vatsaontelopaineista tai kallonsisäisistä paineista. 
+
+![](images/passivelegraise.png)
+
+### Nestetoleranssi
+
+Nestetoleranssia voi arvioida mm. tutkimalla merkkejä kohonneista LV:n täyttöpaineista (E/A >2, E/e' >13 yms.; kts. diastoliikka-kappale). 
