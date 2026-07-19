@@ -191,6 +191,13 @@ rv-outflow-rvot--ulottuvuudet
 Seinamat
 viitearvot
 oikean-kammion-systoliikka
+tapse
+tapsen-viitealueet
+tapsen-sudenkuopat
+Vaara-pohja
+ali--ja-yliarviointi
+vaihtelevuus-rasituksessa
+s-aalto
 oikean-kammion-diastoliikka
 pulmonaalihypertensio
 trikuspidaaligradientti-ja-keuhkovaltimopaineet
