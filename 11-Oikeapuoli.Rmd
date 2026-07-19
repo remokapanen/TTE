@@ -1,12 +1,87 @@
 # Sydämen oikea puoli {#Oikea-puoli}
 
+Sydämen vasen puoli tuppaa yleensä saamaan merkittävästi enemmän huomiota echoajalta kuin oikea puoli, mutta senkin tutkiminen on tärkeää. Sydämen oikean puolen rakenteisiin ja funktioon vaikuttaa laaja skaala fysiologisia ja patologisia tiloja. 
+
+Käydään aluksi vain mekaaninen mittausten suorittaminen, sitten perehdytään vähän tarkemmin eri tautitiloihin ja erityisesti pulmonaalihypertensioon. 
+
 ## Oikean kammion ulottuvuudet
+
+Oikea kammio (RV) on yleensä vaikeammin arvioitavissa kuin vasen (LV). Oikean kammion seinämät ovat yleensä ohuemmat ja RV:n muoto on enemmän sirppimäinen ja ympäröi luotimaista LV:tä. RV voidaan jakaa kolmeen erilliseen komponenttiin: inlet, trabecular apex ja infundibulum (outflow tract).  Kompleksista muodosta johtuen mikään kuvantamistaso ei täydellisesti visualisoi kaikki komponentteja.
+
+![](images/rvshape.png)
+
+Oikean kammion arvioiminen tapahtuu yleensä parhaiten apikaalisesta nelilokerokuvasta -- mutta tällä kertaa RV:lle optimoituna. Yleensähän klassinen A4C on LV-sentrinen eli kuva optimoidaan LV:n suhteen ja ei haittaa, että RV on foreshortened. Jos haluaa visualisoida oikean kammion parhaiten, niin anturia tulisi hieman siirtää lateraalisesti, jotta RV saadaan kuvan keskelle ja **rotatoida normaalista A4C:sta hieman vastapäivään** ja tehdä pieniä peliliikkeitä alueella etsien leikkaustasoa, jossa RV on suurimmillaan.
+
+Lisäksi on muitakin projektioita, joita käytetään muiden kuin sisämittojen arvioimiseen. 
+
+![](images/rvfocus.png)
+![](images/rvfocused.png)
+
+### Sisäulottuvuudet {#Sisaulottuvuudet}
+
+Tästä **RV-focused-projektiosta mitataan RV:n sisäulottuvuudet.** Oikean kammion caliper-mitoista pääasiassa käytetään oikean kammion läpimittaa tyvitasolta (RVD1) ja joskus myös midventrikulaarisesti papillaarilihasten tasolta (RVD2). Näiden lisäksi voi mitata pitkittäisakselin pituuden (RVD3). 
+
+Mittaukset voi tehdä ihan suoraan 2D-kuvasta caliperilla. Ajoitus on **loppudiastole** (eli silloin kun RV on isoimmillaan). 
+
+RVD1 mitataan juuri trikuspidaaliläpän annuluksen päältä ja RVD2 kammion 1./2. kolmanneksen rajalla papillaarilihasten tasolta; mittauslinja tulisi asettaa inner-edge-to-inner-edge samansuuntaisesta trikuspidaaliläpän annuluksen kanssa. RVD3 saadaan, kun mitataan RV:n apeksin ja trikuspidaaliannuluksen välinen pituus. 
+
+<li>Usein vain RVD1 mitataan ja lausutaan; muut mitat ovat selvästi harvinaisemmin käytettyjä kirjallisuudessa ja kliinisesti.</li>
+
+![](images/rvd1to3.png)
+![](images/rvdimensions.png)
+
+Lisäksi voidaan piirtää kammion pinta-alat loppudiastolessa (RVEDA) ja -systolessa (RVESA). Piirtäessä ei tule huomioida papillaarilihaksia tai trabekulaatioita tai moderator bandia (kts. LV-kappaleesta osio moderator band). Näiden suhteesta voidaan vielä laskea fraktionaalinen pinta-alan muutos (FAC = (RV EDA - RV ESA) / RV EDA x 100); ei siis ole ejektiofraktio (FAC on ejektiofraktiota pienempi). 
+
+![](images/rveda.png)
+![](images/rvesa.png)
+
+
+### RV Outflow (RVOT) -ulottuvuudet 
+
+Kaikki RVOT:n mittaukset tehdään parasternaalisesti -- niin pitkittäisakselia (PLAX) kuin poikkileikkausta (PSAX) voidaan hyödyntää. 
+
+Mittaukset suoritetaan **loppudiastolessa** (RV isoimmillaan) ja inner-edge-to-inner-edge. Koneelle ei sinänsä tarvitse kertoa mitä mittaa, joten caliper riittää. 
+
+**Proksimaalinen RVOT** voidaan mitata PLAX:sta RV:n anteriorisesta seinämästä (vapaa seinämä, RVFW) kammioväliseinämään. Tästä projektiosta saatua mittaa kutsutaan myös oikean kammion sisäläpimitaksi diastolessa (RVIDD). Myös PSAX:sta voi mitata proksimaalisen RVOT:n ja tällöin mittaus tehdään vapaasta seinämästä aorttaläppään. Mittaukset voivat vaihdella jopa 40% tasojen välillä. 
+
+**Distaalinen RVOT** mitataan PSAX:sta (tai tarkemmin ottan pulmonaaliläpän bifurkaatioikkunasta) pulmonaaliläpän annuluksesta hieman proksimaalisesti RV:n vapaasta seinämästä aortan lateraaliseinämään. 
+
+![](images/rvotprox2.png)
+![](images/rvotprox.png)
+
+### Seinämät {#Seinamat}
+
+Oikean kammion seinämien paksuuksilla yleensä tarkoitetaan vain **vapaan seinämän paksuutta,** koska kammioväliseinämä tulee mitattua yleisemmin suoritettavien LV:n mittausten yhteydessä. RV:n vapaa seinämä eli lateraaliseinämä on yleensä vasemman kammion vapaata seinämää ohuempi. 
+
+Mittaus suoritetaan loppudiastolessa (kammio isoimmillaan) ensisijaisesti **subkostaalisesti** (joskus mahdollista PLAX:sta). Mittaustaso on RV-inflow eli basaalinen kolmannes trikuspidaaliannuluksen ja papillaarilihasten välillä. Mittauksessa ei oteta mukaan trabekulaatioita (RV:n seinämät usein hyvin trabekuloituneet), papillaarilihaksia tai perikardiaalista rasvaa. Mittaus voidaan suorittaa suoraan 2D-kuvasta tai M-moodilla, mutta nykyään suositellaan enemmän 2D-mittauksia. 
+
+![](images/rvfw.png)
+
+### Viitearvot
+
+Tässä on 2D-kuvantamisessa nykyään käytettävät viitearvot. 3D-kuvantamista ei käsitellä tässä oppaassa.
+
+![](images/rvvalues.png)
+
 
 ## Oikean kammion systoliikka
 
+
+
+## Oikean kammion diastoliikka
+
+
+## Pulmonaalihypertensio 
+
+
+
 ## Trikuspidaaligradientti ja keuhkovaltimopaineet
 
+## Oikea eteinen 
+
 ## Pulmonaaliläppä {#Pulmonaalilappa}
+
+
 
 ## Vasemmalta-oikealle-shuntit 
 

@@ -1,5 +1,5 @@
 --- 
-title: "UKG+"
+title: "TTE"
 author: "Remo Kapanen"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -12,9 +12,9 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# UKG
+# TTE
 
-Tämä opas keskittyy pääasiassa sydämen kaikukuvaukseen (ultraäänikardiografia, UKG, echo, sydämen UÄ), mutta lisäksi käsitellään hieman myös muita mielenkiintoisia ja hyödyllisiä ultraäänilaitteen ja erityisesti phased array-anturin mahdollisia käyttöaiheita. Monissa laitteissa on siis vain yksi anturi kiinnitettynä ja usein se on vaiheanturi (phased array) eli ns. sydänanturi. Sillä voi kuitenkin tehdä paljon muutakin kuin vain katsoa sydäntä.
+Tämä opas keskittyy pääasiassa sydämen kaikukuvaukseen (ultraäänikardiografia, UKG, echo, sydämen UÄ) transtorakaalisesti eli rintakehän läpi skannaten (TTE, Transthoracic Echocardiogram), mutta lisäksi käsitellään hieman myös muita mielenkiintoisia ja hyödyllisiä ultraäänilaitteen ja erityisesti phased array-anturin mahdollisia käyttöaiheita. Monissa laitteissa on siis vain yksi anturi kiinnitettynä ja usein se on vaiheanturi (phased array) eli ns. sydänanturi. Sillä voi kuitenkin tehdä paljon muutakin kuin vain katsoa sydäntä.
 
 ## Aloittelijoille
 

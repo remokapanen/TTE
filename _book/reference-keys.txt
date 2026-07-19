@@ -1,4 +1,4 @@
-ukg
+tte
 aloittelijoille
 checklist
 lyhenteet
@@ -186,8 +186,15 @@ nestevasteisuuden-ennustaminen
 nestetoleranssi
 Oikea-puoli
 oikean-kammion-ulottuvuudet
+Sisaulottuvuudet
+rv-outflow-rvot--ulottuvuudet
+Seinamat
+viitearvot
 oikean-kammion-systoliikka
+oikean-kammion-diastoliikka
+pulmonaalihypertensio
 trikuspidaaligradientti-ja-keuhkovaltimopaineet
+oikea-eteinen
 Pulmonaalilappa
 vasemmalta-oikealle-shuntit
 asd
