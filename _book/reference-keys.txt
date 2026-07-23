@@ -198,6 +198,7 @@ Vaara-pohja
 ali--ja-yliarviointi
 vaihtelevuus-rasituksessa
 s-aalto
+fac
 oikean-kammion-diastoliikka
 pulmonaalihypertensio
 trikuspidaaligradientti-ja-keuhkovaltimopaineet

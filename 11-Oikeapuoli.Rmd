@@ -77,7 +77,7 @@ ASE:n suosituksien mukaan RV:n systolinen toiminta kannattaa arvioida multiparam
 
 ---
 
-Yleisimmät näistä ovat TAPSE ja S'-aalto. Jos aikoo jonkin näistä opiskella, niin kannattaa vähintään TAPSE ottaa haltuun; sen lisänä S'-aalto on myös yleisessä käytössä -- muut ovat harvinaisemmin käytettyjä. 
+Yleisimmät näistä ovat TAPSE ja S'-aalto. Jos aikoo jonkin näistä opiskella, niin kannattaa vähintään TAPSE ottaa haltuun; sen lisänä S'-aalto on myös yleisessä käytössä -- muut ovat harvinaisemmin käytettyjä. FAC (tai bähintään kvalitatiivinen silmämääräisarvio) on myös hyvä lisä, koska se arvioi radiaalista funktiotakin, kun taas TAPSE ja S' kuvastavat vain longitudinaalista funktiota. 
 
 ### TAPSE 
 
@@ -106,6 +106,8 @@ Aikaisemmin TAPSE:n perusteella RV:n funktio on jaettu dikotomisesti vain normaa
 <li>Lievästi alentunut on 13-17 mm</li>
 <li>Kohtalaisesti alentunut on 11-12 mm</li>
 <li>Vaikeasti alentunut on ≤ 10 mm</li>
+
+![](images/tapseseverity.png)
 
 #### TAPSE:n sudenkuopat
 
@@ -141,9 +143,48 @@ Koska TAPSE reagoi herkästi kuormitusmuutoksiin, nykyiset hoitosuositukset koro
 
 ### S'-aalto 
 
-S'aalto eli kudosdopplerilla (TDI) kerätty lateraalisen trikuspidaaliannuluksen systolinen nopeus on konseptiltaan aika samanlainen kuin TAPSE -- arvioidaan siis basaalisella vapaan seinämän toiminnalla RV:n yleistä systoliikkaa. Se on myös yhtä helppo ja toistettavissa oleva kuin TAPSE. 
+S'aalto eli kudosdopplerilla (TDI) kerätty lateraalisen trikuspidaaliannuluksen systolinen nopeus on konseptiltaan aika samanlainen kuin TAPSE -- arvioidaan siis basaalisella vapaan seinämän toiminnalla RV:n yleistä systoliikkaa. Se on myös yhtä helppo ja toistettavissa oleva kuin TAPSE. Yleensä se kannattaa ottaa TAPSEN lisäksi, mutta on hyvä tiedostaa, että niiden ei tarvitse olla yhteneviä tuloksissaan -- epänormaali TAPSE ei suoraan tarkoitta, että S' olisi epänormaali. S':lla on myös samoja ongelmia kuin TAPSE:lla -- se käyttää RV lateraalista tyveä koko kammion funktion mittarina (voi olla muiden alueiden ongelmiakin) ja huono näkyvyys voi johtaa aliarvioimiseen. 
+
+Haetaan siis samanlainen RV-fokusoitu apikaalinen projektio kuin TAPSE:n kanssa ja asetetaan sample gate trikuspidaaliläpän lateraaliannulukseen. Sitten painetaan TDI (tai TDI ja lisäksi PW). Muodostuu aaltomuoto, josta tulee tunnistaa pääasiassa S'-aalto. Se näkyy positiivisena deflektiona (systolessa kammion tyvi liikkuu kohti anturia) yleensä sitä piikikkäämmän ja lyhytkestoisemman isovolumetrisen kontraktion aallon (IVCT) jälkeen. Lisäksi voidaan tunnistaa early (e’) ja late (a’) -diastoliset nopeudet perusviivan alapuolella. Yleensä vain S' mitataan ja siinä riittää ihan vain caliperilla aallon huipun merkkaaminen. 
+
+**Normaali S' on >9.5 cm/s.** Kuten TAPSE:llakin, niin S'-aallolle on nykyään asetettu lievän, keskivaikean ja vaikean aleneman rajat: 
+
+<li>Lievä: 9.5-7.2 cm/s</li>
+<li>Keskivaikea: 7.2- >5.0cm/s</li>
+<li>Vaikea: ≤5.0cm/s</li>
+
+![](images/swave.png)
+![](images/sprime.gif)
+![](images/tapsv.png)
+![](images/sseverity.png)
+
+### FAC 
+
+TAPSE ja S' mittasivat siis käytännössä vain trikuspidaaliläpän annuluksen pitkittäisakselin suuntaista liikettä. RV kylläkin supistuu pääasiassa tässä pitkittäissuunnassa, jonka takia ne ovat hyviä mittareita. **Fraktionaalinen pinta-alan muuttuminen (FAC) ottaa kuitenkin myös huomioon radiaalisen supistumisen,** jota RV:ssäkin kyllä tapahtuu (ei vain niin paljon kuin LV:ssä). Erityisen hyvä mittari FAC on, kun kyseessä on mm. sydänleikkauksen jälkitila, kammiotahdistus tai epänormaali täyttötila. Näissä tiloissa pelkästään longitudinaalista toimintaa mittaavat arvot ovat usein hieman epäluotettavia. 
+
+Vähintäänkin kannattaa ottaa tavaksi arvioida oikean kammion systoliikkaa TAPSE:n ja/tai S':n lisäksi kvalitatiivisesti eli silmämääräisesti. Kvantitaavisena arviona voi lisäksi jaksaessaan myös ottaa käyttöön FAC:n, joka on kaksiulotteinen mittaus RV:n globaalisesta systolisesta funktiosta. 
+
+**FAC:n saa laskettua, kun on mitannut apikaalisesta RV-fokusoidusta projektiosta loppudiastolisen pinta-alan (RV EDA) ja sitten loppusystolisen pinta-alan (RV ESA).** Pitää siis jäädytetystä 2D-kuvasta pyörittää ensin esiin se hetki, jolloin RV on suurimmillaan ja sitten piirtää RV:n pinta-ala. Trace aloitetaan yleensä lateraalisesta annuluksesta, viedään vapaata seinämää pitkin apeksiin ja takaisin kammioväliseinämää mediaaliseen trikuspidaaliannulukseen. Piirtäessä ei tule huomioida papillaarilihaksia tai trabekulaatioita tai moderator bandia. 
+
+Jos koneessa ei ole mahdollista merkata mittauksia ja saada konetta laskemaan tuloksia, niin voi itsekin laskea tai käyttää [laskureita.](https://appcardio.com/rv-fractional-area-change-fac-calculator/) FAC = RV EDA - RV ESA) / RV EDA x 100
+
+Kyseessä ei siis ole ejektiofraktio; FAC on ejektiofraktiota pienempi. Alentuneen FAC:n on kylläkin todettu korreloivan todella hyvin magneettikuvantamisella saadun alentuneen RV EF:n kanssa ja samoin korkea FAC tarkoittaa myös korkeaa ejektiofraktiota. Madaltuneella FAC:lla on myös todettu olevan prognostista arvoa: matala FAC ennustaa kohonnutta mortalititeettia pulmonaalihypertensiossa ja muissa RV:n sairauksissa. 
+
+**Normaali FAC ≥ 35%,** joka korreloi suunnilleen n. 44%:n ejektiofraktioon. FAC 50% taas olisi n. 60% ejektiofraktioksi käännettynä. 
+
+<li>Lievä alenema: <35 - >29%</li>
+<li>Keskivaikea ≤29% - >22%</li>
+<li>Vaikea ≤22%</li>
+
+
+![](images/facmeasurement.png)
+![](images/faccorrect.png)
+![](images/facgrading.png)
+
 
 ## Oikean kammion diastoliikka
+
+
 
 
 ## Pulmonaalihypertensio 
